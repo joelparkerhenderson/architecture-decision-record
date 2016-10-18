@@ -23,17 +23,17 @@ This simple start is for a typical software project. More sophisticated informat
 
 1. Create a directory for the documentation, then the architecture, then the ADR files.
 
-Example directory:
+  Example directory:
 
-    ./doc/arch/adr/
+      ./doc/arch/adr/
 
 2. For each ADR, create a text file. We like to use a title that has a date and a present tense imperative verb phrase, lowercase with dashes, and using markdown.
 
-Example file names:
+  Example file names:
 
-    2016-02-14-handle-more-users.md
-    2016-03-15-strengthen-security.md
-    2016-04-22-improve-energy-efficiency.md
+      2016-02-14-handle-more-users.md
+      2016-03-15-strengthen-security.md
+      2016-04-22-improve-energy-efficiency.md
 
 
 <a name="template-by-michael-nygard"><h2>Template by Michael Nygard</h2></a>
