@@ -23,9 +23,11 @@ This simple start is for a typical software project. More sophisticated informat
 
 1. Create a directory for the documentation, then the architecture, then the ADR files.
 
-  Example directory:
+  Example directory names to choose from:
 
       ./doc/arch/adr/
+      ./doc/architecture/decisions/
+      ./doc/architecture-decision-records/
 
 2. For each ADR, create a text file. We like to use a title that has a date and a present tense imperative verb phrase, lowercase with dashes, and using markdown.
 
