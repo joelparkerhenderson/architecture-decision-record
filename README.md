@@ -11,7 +11,7 @@
 
 <a name="introduction"><h2>Introduction</h2></a>
 
-An architectural decision (AD) is a software design choice that addresses a significant requiremen.t
+An architectural decision (AD) is a software design choice that addresses a significant requirement.
 
 An architectural decision record (ADR) is a way to track an AD, such as by writing notes, or logging information.
 
@@ -54,7 +54,7 @@ This simple start is for a typical software project. More sophisticated informat
 
 This is the template in [Documenting architecture decisions - Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
-In each ARD file, write these sections:
+In each ADR file, write these sections:
 
 * **Title**: short present tense imperative phrase, less than 50 characters, like a git commit message.
 
