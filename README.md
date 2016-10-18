@@ -11,7 +11,7 @@
 
 <a name="introduction"><h2>Introduction</h2></a>
 
-An architectural decision (AD) is a software design choice that addresses a significant requiremen.t
+An architectural decision (AD) is a software design choice that addresses a significant requiremen.
 
 An architectural decision record (ADR) is a way to track an AD, such as by writing notes, or logging information.
 
