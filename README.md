@@ -116,7 +116,7 @@ Alternative 2 is more detailed:
 
 3. Decision documentation
 
-  * Many templates and tools for decisison capturing exist, both in agile communities (e.g., M. Nygard's ADRs[16]) and in traditional software engineering and architecture design processes (e.g., see table layouts suggested by IBM UMF [17] and by Tyree and Akerman from CapitalOne.
+  * Many templates and tools for decisison capturing exist, both in agile communities (e.g., M. Nygard's ADRs) and in traditional software engineering and architecture design processes (e.g., see table layouts suggested by IBM UMF and by Tyree and Akerman from CapitalOne.
 
 4. Decision enactment and enforcement
 
