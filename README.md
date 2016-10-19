@@ -54,7 +54,7 @@ This simple start is for a typical software project. More sophisticated informat
 
 This is the template in [Documenting architecture decisions - Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
-In each ARD file, write these sections:
+In each ADR file, write these sections:
 
 * **Title**: short present tense imperative phrase, less than 50 characters, like a git commit message.
 
