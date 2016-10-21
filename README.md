@@ -10,12 +10,12 @@ ADR templates:
 
 * [ADR template by Michael Nygard](adr_template_by_michael_nygard.md) (simple and popular)
 * [ADR template by Jeff Tyree and Art Akerman](adr_template_by_jeff_tyree_and_art_akerman.md) (more sophisticated)
-* [ADR template for business](adr_template_for_business_case.md) (more MBA-oriented, with costs, reSWOT, )
+* [ADR template for business case](adr_template_for_business_case.md) (more MBA-oriented, with costs, reSWOT, and more opinons)
 
 
 <a name="introduction"><h2>Introduction</h2></a>
 
-An architectural decision (AD) is a software design choice that addresses a significant requiremen.t
+An architectural decision (AD) is a software design choice that addresses a significant requirement.
 
 An architectural decision record (ADR) is a way to track an AD, such as by writing notes, or logging information.
 
@@ -53,7 +53,6 @@ This simple start is for a typical software project. More sophisticated informat
       strengthen_security.md
       improve_energy_efficiency.md
 
-
 3. Write anything you want in the ADR. We like ours to cover these areas at least.
 
 
@@ -64,12 +63,21 @@ This simple start is for a typical software project. More sophisticated informat
   * Action: what are we proposing, or evaluating, or doing, etc.
 
 
+<a name="template-alternatives"><h2>Template ideas</h2></a>
 
-<a name="template-alternatives"><h2>Template alternatives</h2></a>
+* [ADR template by Michael Nygard](adr_template_by_michael_nygard.md) (simple and popular)
+* [ADR template by Jeff Tyree and Art Akerman](adr_template_by_jeff_tyree_and_art_akerman.md) (more sophisticated)
+* [ADR template for business case](adr_template_for_business_case.md) (more MBA-oriented, with costs, reSWOT, and more opinons)
 
-These alternatives are from [Template for documenting architecture alternatives and decisions - Stack Overflow](http://stackoverflow.com/questions/7104735/template-for-documenting-architecture-alternatives-and-decisions)
+The most popular template:
 
-Alternative 1 is simple:
+* Title
+* Status
+* Context
+* Decision
+* Consequences
+
+The most popular additions for perspectives:
 
 * Option Description
 * Pros and Cons
@@ -77,7 +85,7 @@ Alternative 1 is simple:
 * Assumptions and Constraints
 * Points of Note
 
-Alternative 2 is more detailed:
+The most popular additions for more detail:
 
 * Summary
   * Problem Definition
@@ -87,7 +95,7 @@ Alternative 2 is more detailed:
 * Evaluation Criteria
 * Summary of Recommendations
   * Summary
-  * High-Level Comparison Table (This is good for providing an "at a glance" comparison for people who don't want to read a long document; and having a side-by-side comparison is a good idea anyway).
+  * High-Level Comparison Table
 * For each option:
   * Option Description
   * Pros and Cons
