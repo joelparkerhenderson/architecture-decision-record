@@ -25,7 +25,7 @@ This ADR template emphasizes creating a business case for a decision, including 
 
 **Evaluation criteria**:
 
-  * Summary: explain what we seeking to discover and why.
+  * Summary: explain briefly what we seek to discover and why.
 
   * Specifics
 
