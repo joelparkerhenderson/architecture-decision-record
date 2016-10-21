@@ -4,11 +4,11 @@ This ADR template emphasizes creating a business case for a decision, including 
 
 There are two sections 
 
-  * The top-level list
-  * The low-level dive
+  * The top-level highlights
+  * The low-level deep dive
 
 
-## Top-level list
+## Top-level highlights
 
 * **Title**
 * **Status**
