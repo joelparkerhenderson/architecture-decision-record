@@ -1,4 +1,4 @@
-# ADR template for business
+# ADR template for business case
 
 This ADR template emphasizes creating a business case for a decision, including critera, candidates, and costs.
 
@@ -10,6 +10,10 @@ This ADR template emphasizes creating a business case for a decision, including 
 * Evaluation criteria
 * Candidates to consider
 * Research and analysis of each candidate
+  * Does/doesn't meet criteria and why
+  * Cost analysis
+  * SWOT analysis
+  * Opinions and feedback
 * Recommendation
 
 
