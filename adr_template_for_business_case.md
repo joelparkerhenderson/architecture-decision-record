@@ -10,34 +10,41 @@ There are two sections
 
 ## Top-level highlights
 
-* **Title**
-* **Status**
-* **Evaluation criteria**
-* **Candidates to consider**
-* **Research and analysis of each candidate**
-* **Recommendation**
+* Title
+* Status
+* Evaluation criteria
+* Candidates to consider
+* Research and analysis of each candidate
+* Recommendation
 
 
 ## Low-level deep dive
 
+* **Title**
 
-* **Title**: short present tense imperative phrase, less than 50 characters, like a git commit message.
+  * A short present tense imperative phrase, less than 50 characters, like a git commit message.
 
-* **Status**: proposed, accepted, rejected, deprecated, superseded, etc.
+* **Status**
 
-* **Evaluation criteria**: what are we seeking to discover and why.
+  * One of proposed, accepted, rejected, deprecated, superseded, etc.
 
-  * Summary
+* **Evaluation criteria**
+
+  * Summary: explain what we seeking to discover and why.
 
   * Specifics
 
-* **Candidates to consider**: a complete list of all options, i.e. the items that we are evaluating as potential solutions.
+* **Candidates to consider**
 
-  * Summary
+  * Summary: explain briefly how we discovered candidates, and draw attention to any outliers.
+
+  * List all candidates and related options; what are we evaluating as potential solutions?
 
   * Specifics
 
 * **Research and analysis of each candidate**
+
+  * Summary: explain briefly the research methods, and draw attention to patterns, clusters, and outliers.
 
   * Does/doesn't meet criteria and why
 
@@ -128,3 +135,4 @@ There are two sections
   * Summary
 
   * Specifics
+
