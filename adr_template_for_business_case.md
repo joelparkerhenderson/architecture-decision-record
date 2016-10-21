@@ -2,11 +2,6 @@
 
 This ADR template emphasizes creating a business case for a decision, including critera, candidates, and costs.
 
-There are two sections 
-
-  * The top-level highlights
-  * The low-level deep dive
-
 
 ## Top-level highlights
 
@@ -20,21 +15,21 @@ There are two sections
 
 ## Low-level deep dive
 
-* **Title**
+**Title**
 
   * A short present tense imperative phrase, less than 50 characters, like a git commit message.
 
-* **Status**
+**Status**
 
   * One of proposed, accepted, rejected, deprecated, superseded, etc.
 
-* **Evaluation criteria**
+**Evaluation criteria**
 
   * Summary: explain what we seeking to discover and why.
 
   * Specifics
 
-* **Candidates to consider**
+**Candidates to consider**
 
   * Summary: explain briefly how we discovered candidates, and draw attention to any outliers.
 
@@ -42,7 +37,7 @@ There are two sections
 
   * Specifics
 
-* **Research and analysis of each candidate**
+**Research and analysis of each candidate**
 
   * Summary: explain briefly the research methods, and draw attention to patterns, clusters, and outliers.
 
@@ -130,7 +125,7 @@ There are two sections
 
   * Anecdotes
 
-* **Recommendation**
+**Recommendation**
 
   * Summary
 
