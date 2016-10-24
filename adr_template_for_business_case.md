@@ -3,7 +3,7 @@
 This ADR template emphasizes creating a business case for a decision, including critera, candidates, and costs.
 
 
-## Top-level highlights
+## Top-level
 
 * Title
 * Status

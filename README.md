@@ -10,7 +10,8 @@ ADR templates:
 
 * [ADR template by Michael Nygard](adr_template_by_michael_nygard.md) (simple and popular)
 * [ADR template by Jeff Tyree and Art Akerman](adr_template_by_jeff_tyree_and_art_akerman.md) (more sophisticated)
-* [ADR template for business case](adr_template_for_business_case.md) (more MBA-oriented, with costs, reSWOT, and more opinons)
+* [ADR template for Alexandrian pattern[(adr_template_for_alexandrian_pattern.md) (simple with context specifics)
+* [ADR template for business case](adr_template_for_business_case.md) (more MBA-oriented, with costs, SWOT, and more opinions)
 
 
 <a name="introduction"><h2>Introduction</h2></a>
@@ -65,44 +66,82 @@ This simple start is for a typical software project. More sophisticated informat
 
 <a name="template-alternatives"><h2>Template ideas</h2></a>
 
-* [ADR template by Michael Nygard](adr_template_by_michael_nygard.md) (simple and popular)
-* [ADR template by Jeff Tyree and Art Akerman](adr_template_by_jeff_tyree_and_art_akerman.md) (more sophisticated)
-* [ADR template for business case](adr_template_for_business_case.md) (more MBA-oriented, with costs, reSWOT, and more opinons)
-
-The most popular template:
+ADR template by Michael Nygard, which is the simplest and most popular:
 
 * Title
 * Status
 * Context
 * Decision
 * Consequences
+* [more detail](adr_template_by_michael_nygard.md)
 
-The most popular additions for perspectives:
+ADR template using Alexandrian pattern, which is simple and has context specifics:
 
+* Prologue (Summary)
+* Discussion (Context)
+* Solution (Decision)
+* Consequences (Results)
+* [more detail](adr_template_for_alexandrian_pattern.md) 
+
+ADR template for business case, which is MBA-oriented, with costs, SWOT, and  opinions:
+
+* Title
+* Status
+* Evaluation criteria
+* Candidates to consider
+* Research and analysis of each candidate
+  * Does/doesn't meet criteria and why
+  * Cost analysis
+  * SWOT analysis
+  * Opinions and feedback
+* Recommendation
+* [more detail](adr_template_for_business_case.md) 
+
+ADR template by Jeff Tyree and Art Akerman, which is more sophisticated:
+
+* Issue
+* Decision
+* Status
+* Group
+* Assumptions
+* Constraints
+* Positions
+* Argument
+* Implications
+* Related decisions
+* Related requirements
+* Related artifacts
+* Related principles
+* Note
+* [more detail](adr_template_by_jeff_tyree_and_art_akerman.md)
+
+Additional ideas that you may want to consider overall and/or for each option:
+
+* Problem Definition
+* Solution Context
+* Evaluation Criteria
+* Constraints
+* High-Level Comparison Table
 * Option Description
 * Pros and Cons
-* Risks and Issues
-* Assumptions and Constraints
+* Constraints
 * Points of Note
-
-The most popular additions for more detail:
-
-* Summary
-  * Problem Definition
-  * Solution Context
+* RAID log
+  * Risks
   * Assumptions
-  * Constraints
-* Evaluation Criteria
-* Summary of Recommendations
-  * Summary
-  * High-Level Comparison Table
-* For each option:
-  * Option Description
-  * Pros and Cons
-  * Risks and Issues
-  * Assumptions and Constraints
-  * Points of Note
-  * Recommendation
+  * Issues
+  * Dependencies
+* SWOT analysis
+  * Strengths
+  * Weaknesses
+  * Opportunites
+  * Threats
+* Porter's 5 Forces
+  * Supplier power
+  * Buyer power
+  * Competitive rivalry
+  * Threat of substitution
+  * Threat of new entry
 
 
 <a name="lifecycle"><h2>Lifecycle</h2></a>
