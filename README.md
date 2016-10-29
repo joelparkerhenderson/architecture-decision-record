@@ -12,6 +12,7 @@ ADR templates:
 * [ADR template by Jeff Tyree and Art Akerman](adr_template_by_jeff_tyree_and_art_akerman.md) (more sophisticated)
 * [ADR template for Alexandrian pattern[(adr_template_for_alexandrian_pattern.md) (simple with context specifics)
 * [ADR template for business case](adr_template_for_business_case.md) (more MBA-oriented, with costs, SWOT, and more opinions)
+* [ADR template using Planguage](adr_template_using_planguage.md) (more quality assurance oriented)
 
 
 <a name="introduction"><h2>Introduction</h2></a>
@@ -114,6 +115,24 @@ ADR template by Jeff Tyree and Art Akerman, which is more sophisticated:
 * Related principles
 * Note
 * [more detail](adr_template_by_jeff_tyree_and_art_akerman.md)
+
+ADR template using Planguage, which is a planning language for quality assurance:
+
+* Tag
+* Status
+* Author
+* Revision
+* Date
+* Owner
+* Gist
+* Requirement
+* Rationale
+* Priority
+* Stakeholders
+* Risks
+* Assumptions
+* Defined
+* [more detail](adr_template_using_planguage.md)
 
 Additional ideas that you may want to consider overall and/or for each option:
 
