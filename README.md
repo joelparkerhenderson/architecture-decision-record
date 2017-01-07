@@ -2,9 +2,12 @@
 
 * [Introduction](#introduction)
 * [Contributing](#contributing)
-* [Simple start](#simple)
-* [Lifecycle](#lifecycle)
 * [Sources](#sources)
+
+ADR management:
+
+* [Start](adr_start.md)
+* [Lifecycle](adr_lifecycle.md)
 
 ADR templates:
 
@@ -35,160 +38,6 @@ Your comments and suggestions are welcome.
 You can open a GitHub issue, or create a pull request, or email joel@joelparkerhenderson.com.
 
 
-<a name="implementation"><h2>Simple start</h2></a>
-
-This simple start is for a typical software project. More sophisticated information comes later in this page.
-
-1. Create a directory for the documentation, then the architecture, then the ADR files.
-
-  Example directory names to choose from:
-
-      ./doc/arch/adr/
-      ./docs/architectures/decisions/
-      ./documentation/architecture-decision-records/
-
-2. For each ADR, create a text file. We like to use a title that has a date and a present tense imperative verb phrase, lowercase with underscore separators, and using markdown.
-
-  Example file names:
-
-      handle_more_users.md
-      strengthen_security.md
-      improve_energy_efficiency.md
-
-3. Write anything you want in the ADR. We like ours to cover these areas at least.
-
-
-  * Title: short and action-oriented, such as "Choose a database".
-
-  * Context: what is the issue that we're seeing that is motivating this decision or change.
-
-  * Action: what are we proposing, or evaluating, or doing, etc.
-
-
-<a name="template-alternatives"><h2>Template ideas</h2></a>
-
-ADR template by Michael Nygard, which is the simplest and most popular:
-
-* Title
-* Status
-* Context
-* Decision
-* Consequences
-* [more detail](adr_template_by_michael_nygard.md)
-
-ADR template using Alexandrian pattern, which is simple and has context specifics:
-
-* Prologue (Summary)
-* Discussion (Context)
-* Solution (Decision)
-* Consequences (Results)
-* [more detail](adr_template_for_alexandrian_pattern.md) 
-
-ADR template for business case, which is MBA-oriented, with costs, SWOT, and  opinions:
-
-* Title
-* Status
-* Evaluation criteria
-* Candidates to consider
-* Research and analysis of each candidate
-  * Does/doesn't meet criteria and why
-  * Cost analysis
-  * SWOT analysis
-  * Opinions and feedback
-* Recommendation
-* [more detail](adr_template_for_business_case.md) 
-
-ADR template by Jeff Tyree and Art Akerman, which is more sophisticated:
-
-* Issue
-* Decision
-* Status
-* Group
-* Assumptions
-* Constraints
-* Positions
-* Argument
-* Implications
-* Related decisions
-* Related requirements
-* Related artifacts
-* Related principles
-* Note
-* [more detail](adr_template_by_jeff_tyree_and_art_akerman.md)
-
-ADR template using Planguage, which is a planning language for quality assurance:
-
-* Tag
-* Status
-* Author
-* Revision
-* Date
-* Owner
-* Gist
-* Requirement
-* Rationale
-* Priority
-* Stakeholders
-* Risks
-* Assumptions
-* Defined
-* [more detail](adr_template_using_planguage.md)
-
-Additional ideas that you may want to consider overall and/or for each option:
-
-* Problem Definition
-* Solution Context
-* Evaluation Criteria
-* Constraints
-* High-Level Comparison Table
-* Option Description
-* Pros and Cons
-* Constraints
-* Points of Note
-* RAID log
-  * Risks
-  * Assumptions
-  * Issues
-  * Dependencies
-* SWOT analysis
-  * Strengths
-  * Weaknesses
-  * Opportunites
-  * Threats
-* Porter's 5 Forces
-  * Supplier power
-  * Buyer power
-  * Competitive rivalry
-  * Threat of substitution
-  * Threat of new entry
-
-
-<a name="lifecycle"><h2>Lifecycle</h2></a>
-
-1. Decision identification
-
-  * How urgent and how important is the AD?
-  * Does it have to be made now, or can it wait until more is known?
-  * Both personal and collective experience, as well as recognized design methods and practices, can assist with decision identification.
-  * Ideally maintain a decision todo list that complements the product todo list.
-
-2. Decision making
-
-  * A number of decision making technqiues exists, both general ones and software and software architecture specific ones, for instance, dialogue mapping.[15] Group decision making is an active research topic.
-
-3. Decision documentation
-
-  * Many templates and tools for decisison capturing exist, both in agile communities (e.g., M. Nygard's ADRs) and in traditional software engineering and architecture design processes (e.g., see table layouts suggested by IBM UMF and by Tyree and Akerman from CapitalOne.
-
-4. Decision enactment and enforcement
-
-  * ADs are used in software design; hence they have to be communicated to, and accepted by, the stakeholders of the system that fund, deveop, and operate it. Architecturally evident coding styles [19] and code reviews that focus on architectural concerns and decisions are two related practices. ADs also have to be (re-)considered when modernizing a software sytem in software evolution.
-
-5. Decision sharing (optional)
-
-  * Many ADs recur across projects; hence, experiences with past decisions, both good and bad, can be valuable reusable assets when employing an explicit knowledge management strategy.
-
-
 <a name="sources"><h2>Sources</h2></a>
 
 Introduction:
@@ -212,8 +61,8 @@ In-depth:
 See also:
 
 * REMAP (Representation and Maintenance of Process Knowledge)
-* DRL (Decision Representation Language) 
+* DRL (Decision Representation Language)
 * IBIS (Issue-Based Information System)
 * QOC (Questions, Options, and Criteria)
-* DRL (Decision Representation Language), 
+* DRL (Decision Representation Language),
 * IBM’s e-Business Reference Architecture Framework
