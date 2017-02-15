@@ -1,23 +1,13 @@
 # Architecture Decision Record (ADR)
 
 * [Introduction](#introduction)
+* [ADR example tamplates](#adr-example-templates)
 * [How to start using ADRs](#how-to-start-using-adrs)
 * [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
 * [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
 * [ADR file name conventions](#adr-file-name-conventions)
 * [Contributing](#contributing)
 * [Sources](#sources)
-
-
-<h2><a name="how-to-start-using-adrs-with-git">How to start using ADRs with git</a></h2>
-
-ADR example templates:
-
-* [ADR template by Michael Nygard](adr_template_by_michael_nygard.md) (simple and popular)
-* [ADR template by Jeff Tyree and Art Akerman](adr_template_by_jeff_tyree_and_art_akerman.md) (more sophisticated)
-* [ADR template for Alexandrian pattern](adr_template_for_alexandrian_pattern.md) (simple with context specifics)
-* [ADR template for business case](adr_template_for_business_case.md) (more MBA-oriented, with costs, SWOT, and more opinions)
-* [ADR template using Planguage](adr_template_using_planguage.md) (more quality assurance oriented)
 
 
 <h2><a name="introduction">Introduction</a></h2>
@@ -31,6 +21,17 @@ An architecturally significant requirement (ASR) is a requirement that has a mea
 All these are within the topic of architectural knowledge management (AKM).
 
 The goal of this document is to provide a fast overview of ADRs, how to create them, and where to look for more information.
+
+
+<h2><a name="adr-example-templates">ADR example tamplates</a></h2>
+
+ADR example templates that we have collected on the net:
+
+* [ADR template by Michael Nygard](adr_template_by_michael_nygard.md) (simple and popular)
+* [ADR template by Jeff Tyree and Art Akerman](adr_template_by_jeff_tyree_and_art_akerman.md) (more sophisticated)
+* [ADR template for Alexandrian pattern](adr_template_for_alexandrian_pattern.md) (simple with context specifics)
+* [ADR template for business case](adr_template_for_business_case.md) (more MBA-oriented, with costs, SWOT, and more opinions)
+* [ADR template using Planguage](adr_template_using_planguage.md) (more quality assurance oriented)
 
 
 <h2><a name="how-to-start-using-adrs">How to start using ADRs</a></h2>
