@@ -1,15 +1,17 @@
 # Architecture Decision Record (ADR)
 
 * [Introduction](#introduction)
+* [How to start using ADRs](#how-to-start-using-adrs)
+* [How to start using ADRs](#how-to-start-using-adrs-with-tooling)
+* [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
+* [ADR file name conventions](#adr-file-name-conventions)
 * [Contributing](#contributing)
 * [Sources](#sources)
 
-ADR management:
 
-* [Start](adr_start.md)
-* [Lifecycle](adr_lifecycle.md)
+<h2><a name="how-to-start-using-adrs-with-git">How to start using ADRs with git</a></h2>
 
-ADR templates:
+ADR example templates:
 
 * [ADR template by Michael Nygard](adr_template_by_michael_nygard.md) (simple and popular)
 * [ADR template by Jeff Tyree and Art Akerman](adr_template_by_jeff_tyree_and_art_akerman.md) (more sophisticated)
@@ -18,7 +20,7 @@ ADR templates:
 * [ADR template using Planguage](adr_template_using_planguage.md) (more quality assurance oriented)
 
 
-<a name="introduction"><h2>Introduction</h2></a>
+<h2><a name="introduction">Introduction</a></h2>
 
 An architectural decision (AD) is a software design choice that addresses a significant requirement.
 
@@ -31,14 +33,97 @@ All these are within the topic of architectural knowledge management (AKM).
 The goal of this document is to provide a fast overview of ADRs, how to create them, and where to look for more information.
 
 
-<a name="contributing"><h2>Contributing</h2></a>
+<h2><a name="how-to-start-using-adrs">How to start using ADRs</a></h2>
+
+To start using ADRs, talk with your teammates about these areas.
+
+1. Decision identification
+
+  * How urgent and how important is the AD?
+  * Does it have to be made now, or can it wait until more is known?
+  * Both personal and collective experience, as well as recognized design methods and practices, can assist with decision identification.
+  * Ideally maintain a decision todo list that complements the product todo list.
+
+2. Decision making
+
+  * A number of decision making technqiues exists, both general ones and software and software architecture specific ones, for instance, dialogue mapping. Group decision making is an active research topic.
+
+3. Decision documentation
+
+  * Many templates and tools for decisison capturing exist, both in agile communities (e.g., M. Nygard's ADRs) and in traditional software engineering and architecture design processes (e.g., see table layouts suggested by IBM UMF and by Tyree and Akerman from CapitalOne.
+
+4. Decision enactment and enforcement
+
+  * ADs are used in software design; hence they have to be communicated to, and accepted by, the stakeholders of the system that fund, deveop, and operate it. Architecturally evident coding styles and code reviews that focus on architectural concerns and decisions are two related practices. ADs also have to be (re-)considered when modernizing a software sytem in software evolution.
+
+5. Decision sharing (optional)
+
+  * Many ADs recur across projects; hence, experiences with past decisions, both good and bad, can be valuable reusable assets when employing an explicit knowledge management strategy.
+
+
+<h2><a name="how-to-start-using-adrs-with-tooling">How to start using ADRs with tooling</a></h2>
+
+You can start using any way you want to create ADRs and keep track of them.
+
+For example:
+
+  * If you like using Google Drive and online editing, then you can create a Google Doc, or Google Sheet.
+
+  * If you like use source code version control, such as git, then you can create a file for each ADR.
+  
+  * If you like using project planning tools, such as Atlassian Jira, then you can use the tool's planning tracker.
+
+  * If you like using wikis, such as MediaWiki, then you can create an ADR wiki.
+
+
+<h2><a name="how-to-start-using-adrs-with-git">How to start using ADRs with git</a></h2>
+
+Here's how to start using ADRs with git version control for a typical software project with source code.
+
+1. Create a directory for documentation and ADR files.
+
+      mkdir doc/adr
+
+2. For each ADR, create a text file, such as `database.txt`.
+
+      vi database.txt
+
+3. Write anything you want in the ADR. See the templates in this repo for ideas.
+
+
+<h2><a name="adr-file-name-conventions">ADR file name conventions</a></h2>
+
+If you choose to create your ADRs using typical text files, then you may want to come up with your own ADR file name convention.
+
+We prefer to use a file name convention that has a specific format.
+
+Examples:
+
+  * 20170101_choose_a_database.md
+
+  * 20170102_handle_more_users.md
+
+  * 20170103_improve_application_security.md
+
+Our file name convention:
+
+  * The name has the date as YYYYMMDD. This can be useful for sorting.
+
+  * The name has a present tense imperative verb phrase. This can be useful for reading.
+
+  * The name uses lowercase letters and underscore separators. This can be useful for publishing.
+
+  * The extension is markdown. This can be useful for easy formatting.
+
+
+<h2><a name="contributing">Contributing</a></h2>
 
 Your comments and suggestions are welcome.
 
 You can open a GitHub issue, or create a pull request, or email joel@joelparkerhenderson.com.
 
 
-<a name="sources"><h2>Sources</h2></a>
+<h2><a name="sources">Sources</a></h2>
 
 Introduction:
 
@@ -66,3 +151,5 @@ See also:
 * QOC (Questions, Options, and Criteria)
 * DRL (Decision Representation Language),
 * IBM’s e-Business Reference Architecture Framework
+# ADR Start
+
