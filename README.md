@@ -2,7 +2,7 @@
 
 * [Introduction](#introduction)
 * [How to start using ADRs](#how-to-start-using-adrs)
-* [How to start using ADRs](#how-to-start-using-adrs-with-tooling)
+* [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
 * [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
 * [ADR file name conventions](#adr-file-name-conventions)
 * [Contributing](#contributing)
@@ -61,9 +61,9 @@ To start using ADRs, talk with your teammates about these areas.
   * Many ADs recur across projects; hence, experiences with past decisions, both good and bad, can be valuable reusable assets when employing an explicit knowledge management strategy.
 
 
-<h2><a name="how-to-start-using-adrs-with-tooling">How to start using ADRs with tooling</a></h2>
+<h2><a name="how-to-start-using-adrs-with-tools">How to start using ADRs with tools</a></h2>
 
-You can start using any way you want to create ADRs and keep track of them.
+You can start using ADRs with tools any way you want.
 
 For example:
 
@@ -78,11 +78,11 @@ For example:
 
 <h2><a name="how-to-start-using-adrs-with-git">How to start using ADRs with git</a></h2>
 
-Here's how to start using ADRs with git version control for a typical software project with source code.
+If you like using git version control, then here's how we like to start using ADRs with git for a typical software project with source code.
 
-1. Create a directory for documentation and ADR files.
+1. Create a directory for ADR files.
 
-      mkdir doc/adr
+      mkdir adr
 
 2. For each ADR, create a text file, such as `database.txt`.
 
@@ -153,4 +153,5 @@ See also:
 * DRL (Decision Representation Language),
 * IBM’s e-Business Reference Architecture Framework
 # ADR Start
+
 
