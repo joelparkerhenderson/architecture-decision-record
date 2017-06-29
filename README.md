@@ -100,22 +100,23 @@ We prefer to use a file name convention that has a specific format.
 
 Examples:
 
-  * 20170101_choose_a_database.md
+  * 2017-01-01 Choose a database.md
 
-  * 20170102_handle_more_users.md
+  * 2017-01-02 Handle more users.md
 
-  * 20170103_improve_application_security.md
+  * 2017-01-03 Improve application security.md
 
 Our file name convention:
 
-  * The name has the date as YYYYMMDD. This can be useful for sorting.
+  * The name has the date as YYYY-MM-DD. This arrangement is ISO standard, and is useful for easily sorting by date. 
 
-  * The name has a present tense imperative verb phrase. This can be useful for reading.
+  * The name has a present tense imperative verb phrase. This is helpful for readability and matches our commit message format.
 
-  * The name uses lowercase letters and underscore separators. This can be useful for publishing.
+  * The name uses sentence capitalization and spaces. This is helpful for readability.
 
   * The extension is markdown. This can be useful for easy formatting.
 
+Note about the date format: we like the format YYYY
 
 <h2><a name="contributing">Contributing</a></h2>
 
