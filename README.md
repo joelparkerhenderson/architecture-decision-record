@@ -1,7 +1,7 @@
 # Architecture Decision Record (ADR)
 
 * [Introduction](#introduction)
-* [ADR example tamplates](#adr-example-templates)
+* [ADR example templates](#adr-example-templates)
 * [How to start using ADRs](#how-to-start-using-adrs)
 * [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
 * [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
