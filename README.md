@@ -1,7 +1,7 @@
 # Architecture Decision Record (ADR)
 
 * [Introduction](#introduction)
-* [ADR example tamplates](#adr-example-templates)
+* [ADR example templates](#adr-example-templates)
 * [How to start using ADRs](#how-to-start-using-adrs)
 * [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
 * [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
@@ -23,7 +23,7 @@ All these are within the topic of architectural knowledge management (AKM).
 The goal of this document is to provide a fast overview of ADRs, how to create them, and where to look for more information.
 
 
-<h2><a name="adr-example-templates">ADR example tamplates</a></h2>
+<h2><a name="adr-example-templates">ADR example templates</a></h2>
 
 ADR example templates that we have collected on the net:
 
