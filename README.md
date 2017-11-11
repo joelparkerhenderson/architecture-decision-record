@@ -63,9 +63,9 @@ To start using ADRs, talk with your teammates about these areas.
     * ADs also have to be (re-)considered when modernizing a software sytem in software evolution.
 
 5. Decision sharing (optional)
-
-  * Many ADs recur across projects.
-  * Hence, experiences with past decisions, both good and bad, can be valuable reusable assets when employing an explicit knowledge management strategy.
+ 
+    * Many ADs recur across projects.
+    * Hence, experiences with past decisions, both good and bad, can be valuable reusable assets when employing an explicit knowledge management strategy.
 
 
 <h2><a name="how-to-start-using-adrs-with-tools">How to start using ADRs with tools</a></h2>
