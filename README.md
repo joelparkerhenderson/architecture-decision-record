@@ -47,7 +47,7 @@ To start using ADRs, talk with your teammates about these areas.
 
 2. Decision making
 
-    * A number of decision making technqiues exists, both general ones and software and software architecture specific ones, for instance, dialogue mapping. 
+    * A number of decision making techniques exists, both general ones and software and software architecture specific ones, for instance, dialogue mapping.
     * Group decision making is an active research topic.
 
 3. Decision documentation
@@ -58,7 +58,7 @@ To start using ADRs, talk with your teammates about these areas.
 
 4. Decision enactment and enforcement
 
-    * ADs are used in software design; hence they have to be communicated to, and accepted by, the stakeholders of the system that fund, deveop, and operate it. 
+    * ADs are used in software design; hence they have to be communicated to, and accepted by, the stakeholders of the system that fund, develop, and operate it.
     * Architecturally evident coding styles and code reviews that focus on architectural concerns and decisions are two related practices. 
     * ADs also have to be (re-)considered when modernizing a software sytem in software evolution.
 
