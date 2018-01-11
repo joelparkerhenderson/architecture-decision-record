@@ -8,7 +8,7 @@ This is the Architecture decision description template published in ["Architectu
 
 * **Status**: The decision’s status, such as pending, decided, or approved.
 
-* **Group**: You can use a simple grouping—such as integration, presentation, data, and so on—to help organize the set of decisions. You could also use a more sophisticated architecture ontology, such as John Kyaruzi and Jan van Katwijk’s, which includes more abstract categories such as event, calendar, and location.8 For example, using this ontology, you’d group decisions that deal with occurrences where the system requires information under event.
+* **Group**: You can use a simple grouping—such as integration, presentation, data, and so on—to help organize the set of decisions. You could also use a more sophisticated architecture ontology, such as John Kyaruzi and Jan van Katwijk’s, which includes more abstract categories such as event, calendar, and location. For example, using this ontology, you’d group decisions that deal with occurrences where the system requires information under event.
 
 * **Assumptions**: Clearly describe the underlying assumptions in the environment in which you’re making the decision—cost, schedule, technology, and so on. Note that environmental constraints (such as accepted technology standards, enterprise architecture, commonly employed patterns, and so on) might limit the alternatives you consider.
 

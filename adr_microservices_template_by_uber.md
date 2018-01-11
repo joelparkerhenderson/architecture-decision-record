@@ -7,7 +7,7 @@ See Production-Ready Microservices: Building Standardized Systems Across an Engi
 Each service defines these system quality attributes:
 
 * Stable
-* Reiable
+* Reliable
 * Scalable
 * Fault tolerant
 * Performant
