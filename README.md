@@ -31,7 +31,7 @@ ADR example templates that we have collected on the net:
 * [ADR template by Jeff Tyree and Art Akerman](adr_template_by_jeff_tyree_and_art_akerman.md) (more sophisticated)
 * [ADR template for Alexandrian pattern](adr_template_for_alexandrian_pattern.md) (simple with context specifics)
 * [ADR template for business case](adr_template_for_business_case.md) (more MBA-oriented, with costs, SWOT, and more opinions)
-* [ADR template MADR](adr_template_madr)
+* [ADR template MADR](adr_template_madr.md) (focuses on considered options)
 * [ADR template using Planguage](adr_template_using_planguage.md) (more quality assurance oriented)
 
 

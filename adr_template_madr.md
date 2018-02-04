@@ -1,42 +1,48 @@
-# *[short title of solved problem and solution]*
+# [short title of solved problem and solution]
 
-**User Story:** *[ticket/issue-number]* <!-- optional -->
+User Story: [ticket/issue-number] <!-- optional -->
 
-*[context and problem statement]*
-*[decision drivers | forces]* <!-- optional -->
+[context and problem statement]
+[decision drivers | forces | facing] <!-- optional -->
 
-## Considered Alternatives
+## Considered Options
 
-* *[alternative 1]*
-* *[alternative 2]*
-* *[alternative 3]*
-* *[...]* <!-- numbers of alternatives can vary -->
+* [option 1]
+* [option 2]
+* [option 3]
+* ... <!-- numbers of options can vary -->
 
 ## Decision Outcome
 
-* Chosen Alternative: *[alternative 1]*
-* *[justification. e.g., only alternative, which meets k.o. criterion decision driver | which resolves force force | ... | comes out best (see below)]*
-* *[consequences. e.g., negative impact on quality attribute, follow-up decisions required, ...]* <!-- optional -->
+Chosen option: [option 1], because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | ... | comes out best (see below)].
 
-## Pros and Cons of the Alternatives <!-- optional -->
+Positive Consequences: <!-- optional -->
+  - [e.g., improvement of quality attribute satisfaction, follow-up decisions required, ...]
+  - ...
 
-### *[alternative 1]*
+Negative consequences: <!-- optional -->
+  - [e.g., compromising quality attribute, follow-up decisions required, ...]
+  - ...
 
-* `+` *[argument 1 pro]*
-* `+` *[argument 2 pro]*
-* `-` *[argument 1 con]*
-* *[...]* <!-- numbers of pros and cons can vary -->
+## Pros and Cons of the Options <!-- optional -->
 
-### *[alternative 2]*
+### [option 1]
 
-* `+` *[argument 1 pro]*
-* `+` *[argument 2 pro]*
-* `-` *[argument 1 con]*
-* *[...]* <!-- numbers of pros and cons can vary -->
+* Good, because [argument a]
+* Good, because [argument b]
+* Bad, because [argument c]
+* ... <!-- numbers of pros and cons can vary -->
 
-### *[alternative 3]*
+### [option 2]
 
-* `+` *[argument 1 pro]*
-* `+` *[argument 2 pro]*
-* `-` *[argument 1 con]*
-* *[...]* <!-- numbers of pros and cons can vary -->
+* Good, because [argument a]
+* Good, because [argument b]
+* Bad, because [argument c]
+* ... <!-- numbers of pros and cons can vary -->
+
+### [option 3]
+
+* Good, because [argument a]
+* Good, because [argument b]
+* Bad, because [argument c]
+* ... <!-- numbers of pros and cons can vary -->
