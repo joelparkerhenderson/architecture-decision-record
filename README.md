@@ -1,21 +1,17 @@
 # Architecture Decision Record (ADR)
 
-<!-- toc -->
-
-- [Introduction](#introduction)
-- [ADR example templates](#adr-example-templates)
-- [How to start using ADRs](#how-to-start-using-adrs)
-- [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
-- [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
-- [ADR file name conventions](#adr-file-name-conventions)
-- [Contributing](#contributing)
-- [Sources](#sources)
+* [Introduction](#introduction)
+* [ADR example templates](#adr-example-templates)
+* [How to start using ADRs](#how-to-start-using-adrs)
+* [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
+* [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
+* [ADR file name conventions](#adr-file-name-conventions)
+* [Contributing](#contributing)
+* [Sources](#sources)
   * [Introduction](#introduction-1)
   * [Templates](#templates)
   * [In-depth](#in-depth)
   * [See also](#see-also)
-
-<!-- tocstop -->
 
 ## Introduction
 
