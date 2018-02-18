@@ -12,7 +12,7 @@
 An architectural decision record (ADR) is a process to track a software design choice, such as by writing notes, or logging information.
 
 Contents:
-* [Introduction](#introduction)
+* [What is an Architure Decision Record?](#what-is-an-architure-decision-record)
 * [ADR example templates](#adr-example-templates)
 * [How to start using ADRs](#how-to-start-using-adrs)
 * [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
