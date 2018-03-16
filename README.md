@@ -20,7 +20,10 @@ Contents:
 * [ADR file name conventions](#adr-file-name-conventions)
 * [Contributing](#contributing)
 * [Sources](#sources)
-
+  * [Introduction](#introduction-1)
+  * [Templates](#templates)
+  * [In-depth](#in-depth)
+  * [See also](#see-also)
 
 ## What is an Architecture Decision Record?
 
@@ -159,13 +162,13 @@ You can open a GitHub issue, or create a pull request, or email joel@joelparkerh
 
 ## Sources
 
-Introduction:
+### Introduction
 
 * [Architectural Decision - Wikipedia](https://en.wikipedia.org/wiki/Architectural_decision)
 
 * [Architecturally significant requirements](https://en.wikipedia.org/wiki/Architecturally_significant_requirements)
 
-Templates:
+### Templates
 
 * [Documenting architecture decisions - Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
@@ -173,7 +176,7 @@ Templates:
 
 * [Template for documenting architecture alternatives and decisions - Stack Overflow](http://stackoverflow.com/questions/7104735/template-for-documenting-architecture-alternatives-and-decisions)
 
-In-depth:
+### In-depth
 
 * [ADMentor XML project - GitHub](https://github.com/IFS-HSR/ADMentor)
 
@@ -187,7 +190,7 @@ In-depth:
 
 * [ThoughtWorks Technology Radar: Lightweight Architecture Decision Records](https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records)
 
-See also:
+### See also
 
 * REMAP (Representation and Maintenance of Process Knowledge)
 
