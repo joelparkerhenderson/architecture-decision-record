@@ -9,7 +9,7 @@
 
 # Architecture Decision Record (ADR)
 
-An architectural decision record (ADR) is a process to track a software design choice, such as by writing notes, or logging information.
+An architectural decision record (ADR) is a document that permanently records a specific software design choice made at a certain point in time, such as by writing notes, or logging information.
 
 Contents:
 * [What is an Architecture Decision Record?](#what-is-an-architecture-decision-record)
@@ -18,19 +18,21 @@ Contents:
 * [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
 * [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
 * [ADR file name conventions](#adr-file-name-conventions)
+* [Rules of the ADR road](#rules-of-the-adr-road)
+* [Organizations and Projects using ADRs](#organizations-and-projects-using-adrs)
 * [Contributing](#contributing)
 * [Sources](#sources)
 
 
 ## What is an Architecture Decision Record?
 
-An architectural decision record (ADR) is a way to track a software design choice, such as by writing notes, or logging information.
+An **architectural decision record** (ADR) is a document that permanently records a specific software design choice made at a certain point in time, such as by writing notes, or logging information.
 
-An architectural decision (AD) is a software design choice that addresses a significant requirement.
+An **architectural decision** (AD) is a software design choice that addresses a significant requirement.
 
-An architecturally significant requirement (ASR) is a requirement that has a measurable effect on a software system’s architecture.
+An **architecturally significant requirement** (ASR) is a requirement that has a measurable effect on a software system’s architecture.
 
-All these are within the topic of architectural knowledge management (AKM).
+All these are within the topic of **architectural knowledge management** (AKM).
 
 The goal of this document is to provide a fast overview of ADRs, how to create them, and where to look for more information.
 
@@ -50,6 +52,8 @@ ADR example templates that we have collected on the net:
 * [ADR template MADR](adr_template_madr.md) (focuses on considered options)
 
 * [ADR template using Planguage](adr_template_using_planguage.md) (more quality assurance oriented)
+
+* [ADR template for microservices](adr_microservices_template_by_user.md) (more microservices oriented)
 
 
 ## How to start using ADRs
@@ -94,6 +98,8 @@ To start using ADRs, talk with your teammates about these areas.
 
     * Hence, experiences with past decisions, both good and bad, can be valuable reusable assets when employing an explicit knowledge management strategy.
 
+The steps above are adopted from the Wikipedia entry on [Architectural Decision](https://en.wikipedia.org/wiki/Architectural_decision)
+
 
 ## How to start using ADRs with tools
 
@@ -122,8 +128,9 @@ If you like using git version control, then here's how we like to start using AD
 
       vi database.txt
 
-3. Write anything you want in the ADR. See the templates in this repo for ideas.
+3. Write anything you want in the ADR. See the templates in this repository for ideas.
 
+4. Commit the ADR to your git repo
 
 ## ADR file name conventions
 
@@ -148,6 +155,34 @@ Our file name convention:
   * The name uses sentence capitalization and spaces. This is helpful for readability.
 
   * The extension is markdown. This can be useful for easy formatting.
+
+## Rules of the ADR road
+
+1. Characteristics of a good ADR:
+
+* Point in Time - The ADR identifies when the AD was made
+
+* Rationality - The ADR explains the rationale for making the particular AD
+
+* Immutable record - The decisions made in previously published ADR should not be altered
+
+* Specificity - Each ADR should be about a single AD
+
+2. Characteristics of good Context in an ADR:
+
+* Should explain your organization's situation and business priorities
+
+* Should include considerations for the social, team and skills makeup of your teams
+
+3. Characteristics of good Consequences in an ADR:
+
+* Good approach - "We need to start doing X instead of Y"
+
+* Bad appraoch - Don't explain the AD in terms of "Pros" and "Cons" of having made the particular AD
+
+4. A new ADR may take the place the previous ADR
+
+## Organizations and Projects using ADRs
 
 
 ## Contributing
@@ -187,6 +222,14 @@ In-depth:
 
 * [ThoughtWorks Technology Radar: Lightweight Architecture Decision Records](https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records)
 
+Tools:
+
+* [Command-line tools for working with Architecture Decision Records](https://github.com/npryce/adr-tools)
+
+Examples:
+
+* [Repository of Architecture Decision Records made for the Arachne Framework](https://github.com/arachne-framework/architecture)
+
 See also:
 
 * REMAP (Representation and Maintenance of Process Knowledge)
@@ -200,4 +243,3 @@ See also:
 * DRL (Decision Representation Language),
 
 * IBM’s e-Business Reference Architecture Framework
-
