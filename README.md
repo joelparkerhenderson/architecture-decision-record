@@ -9,7 +9,7 @@
 
 # Architecture Decision Record (ADR)
 
-An architectural decision record (ADR) is a document that permanently records a specific software design choice made at a certain point in time, such as by writing notes, or logging information.
+An architectural decision record (ADR) is a document that captures an important architectural decision made along with its context and consequences.
 
 Contents:
 * [What is an Architecture Decision Record?](#what-is-an-architecture-decision-record)
@@ -26,11 +26,13 @@ Contents:
 
 ## What is an Architecture Decision Record?
 
-An **architectural decision record** (ADR) is a document that permanently records a specific software design choice made at a certain point in time, such as by writing notes, or logging information.
+An **architectural decision record** (ADR) is a document that captures an important architectural decision made along with its context and consequences.
 
 An **architectural decision** (AD) is a software design choice that addresses a significant requirement.
 
 An **architecturally significant requirement** (ASR) is a requirement that has a measurable effect on a software system’s architecture.
+
+A **decision log** is the collection of all ADRs created and maintained for a particular project (or organization).
 
 All these are within the topic of **architectural knowledge management** (AKM).
 
@@ -72,31 +74,31 @@ To start using ADRs, talk with your teammates about these areas.
 
 2. Decision making
 
-    * A number of decision making techniques exists, both general ones and software and software architecture specific ones, for instance, dialogue mapping.
+  * A number of decision making techniques exists, both general ones and software and software architecture specific ones, for instance, dialogue mapping.
 
-    * Group decision making is an active research topic.
+  * Group decision making is an active research topic.
 
 3. Decision documentation
 
-    * Many templates and tools for decisison capturing exist.
+  * Many templates and tools for decisison capturing exist.
 
-    * See agile communities, e.g. M. Nygard's ADRs.
+  * See agile communities, e.g. M. Nygard's ADRs.
 
-    * See traditional software engineering and architecture design processes, e.g. table layouts suggested by IBM UMF and by Tyree and Akerman from CapitalOne.
+  * See traditional software engineering and architecture design processes, e.g. table layouts suggested by IBM UMF and by Tyree and Akerman from CapitalOne.
 
 4. Decision enactment and enforcement
 
-    * ADs are used in software design; hence they have to be communicated to, and accepted by, the stakeholders of the system that fund, develop, and operate it.
+  * ADs are used in software design; hence they have to be communicated to, and accepted by, the stakeholders of the system that fund, develop, and operate it.
 
-    * Architecturally evident coding styles and code reviews that focus on architectural concerns and decisions are two related practices. 
+  * Architecturally evident coding styles and code reviews that focus on architectural concerns and decisions are two related practices. 
 
-    * ADs also have to be (re-)considered when modernizing a software sytem in software evolution.
+  * ADs also have to be (re-)considered when modernizing a software sytem in software evolution.
 
 5. Decision sharing (optional)
- 
-    * Many ADs recur across projects.
 
-    * Hence, experiences with past decisions, both good and bad, can be valuable reusable assets when employing an explicit knowledge management strategy.
+  * Many ADs recur across projects.
+
+  * Hence, experiences with past decisions, both good and bad, can be valuable reusable assets when employing an explicit knowledge management strategy.
 
 The steps above are adopted from the Wikipedia entry on [Architectural Decision](https://en.wikipedia.org/wiki/Architectural_decision)
 
@@ -110,7 +112,7 @@ For example:
   * If you like using Google Drive and online editing, then you can create a Google Doc, or Google Sheet.
 
   * If you like use source code version control, such as git, then you can create a file for each ADR.
-  
+
   * If you like using project planning tools, such as Atlassian Jira, then you can use the tool's planning tracker.
 
   * If you like using wikis, such as MediaWiki, then you can create an ADR wiki.
@@ -118,7 +120,7 @@ For example:
 
 ## How to start using ADRs with git
 
-If you like using git version control, then here's how we like to start using ADRs with git for a typical software project with source code.
+If you like using git version control, then here is how we like to start using ADRs with git for a typical software project with source code.
 
 1. Create a directory for ADR files.
 
@@ -156,31 +158,33 @@ Our file name convention:
 
   * The extension is markdown. This can be useful for easy formatting.
 
-## Rules of the ADR road
+## Suggestions for writing good ADRs
 
 1. Characteristics of a good ADR:
 
-* Point in Time - The ADR identifies when the AD was made
+  * Point in Time - Identify when the AD was made
 
-* Rationality - The ADR explains the rationale for making the particular AD
+  * Rationality - Explain the reason for making the particular AD
 
-* Immutable record - The decisions made in previously published ADR should not be altered
+  * Immutable record - The decisions made in a previously published ADR should not be altered
 
-* Specificity - Each ADR should be about a single AD
+  * Specificity - Each ADR should be about a single AD
 
 2. Characteristics of good Context in an ADR:
 
-* Should explain your organization's situation and business priorities
+  * Explain your organization's situation and business priorities
 
-* Should include considerations for the social, team and skills makeup of your teams
+  * Include rationale and considerations based on social and skills makeups of your teams
 
 3. Characteristics of good Consequences in an ADR:
 
-* Good approach - "We need to start doing X instead of Y"
+  * Right approach - "We need to start doing X instead of Y"
 
-* Bad appraoch - Don't explain the AD in terms of "Pros" and "Cons" of having made the particular AD
+  * Wrong approach - Do not explain the AD in terms of "Pros" and "Cons" of having made the particular AD
 
-4. A new ADR may take the place the previous ADR
+4. A new ADR may take the place of a previous ADR
+
+  * When an AD is made that replaces or invalidates a previous ADR, a new ADR should be created
 
 ## Organizations and Projects using ADRs
 
