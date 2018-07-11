@@ -55,7 +55,7 @@ ADR example templates that we have collected on the net:
 
 * [ADR template using Planguage](adr_template_using_planguage.md) (more quality assurance oriented)
 
-* [ADR template for microservices](adr_microservices_template_by_user.md) (more microservices oriented)
+* [ADR template for microservices](adr_microservices_template_by_uber.md) (more microservices oriented)
 
 
 ## How to start using ADRs
