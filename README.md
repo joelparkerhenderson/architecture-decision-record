@@ -18,7 +18,7 @@ Contents:
 * [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
 * [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
 * [ADR file name conventions](#adr-file-name-conventions)
-* [Rules of the ADR road](#rules-of-the-adr-road)
+* [Suggestions for writing good ADRs](#suggestions-for-writing-good-adrs)
 * [Organizations and Projects using ADRs](#organizations-and-projects-using-adrs)
 * [Contributing](#contributing)
 * [Sources](#sources)
@@ -55,7 +55,7 @@ ADR example templates that we have collected on the net:
 
 * [ADR template using Planguage](adr_template_using_planguage.md) (more quality assurance oriented)
 
-* [ADR template for microservices](adr_microservices_template_by_user.md) (more microservices oriented)
+* [ADR template for microservices](adr_microservices_template_by_uber.md) (more microservices oriented)
 
 
 ## How to start using ADRs
