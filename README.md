@@ -244,6 +244,4 @@ See also:
 
 * QOC (Questions, Options, and Criteria)
 
-* DRL (Decision Representation Language),
-
 * IBM’s e-Business Reference Architecture Framework
