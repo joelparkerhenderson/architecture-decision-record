@@ -173,29 +173,21 @@ You can open a GitHub issue, or create a pull request, or email joel@joelparkerh
 Introduction:
 
 * [Architectural Decision - Wikipedia](https://en.wikipedia.org/wiki/Architectural_decision)
-
 * [Architecturally significant requirements](https://en.wikipedia.org/wiki/Architecturally_significant_requirements)
 
 Templates:
 
 * [Documenting architecture decisions - Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
-
 * [Markdown Architectural Decision Records](https://adr.github.io/madr/) - provided by the [adr GitHub organization](https://adr.github.io/)
-
 * [Template for documenting architecture alternatives and decisions - Stack Overflow](http://stackoverflow.com/questions/7104735/template-for-documenting-architecture-alternatives-and-decisions)
 
 In-depth:
 
 * [ADMentor XML project - GitHub](https://github.com/IFS-HSR/ADMentor)
-
 * [Architectural Decision Guidance across Projects: Problem Space Modeling, Decision Backlog Management and Cloud Computing Knowledge](https://www.ifs.hsr.ch/fileadmin/user_upload/customers/ifs.hsr.ch/Home/projekte/ADMentor-WICSA2015ubmissionv11nc.pdf)
-
 * [The Decision View's Role in Software Architecture Practice](https://www.computer.org/csdl/mags/so/2009/02/mso2009020036-abs.html)
-
 * [Documenting Software Architectures: Views and Beyond](http://resources.sei.cmu.edu/library/asset-view.cfm?assetID=30386)
-
 * [Architecture Decisions: Demystifying Architecture](https://www.utdallas.edu/~chung/SA/zz-Impreso-architecture_decisions-tyree-05.pdf)
-
 * [ThoughtWorks Technology Radar: Lightweight Architecture Decision Records](https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records)
 
 Tools:
@@ -209,11 +201,7 @@ Examples:
 See also:
 
 * REMAP (Representation and Maintenance of Process Knowledge)
-
 * DRL (Decision Representation Language)
-
 * IBIS (Issue-Based Information System)
-
 * QOC (Questions, Options, and Criteria)
-
 * IBM’s e-Business Reference Architecture Framework
