@@ -44,17 +44,11 @@ The goal of this document is to provide a fast overview of ADRs, how to create t
 ADR example templates that we have collected on the net:
 
 * [ADR template by Michael Nygard](adr_template_by_michael_nygard.md) (simple and popular)
-
 * [ADR template by Jeff Tyree and Art Akerman](adr_template_by_jeff_tyree_and_art_akerman.md) (more sophisticated)
-
 * [ADR template for Alexandrian pattern](adr_template_for_alexandrian_pattern.md) (simple with context specifics)
-
 * [ADR template for business case](adr_template_for_business_case.md) (more MBA-oriented, with costs, SWOT, and more opinions)
-
 * [ADR template MADR](adr_template_madr.md) (focuses on considered options)
-
 * [ADR template using Planguage](adr_template_using_planguage.md) (more quality assurance oriented)
-
 * [ADR template for microservices](adr_microservices_template_by_uber.md) (more microservices oriented)
 
 
@@ -64,41 +58,31 @@ To start using ADRs, talk with your teammates about these areas.
 
 1. Decision identification
 
-  * How urgent and how important is the AD?
+    * How urgent and how important is the AD?
+    * Does it have to be made now, or can it wait until more is known?
+    * Both personal and collective experience, as well as recognized design methods and practices, can assist with decision identification.
+    * Ideally maintain a decision todo list that complements the product todo list.
 
-  * Does it have to be made now, or can it wait until more is known?
+1. Decision making
 
-  * Both personal and collective experience, as well as recognized design methods and practices, can assist with decision identification.
+    * A number of decision making techniques exists, both general ones and software and software architecture specific ones, for instance, dialogue mapping.
+    * Group decision making is an active research topic.
 
-  * Ideally maintain a decision todo list that complements the product todo list.
+1. Decision documentation
 
-2. Decision making
+    * Many templates and tools for decisison capturing exist.
+    * See agile communities, e.g. M. Nygard's ADRs.
+    * See traditional software engineering and architecture design processes, e.g. table layouts suggested by IBM UMF and by Tyree and Akerman from CapitalOne.
 
-  * A number of decision making techniques exists, both general ones and software and software architecture specific ones, for instance, dialogue mapping.
+1. Decision enactment and enforcement
+    * ADs are used in software design; hence they have to be communicated to, and accepted by, the stakeholders of the system that fund, develop, and operate it.
+    * Architecturally evident coding styles and code reviews that focus on architectural concerns and decisions are two related practices. 
+    * ADs also have to be (re-)considered when modernizing a software sytem in software evolution.
 
-  * Group decision making is an active research topic.
+1. Decision sharing (optional)
 
-3. Decision documentation
-
-  * Many templates and tools for decisison capturing exist.
-
-  * See agile communities, e.g. M. Nygard's ADRs.
-
-  * See traditional software engineering and architecture design processes, e.g. table layouts suggested by IBM UMF and by Tyree and Akerman from CapitalOne.
-
-4. Decision enactment and enforcement
-
-  * ADs are used in software design; hence they have to be communicated to, and accepted by, the stakeholders of the system that fund, develop, and operate it.
-
-  * Architecturally evident coding styles and code reviews that focus on architectural concerns and decisions are two related practices. 
-
-  * ADs also have to be (re-)considered when modernizing a software sytem in software evolution.
-
-5. Decision sharing (optional)
-
-  * Many ADs recur across projects.
-
-  * Hence, experiences with past decisions, both good and bad, can be valuable reusable assets when employing an explicit knowledge management strategy.
+    * Many ADs recur across projects.
+    * Hence, experiences with past decisions, both good and bad, can be valuable reusable assets when employing an explicit knowledge management strategy.
 
 The steps above are adopted from the Wikipedia entry on [Architectural Decision](https://en.wikipedia.org/wiki/Architectural_decision)
 
@@ -109,13 +93,10 @@ You can start using ADRs with tools any way you want.
 
 For example:
 
-  * If you like using Google Drive and online editing, then you can create a Google Doc, or Google Sheet.
-
-  * If you like use source code version control, such as git, then you can create a file for each ADR.
-
-  * If you like using project planning tools, such as Atlassian Jira, then you can use the tool's planning tracker.
-
-  * If you like using wikis, such as MediaWiki, then you can create an ADR wiki.
+    * If you like using Google Drive and online editing, then you can create a Google Doc, or Google Sheet.
+    * If you like use source code version control, such as git, then you can create a file for each ADR.
+    * If you like using project planning tools, such as Atlassian Jira, then you can use the tool's planning tracker.
+    * If you like using wikis, such as MediaWiki, then you can create an ADR wiki.
 
 
 ## How to start using ADRs with git
@@ -123,16 +104,17 @@ For example:
 If you like using git version control, then here is how we like to start using ADRs with git for a typical software project with source code.
 
 1. Create a directory for ADR files.
-
+    ```
       mkdir adr
-
-2. For each ADR, create a text file, such as `database.txt`.
-
+    ```
+1. For each ADR, create a text file, such as `database.txt`.
+    ```
       vi database.txt
+    ```
 
-3. Write anything you want in the ADR. See the templates in this repository for ideas.
+1. Write anything you want in the ADR. See the templates in this repository for ideas.
 
-4. Commit the ADR to your git repo
+1. Commit the ADR to your git repo
 
 ## ADR file name conventions
 
@@ -142,49 +124,39 @@ We prefer to use a file name convention that has a specific format.
 
 Examples:
 
-  * 2017-01-01 Choose a database.md
-
-  * 2017-01-02 Handle more users.md
-
-  * 2017-01-03 Improve application security.md
+    * 2017-01-01 Choose a database.md
+    * 2017-01-02 Handle more users.md
+    * 2017-01-03 Improve application security.md
 
 Our file name convention:
 
-  * The name has the date as YYYY-MM-DD. This is ISO standard and helps for sorting by date. 
-
-  * The name has a present tense imperative verb phrase. This helps readability and matches our commit message format.
-
-  * The name uses sentence capitalization and spaces. This is helpful for readability.
-
-  * The extension is markdown. This can be useful for easy formatting.
+    * The name has the date as YYYY-MM-DD. This is ISO standard and helps for sorting by date. 
+    * The name has a present tense imperative verb phrase. This helps readability and matches our commit message format.
+    * The name uses sentence capitalization and spaces. This is helpful for readability.
+    * The extension is markdown. This can be useful for easy formatting.
 
 ## Suggestions for writing good ADRs
 
 1. Characteristics of a good ADR:
 
-  * Point in Time - Identify when the AD was made
+    * Point in Time - Identify when the AD was made
+    * Rationality - Explain the reason for making the particular AD
+    * Immutable record - The decisions made in a previously published ADR should not be altered
+    * Specificity - Each ADR should be about a single AD
 
-  * Rationality - Explain the reason for making the particular AD
+1. Characteristics of good Context in an ADR:
 
-  * Immutable record - The decisions made in a previously published ADR should not be altered
+    * Explain your organization's situation and business priorities
+    * Include rationale and considerations based on social and skills makeups of your teams
 
-  * Specificity - Each ADR should be about a single AD
+1. Characteristics of good Consequences in an ADR:
 
-2. Characteristics of good Context in an ADR:
+    * Right approach - "We need to start doing X instead of Y"
+    * Wrong approach - Do not explain the AD in terms of "Pros" and "Cons" of having made the particular AD
 
-  * Explain your organization's situation and business priorities
+1. A new ADR may take the place of a previous ADR
 
-  * Include rationale and considerations based on social and skills makeups of your teams
-
-3. Characteristics of good Consequences in an ADR:
-
-  * Right approach - "We need to start doing X instead of Y"
-
-  * Wrong approach - Do not explain the AD in terms of "Pros" and "Cons" of having made the particular AD
-
-4. A new ADR may take the place of a previous ADR
-
-  * When an AD is made that replaces or invalidates a previous ADR, a new ADR should be created
+    * When an AD is made that replaces or invalidates a previous ADR, a new ADR should be created
 
 ## Organizations and Projects using ADRs
 
