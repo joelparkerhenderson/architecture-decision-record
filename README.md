@@ -70,7 +70,7 @@ To start using ADRs, talk with your teammates about these areas.
 
 1. Decision documentation
 
-    * Many templates and tools for decisison capturing exist.
+    * Many templates and tools for decision capturing exist.
     * See agile communities, e.g. M. Nygard's ADRs.
     * See traditional software engineering and architecture design processes, e.g. table layouts suggested by IBM UMF and by Tyree and Akerman from CapitalOne.
 
