@@ -124,15 +124,15 @@ We prefer to use a file name convention that has a specific format.
 
 Examples:
 
-    * 2017-01-01 Choose a database.md
-    * 2017-01-02 Handle more users.md
-    * 2017-01-03 Improve application security.md
+    * choose_database.md
+    * format_timestamps.md
+    * manage_passwords.md
+    * handle_exceptions.md
 
 Our file name convention:
 
-    * The name has the date as YYYY-MM-DD. This is ISO standard and helps for sorting by date. 
     * The name has a present tense imperative verb phrase. This helps readability and matches our commit message format.
-    * The name uses sentence capitalization and spaces. This is helpful for readability.
+    * The name uses lowercase and underscores (same as this repo). This is a balance of readability and system usability.
     * The extension is markdown. This can be useful for easy formatting.
 
 ## Suggestions for writing good ADRs
