@@ -12,6 +12,7 @@
 An architectural decision record (ADR) is a document that captures an important architectural decision made along with its context and consequences.
 
 Contents:
+
 * [What is an Architecture Decision Record?](#what-is-an-architecture-decision-record)
 * [How to start using ADRs](#how-to-start-using-adrs)
 * [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
@@ -80,7 +81,21 @@ Decision sharing (optional):
 
   * Hence, experiences with past decisions, both good and bad, can be valuable reusable assets when employing an explicit knowledge management strategy.
 
-The steps above are adopted from the Wikipedia entry on [Architectural Decision](https://en.wikipedia.org/wiki/Architectural_decision)
+  * Group decision making is an active research topic.
+
+Decision documentation:
+
+  * Many templates and tools for decisison capturing exist.
+
+  * See agile communities, e.g. M. Nygard's ADRs.
+
+  * See traditional software engineering and architecture design processes, e.g. table layouts suggested by IBM UMF and by Tyree and Akerman from CapitalOne.
+
+Decision guidance:
+
+  * The steps above are adopted from the Wikipedia entry on [Architectural Decision](https://en.wikipedia.org/wiki/Architectural_decision)
+
+  * A number of decision making techniques exists, both general ones and software and software architecture specific ones, for instance, dialogue mapping.
 
 
 ## How to start using ADRs with tools
@@ -102,21 +117,21 @@ For example:
 
 If you like using git version control, then here is how we like to start using ADRs with git for a typical software project with source code.
 
-1. Create a directory for ADR files.
+Create a directory for ADR files:
 
 ```sh
 $ mkdir adr
 ```
 
-1. For each ADR, create a text file, such as `database.txt`.
+For each ADR, create a text file, such as `database.txt`:
 
 ```sh
 $ vi database.txt
 ```
 
-1. Write anything you want in the ADR. See the templates in this repository for ideas.
+Write anything you want in the ADR. See the templates in this repository for ideas.
 
-1. Commit the ADR to your git repo
+Commit the ADR to your git repo.
 
 
 ## ADR file name conventions
@@ -180,18 +195,17 @@ A new ADR may take the place of a previous ADR:
 
 ADR example templates that we have collected on the net:
 
-* [ADR template by Michael Nygard](adr_template_by_michael_nygard.md) (simple and popular)
+  * [ADR template by Michael Nygard](adr_template_by_michael_nygard.md) (simple and popular)
 
-* [ADR template by Jeff Tyree and Art Akerman](adr_template_by_jeff_tyree_and_art_akerman.md) (more sophisticated)
+  * [ADR template by Jeff Tyree and Art Akerman](adr_template_by_jeff_tyree_and_art_akerman.md) (more sophisticated)
 
-* [ADR template for Alexandrian pattern](adr_template_for_alexandrian_pattern.md) (simple with context specifics)
+  * [ADR template for Alexandrian pattern](adr_template_for_alexandrian_pattern.md) (simple with context specifics)
 
-* [ADR template for business case](adr_template_for_business_case.md) (more MBA-oriented, with costs, SWOT, and more opinions)
+  * [ADR template for business case](adr_template_for_business_case.md) (more MBA-oriented, with costs, SWOT, and more opinions)
 
-* [ADR template MADR](adr_template_madr.md) (more Markdown)
+  * [ADR template MADR](adr_template_madr.md) (more Markdown)
 
-* [ADR template using Planguage](adr_template_using_planguage.md) (more quality assurance oriented)
-
+  * [ADR template using Planguage](adr_template_using_planguage.md) (more quality assurance oriented)
 
 
 ## For more information
@@ -243,3 +257,6 @@ See also:
   * QOC (Questions, Options, and Criteria)
 
   * IBM’s e-Business Reference Architecture Framework
+
+  * IBM’s e-Business Reference Architecture Framework
+
