@@ -188,9 +188,6 @@ A new ADR may take the place of a previous ADR:
   * When an AD is made that replaces or invalidates a previous ADR, a new ADR should be created
 
 
-## Organizations and Projects using ADRs
-
-
 ## ADR example templates
 
 ADR example templates that we have collected on the net:
@@ -257,6 +254,3 @@ See also:
   * QOC (Questions, Options, and Criteria)
 
   * IBM’s e-Business Reference Architecture Framework
-
-  * IBM’s e-Business Reference Architecture Framework
-
