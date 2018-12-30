@@ -13,13 +13,12 @@ An architectural decision record (ADR) is a document that captures an important 
 
 Contents:
 
-* [What is an Architecture Decision Record?](#what-is-an-architecture-decision-record)
+* [What is an architecture decision record?](#what-is-an-architecture-decision-record)
 * [How to start using ADRs](#how-to-start-using-adrs)
 * [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
 * [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
 * [ADR file name conventions](#adr-file-name-conventions)
 * [Suggestions for writing good ADRs](#suggestions-for-writing-good-adrs)
-* [Organizations and Projects using ADRs](#organizations-and-projects-using-adrs)
 * [ADR example templates](#adr-example-templates)
 * [For more information](#for-more-information)
 
