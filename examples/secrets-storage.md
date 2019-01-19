@@ -2,18 +2,21 @@
 
 Contents:
 
-* [Issue](#issue)
-* [Decision](#decision)
-* [Status](#status)
-* [Assumptions](#assumptions)
-* [Constraints](#constraints)
-* [Positions](#positions)
-* [Argument](#argument)
-* [Implications](#implications)
-* [Related decisions](#related-decisions)
-* [Related requirements](#related-requirements)
-* [Related artifacts](#related-artifacts)
-* [Related principles](#related-principles)
+* [Summary](#summary)
+  * [Issue](#issue)
+  * [Decision](#decision)
+  * [Status](#status)
+* [Details](#details)
+  * [Assumptions](#assumptions)
+  * [Constraints](#constraints)
+  * [Positions](#positions)
+  * [Argument](#argument)
+  * [Implications](#implications)
+* [Related](#related)
+  * [Related decisions](#related-decisions)
+  * [Related requirements](#related-requirements)
+  * [Related artifacts](#related-artifacts)
+  * [Related principles](#related-principles)
 * [Notes](#notes)
   * [Vault by HashiCorp](#vault-by-hashicorp)
   * [LastPass](#lastpass)
@@ -24,7 +27,10 @@ Contents:
   * [Secret Server by Thycotic](#secret-server-by-thycotic)
 
 
-## Issue
+## Summary
+
+
+### Issue
 
 We need to store secrets, such as passwords, private keys, authentication tokens, etc.
 
@@ -33,19 +39,22 @@ Some of the secrets are user-oriented. For example, our developer wants to be ab
 Some of the secrets are system-oriented. For example, our continuous delivery pipeline needs to be able to look up the credentials for our cloud hosting.
 
 
-## Decision
+### Decision
 
-We are choosing Bitwarden for user-oriented secrets
+Bitwarden for user-oriented secrets
 
-We are choosing Vault by HashiCorp for system-oriented secrets.
+Vault by HashiCorp for system-oriented secrets.
 
 
-## Status
+### Status
 
 Decided. We are open to new alternatives as they arise.
 
 
-## Assumptions
+## Details
+
+
+### Assumptions
 
 For this purpose, and our current state, we value user-oriented convenience, such as usable mobile apps.
 
@@ -60,25 +69,25 @@ We do not want ad-hoc approachs such as "remember it" or "write it on a note" or
 Our security model for this purpose is fine with using well-respected COTS vendors, such as SaaS password management tools.
 
 
-## Constraints
+### Constraints
 
 Right now we want something that is easy i.e. no need to write code, no need to install servers, no need to make a major commitment, no need to standardize everyone.
 
 
-## Positions
+### Positions
 
 We considered:
 
 1. User-oriented off-the-self password managers: LastPass, 1Password, Bitwarden, Dashlane, KeePass, pass, GPG, etc.
 
-2. System-oriented COTS password managers: AWS KMS, Vault by HashiCorp.
+2. System-oriented COTS password managers: AWS KMS, Vault by HashiCorp, EnvKy, Secret Server by Thycotic, Devolutions Password Server, Confidant by Lyft.
 
 3. Sharing-oriented approaches: using a shared Google document, or shared Slack channel, or shared network folder, etc.
 
 4. Low-tech ad-hoc approaches, such as remembering, writing a note, or relying on each user to figure out their own approach.
 
 
-## Argument
+### Argument
 
 Bitwarden, LastPass, 1Password, and Dashlane all are commerical off-the-shelf products.
 
@@ -109,29 +118,32 @@ We veto the approaches of sharing approaches such as via shared documents, share
 We veto the ad-hoc low-tech approaches, because we all agree it's not a long-term path forward.
 
 
-## Implications
+### Implications
 
 Developers may need to track secrets in two places: Bitwarden for user-oriented access, and Vault for system-oriented access.
 
 
-## Related decisions
+## Related
+
+
+### Related decisions
 
 The decision of which CI/CD server must include proof of capability for accessing secrets.
 
 We will need to decide how to managea the secrets, in terms of policies, rotations, organizations, etc.
 
 
-## Related requirements
+### Related requirements
 
 The secrets will have related requirements for compliance, auditing, and HR onboarding/offboarding.
 
 
-## Related artifacts
+### Related artifacts
 
 We expect we may export some secrets to environment variables.
 
 
-## Related principles
+### Related principles
 
 Easily reversible.
 
