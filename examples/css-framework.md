@@ -1,7 +1,29 @@
 # CSS framwork
 
+Contents:
 
-## Issue
+* [Summary](#summary)
+  * [Issue](#issue)
+  * [Decision](#decision)
+  * [Status](#status)
+* [Details](#details)
+  * [Assumptions](#assumptions)
+  * [Constraints](#constraints)
+  * [Positions](#positions)
+  * [Argument](#argument)
+  * [Implications](#implications)
+* [Related](#related)
+  * [Related decisions](#related-decisions)
+  * [Related requirements](#related-requirements)
+  * [Related artifacts](#related-artifacts)
+  * [Related principles](#related-principles)
+* [Notes](#notes)
+
+
+## Summary
+
+
+### Issue
 
 We want to use a CSS framework to create our web applications:
 
@@ -12,17 +34,20 @@ We want to use a CSS framework to create our web applications:
   * We want responsive applications, especially for smaller screens such as on mobile devices, larger screens such as on 4K widescreens, and dynamic screens such as rotatable displays.  
 
 
-## Decision
+### Decision
 
 Decided on Bulma.
 
 
-## Status
+### Status
 
 Decided on Bulma. Open to new CSS framework choices as they arrive.
 
 
-## Assumptions
+## Details
+
+
+### Assumptions
 
 We want to create web apps that are modern, fast, reliable, responsive, etc.
 
@@ -35,14 +60,14 @@ Typical modern web apps are reducing/eliminating the use of jQuery because of mu
   * jQuery interferes with itself if it's loaded twice, etc.
 
 
-## Constraints
+### Constraints
 
 If we choose a CSS framework that uses jQuery, then we're stuck importing jQuery. For example, Semantic UI uses jQuery, and Tachyons does not.
 
 If we choose a CSS framework that is minimal, then we forego framework components that we may want now or soon. For example, Semantic UI provides an image carousel, and Tachyons does not.
 
 
-## Positions
+### Positions
 
 We considered using no framework. This still seems viable, especially because CSS grid provides much of what we need for our project..
 
@@ -73,36 +98,39 @@ Example with Bulma:
 ```
 
 
-## Argument
+### Argument
 
 As above.
 
 Specifically, Semantic UI seems to have a caution flag both in terms of technology (i.e. so many jQuery touchpoints) and also in terms of leadership (i.e. jQuery-free was a hard no, rather than attemping a roadmap, or continous improvement, or donation fundraising, etc.).
 
 
-## Implications
+### Implications
 
 If we find a good non-jQuery CSS framework, this is generally helpful and good overall.
 
 
-## Related decisions
+## Related
+
+
+### Related decisions
 
 The CSS framework we choose may affect testability.
 
 
-## Related requirements
+### Related requirements
 
 We want to ship a purely-modern app fast. 
 
 We do not want to spend time working on older frameworks (esp. Semantic UI) using older dependencies (esp. jQuery).
 
 
-## Related artifacts
+### Related artifacts
 
 Affects all the typical HTML that will use the CSS.
 
 
-## Related principles
+### Related principles
 
 Easily reversible.
 

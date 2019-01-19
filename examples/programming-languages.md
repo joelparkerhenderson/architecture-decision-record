@@ -1,23 +1,49 @@
 # Programming languages
 
-## Issue
+Contents:
+
+* [Summary](#summary)
+  * [Issue](#issue)
+  * [Decision](#decision)
+  * [Status](#status)
+* [Details](#details)
+  * [Assumptions](#assumptions)
+  * [Constraints](#constraints)
+  * [Positions](#positions)
+  * [Argument](#argument)
+  * [Implications](#implications)
+* [Related](#related)
+  * [Related decisions](#related-decisions)
+  * [Related requirements](#related-requirements)
+  * [Related artifacts](#related-artifacts)
+  * [Related principles](#related-principles)
+* [Notes](#notes)
+
+
+## Summary
+
+
+### Issue
 
 We need to choose programming languages for our software. We have two major needs: a front-end programming language suitable for web applications, and a back-end programming language suitable for server applications.
 
 
-## Decision
+### Decision
 
 We are choosing TypeScript for the front-end.
 
 We are choosing Rush for the back-end.
 
 
-## Status
+### Status
 
 Decided. We are open to new alternatives as they arise.
 
 
-## Assumptions
+## Details
+
+
+### Assumptions
 
 The front-end applications are typical:
 
@@ -46,12 +72,12 @@ The back-end applications are higher-than-typical:
 We accept lower compile-time speeds in favor of compile-time safety and runtime speeds.
 
 
-## Constraints
+### Constraints
 
 We have a strong constraint on languages that are usuable with major cloud provider services for functions, such as Amazon Lambda.
 
 
-## Positions
+### Positions
 
 We considered these front-end langauges:
 
@@ -89,7 +115,7 @@ We considered these front-end langauges:
 
 
 
-## Argument
+### Argument
 
 Summary per language:
 
@@ -142,7 +168,7 @@ Honorable mentions go to the VM languages and web frameworks that we would choos
   * Elixir and Phoenix
 
 
-## Implications
+### Implications
 
 Front-end developers will need to learn TypeScript. This is likely an easy learning curve if the developer's primary experience is using JavaScript.
 
@@ -155,7 +181,10 @@ Compile times for TypeScript and Rust are quite slow. Some of this may be due to
 IDE support for these languages is not yet ubiquitous and not yet first-class. For example, JetBrains sells the PyCharm IDE for first-class support for Python, but does not sell and IDE with first-class support for Rust; instead, JetBrains can use a Rust plug-in that provides perhaps 80% of Rust language support vis a vis Python language support.
 
 
-## Related decisions
+## Related
+
+
+### Related decisions
 
 We will aim toward ecosystem choices that align with these langauges.
 
@@ -164,17 +193,17 @@ For example, we want to choose an IDE that has good capabilties for these langua
 For example, for our front-end web framework, we are more-likley to decide on a framework that tends to aim toward TypeScript (e.g. Vue) than a framework that tends to aim toward plain JavaScript (e.g. React).
 
 
-## Related requirements
+### Related requirements
 
 Our entire toolchain must support these languages.
 
 
-## Related artifacts
+### Related artifacts
 
 We expect we may export some secrets to environment variables.
 
 
-## Related principles
+### Related principles
 
 Measure twice, build once. We are prioritizing some safety over some speed.
 
