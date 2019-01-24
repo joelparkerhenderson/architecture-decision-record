@@ -2,7 +2,25 @@
 
 Contents:
 
-* [](#)
+* [Summary](#summary)
+  * [Issue](#issue)
+  * [Decision](#decision)
+  * [Status](#status)
+* [Details](#details)
+  * [Assumptions](#assumptions)
+  * [Constraints](#constraints)
+  * [Positions](#positions)
+  * [Argument](#argument)
+  * [Implications](#implications)
+* [Related](#related)
+  * [Related decisions](#related-decisions)
+  * [Related requirements](#related-requirements)
+  * [Related artifacts](#related-artifacts)
+  * [Related principles](#related-principles)
+* [Notes](#notes)
+  * [Microsoft Devops CI: An Unsatisfying Adventure](#microsoft-devops-ci-an-unsatisfying-adventure)
+  * [Hacker News discussion highlights](#hacker-news-discussion-highlights)
+  * [Edward Thomson (Azure PM) summary](#edward-thomson-azure-pm-summary)
 
 
 ## Summary
