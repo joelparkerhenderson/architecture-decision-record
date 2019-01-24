@@ -20,6 +20,7 @@ Contents:
 * [Notes](#notes)
   * [Microsoft Devops CI: An Unsatisfying Adventure](#microsoft-devops-ci-an-unsatisfying-adventure)
   * [Hacker News discussion highlights](#hacker-news-discussion-highlights)
+  * [Windows Development MVP](#windows-development-mvp)
   * [Edward Thomson (Azure PM) summary](#edward-thomson-azure-pm-summary)
 
 
@@ -161,6 +162,19 @@ https://news.ycombinator.com/item?id=18983586
 "The tools are not well integrated, the UI is really slow, there’s no dashboard view of active pull requests, builds, releases, etc for my favorite repos. Build/Deploy times are insanely slow."
 
 "We tried to also use Azure Boards (Work Items, Boards, Backlogs, etc). Ouch. It is a complete UI mess of disjointed ideas. Instead of implementing one thing well, they implemented two dozen things terribly."
+
+
+### Windows Development MVP
+
+Windows Development MVP here. I feel like I must shoulder some of the responsibility here for not being louder about these issues. But must say, I'm disappointed to hear you're "surprised" about the UX issues. I've been telling your folks the UX is dreadful (e.g. as far back as pre-launch) and kept hearing back "we know, we're fixing it". I'll start formalizing the feedback and push it through the pipes, stay tuned. I'm also local (Bellevue), would love to come in and try to pipeline our relatively simple oss .net/wpf/uwp app. I suspect it'll be an eye opener for the both of us.
+
+Some examples:
+
+* You can't build a pipeline with a git repo. that contains submodules
+
+* Found it impossible to edit the PATH for some custom tooling
+
+* The New Pipeline experience just doesn't make a lot of sense, new users clicking around will eventually end up at the wrong Docs.
 
 
 ### Edward Thomson (Azure PM) summary
