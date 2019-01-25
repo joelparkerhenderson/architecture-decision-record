@@ -78,7 +78,7 @@ WIP.
 
 ### Status
 
-Gathering information.
+Gathering information. We are starting with the plausible ends of the spectrum: the most-recommended older free tool (Nagios) and the most-recommended newer paid tool (New Relic).
 
 
 ## Details
@@ -203,6 +203,8 @@ We are researching positions now.
 
   
 ### Argument
+
+So far, Nagios and New Relic are the ends of the spectrum. Nagios is the oldest, simplest, free, viable tool. New Relic is the newest-featured, most-complete, paid, viable tool. We will start with evaluations of these. As needed, we will migrate into the spectrum.  
 
 So far, Zabbix has the best recommendations, and also offers the most complete capabilities.
 
