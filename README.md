@@ -37,6 +37,16 @@ All these are within the topic of **architectural knowledge management** (AKM).
 
 The goal of this document is to provide a fast overview of ADRs, how to create them, and where to look for more information.
 
+Abbreviations:
+
+  * **AD**: architectual decision
+
+  * **ADR**: architectural decision record
+
+  * **ASR**: architecturally significant requirement
+
+  * **AKM**: architectural knowledge management
+
 
 ## How to start using ADRs
 
