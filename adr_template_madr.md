@@ -1,6 +1,6 @@
 # [short title of solved problem and solution]
 
-* Status: [accepted | superseeded by [ADR-0005](0005-example.md) | deprecated | …] <!-- optional -->
+* Status: [proposed | rejected | accepted | deprecated | … | superseded by [ADR-0005](0005-example.md)] <!-- optional -->
 * Deciders: [list everyone involved in the decision] <!-- optional -->
 * Date: [YYYY-MM-DD when the decision was last updated] <!-- optional -->
 
@@ -27,11 +27,13 @@ Technical Story: [description | ticket/issue URL] <!-- optional -->
 
 Chosen option: "[option 1]", because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | … | comes out best (see below)].
 
-Positive Consequences: <!-- optional -->
+### Positive Consequences <!-- optional -->
+
 * [e.g., improvement of quality attribute satisfaction, follow-up decisions required, …]
 * …
 
-Negative consequences: <!-- optional -->
+### Negative Consequences <!-- optional -->
+
 * [e.g., compromising quality attribute, follow-up decisions required, …]
 * …
 
