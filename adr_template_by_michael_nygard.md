@@ -9,7 +9,7 @@ In each ADR file, write these sections:
 
 ## Status
 
-<proposed, accepted, rejected, deprecated, superseeded, etc.>
+<proposed, accepted, rejected, deprecated, superseded, etc.>
 
 ## Context
 
