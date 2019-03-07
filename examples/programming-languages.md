@@ -32,7 +32,7 @@ We need to choose programming languages for our software. We have two major need
 
 We are choosing TypeScript for the front-end.
 
-We are choosing Rush for the back-end.
+We are choosing Rust for the back-end.
 
 
 ### Status
@@ -79,7 +79,7 @@ We have a strong constraint on languages that are usuable with major cloud provi
 
 ### Positions
 
-We considered these front-end langauges:
+We considered these langauges:
 
   * C
 
