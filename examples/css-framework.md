@@ -1,4 +1,4 @@
-# CSS framwork
+# CSS framework
 
 Contents:
 
