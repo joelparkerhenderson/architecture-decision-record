@@ -82,7 +82,7 @@ Decision enactment and enforcement:
 
   * ADs are used in software design; hence they have to be communicated to, and accepted by, the stakeholders of the system that fund, develop, and operate it.
 
-  * Architecturally evident coding styles and code reviews that focus on architectural concerns and decisions are two related practices. 
+  * Architecturally evident coding styles and code reviews that focus on architectural concerns and decisions are two related practices.
 
   * ADs also have to be (re-)considered when modernizing a software sytem in software evolution.
 
@@ -249,6 +249,8 @@ In-depth:
 Tools:
 
   * [Command-line tools for working with Architecture Decision Records](https://github.com/npryce/adr-tools)
+
+  * [Command line tools with python by Victor Sluiter](https://bitbucket.org/tinkerer_/adr-tools-python/src/master/)
 
 Examples:
 
