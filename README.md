@@ -70,14 +70,6 @@ Decision making:
 
   * Group decision making is an active research topic.
 
-Decision documentation:
-
-  * Many templates and tools for decision capturing exist.
-
-  * See agile communities, e.g. M. Nygard's ADRs.
-
-  * See traditional software engineering and architecture design processes, e.g. table layouts suggested by IBM UMF and by Tyree and Akerman from CapitalOne.
-
 Decision enactment and enforcement:
 
   * ADs are used in software design; hence they have to be communicated to, and accepted by, the stakeholders of the system that fund, develop, and operate it.
