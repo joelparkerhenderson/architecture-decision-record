@@ -66,7 +66,7 @@ Decision identification:
 
 Decision making:
 
-  * A number of decision making techniques exists, both general ones and software and software architecture specific ones, for instance, dialogue mapping.
+  * A number of decision making techniques exists, both general ones and software architecture specific ones, for instance, dialogue mapping.
 
   * Group decision making is an active research topic.
 
@@ -76,7 +76,7 @@ Decision enactment and enforcement:
 
   * Architecturally evident coding styles and code reviews that focus on architectural concerns and decisions are two related practices.
 
-  * ADs also have to be (re-)considered when modernizing a software sytem in software evolution.
+  * ADs also have to be (re-)considered when modernizing a software system in software evolution.
 
 Decision sharing (optional):
 
