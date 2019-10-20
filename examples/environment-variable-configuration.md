@@ -41,7 +41,7 @@ Decided on .env files with related default file and schema file.
 
 ### Status
 
-Decided. Open to considering to new capabilties as they come up.
+Decided. Open to considering to new capabilities as they come up.
 
 
 ## Details
@@ -49,7 +49,7 @@ Decided. Open to considering to new capabilties as they come up.
 
 ### Assumptions
 
-We favor separating the application code and environment code. We assume the app needs to work differently in different environments, such as in a development environent, test environment, demo environment, production environment, etc.
+We favor separating the application code and environment code. We assume the app needs to work differently in different environments, such as in a development environment, test environment, demo environment, production environment, etc.
 
 We favor the industry practice of "12 factor app" and even more the related practice of "15 factor app".
 
@@ -82,12 +82,12 @@ We selected the approach of a file .env because:
 
   * It follows the pattern of `.env` files which our teams have successfully used many times on many projects.
 
-  * It is simple. Notably,  We are fine for now with the significant tradesoffs that we see, such as a lack of audit capabities as compared to an approach of a license server.
+  * It is simple. Notably,  We are fine for now with the significant trade-offs that we see, such as a lack of audit capabilities as compared to an approach of a license server.
 
 
 ### Implications 
 
-We need to figure out a way to separate environent variable configuration that is public from any secrets management.
+We need to figure out a way to separate environment variable configuration that is public from any secrets management.
 
 
 ## Related
@@ -99,12 +99,12 @@ We expect all our applications to use this approach.
 
 We will plan to upgrade any of our applications that use a less-capable approach, such as hardcoding in a binary or in source code.
 
-We will keep as-is any of our applications that use a more-capabile approach, such as a licensing server.
+We will keep as-is any of our applications that use a more-capable approach, such as a licensing server.
 
 
 ### Related requirements
 
-We will add devops capabilties for the files, including hooks, tests, and continuous integration.
+We will add devops capabilities for the files, including hooks, tests, and continuous integration.
 
 We need to train all developer teammates on this decision.
 

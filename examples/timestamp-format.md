@@ -33,7 +33,7 @@ We interact with systems that have different timestamp formats:
 
 * Some applications are set to use local time, rather than UTC time. This can be convenient for projects that must adjust to local time, such as projects that trigger events that are based on local time.
 
-* Some systems have different time precision needs and capabilities, such as using a time resolution of seconds vs. milliseconds vs. nanosecords. For example, the Linux operating system `date` command uses a default time precision of seconds, whereas the Nasdaq stock exchange wants a default time precision of nanoseconds.
+* Some systems have different time precision needs and capabilities, such as using a time resolution of seconds vs. milliseconds vs. nanoseconds. For example, the Linux operating system `date` command uses a default time precision of seconds, whereas the Nasdaq stock exchange wants a default time precision of nanoseconds.
 
 
 ### Decision
@@ -57,12 +57,12 @@ We need to handle these timestamp text strings, to convert from a timestamp to a
 
 We want a format that is generally easy to use, easy to convert, and easy for a person to read.
 
-We want compatiibility with a wide range of external systems that we cannot control, such as analytics systems, database systems, financial systems.
+We want compatibility with a wide range of external systems that we cannot control, such as analytics systems, database systems, financial systems.
 
 
 ### Constraints
 
-Some systems have time precision limitations. For example, the macOS operating system `date` command can print time precision in seconds, but not in nanaseconds.
+Some systems have time precision limitations. For example, the macOS operating system `date` command can print time precision in seconds, but not in nanoseconds.
 
 
 ### Positions
@@ -82,7 +82,7 @@ For typical use, we value easy to read/write by humans, more than raw speed/size
 
 For typical use, we want a format that works fine in machine systems, and also works well manually, such as writing sample data, reading JSON output, grepping a log file, etc.
 
-For atypical use, such as high performance computing, we expect we'll want to optimize any text format we choose by converting the the text to a faster format, such as a programming language's built-in date object type. So the text format doesn't matter much for HPC.
+For atypical use, such as high performance computing, we expect we'll want to optimize any text format we choose by converting the text to a faster format, such as a programming language's built-in date object type. So the text format doesn't matter much for HPC.
 
 
 ### Implications
