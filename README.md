@@ -218,7 +218,7 @@ Introduction:
 
 Templates:
 
-  * [Documenting architecture decisions - Michael Nygard (thinkrelevance.com)](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
+  * [Documenting architecture decisions - Michael Nygard (cognitect.com)](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html)
 
   * [Markdown Architectural Decision Records (adr.github.io)](https://adr.github.io/madr/) - provided by the [adr GitHub organization](https://adr.github.io/)
 
