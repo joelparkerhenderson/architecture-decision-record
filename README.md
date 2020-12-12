@@ -89,7 +89,7 @@ Decision sharing (optional):
 
 Decision documentation:
 
-  * Many templates and tools for decisison capturing exist.
+  * Many templates and tools for decision capturing exist.
 
   * See agile communities, e.g. M. Nygard's ADRs.
 
