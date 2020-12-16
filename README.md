@@ -255,6 +255,8 @@ Tools:
   * [Command-line tools for working with Architecture Decision Records](https://github.com/npryce/adr-tools)
 
   * [Command line tools with python by Victor Sluiter](https://bitbucket.org/tinkerer_/adr-tools-python/src/master/)
+  
+  * [Log4brains knowledge base to manage and publish ADRs as a static website](https://github.com/thomvaill/log4brains)
 
 Examples:
 
