@@ -181,7 +181,7 @@ Characteristics of a good context in an ADR:
 
   * Include rationale and considerations based on social and skills makeups of your teams
 
-Characteristics of good Consequences in an ADR::
+Characteristics of good Consequences in an ADR:
 
   * Right approach - "We need to start doing X instead of Y"
 
