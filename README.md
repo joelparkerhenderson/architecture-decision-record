@@ -208,6 +208,8 @@ ADR example templates that we have collected on the net:
 
   * [ADR template using Planguage](adr_template_using_planguage.md) (more quality assurance oriented)
 
+  * [ADR template by Paulo Merson](https://github.com/pmerson/ADR-template) (includes a rationale section, plus translated versions)
+
 
 ## Teamwork advice
 
