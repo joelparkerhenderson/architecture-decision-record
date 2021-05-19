@@ -1,4 +1,4 @@
-# ADR template for Alexandrian pattern
+# Decision record template for Alexandrian pattern
 
 ## Introduction
 

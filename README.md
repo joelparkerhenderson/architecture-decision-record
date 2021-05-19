@@ -1,8 +1,8 @@
 <!--
   * browser: architecture-decision-record
   * tracker: 2bd6622ec3beeeddd8ff55cf0ccf2efc
-  * version: 1.2.0
-  * updated: 2018-12-25T02:39:34Z
+  * version: 2.0.0
+  * updated: 2021-05-19T18:56:40Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
@@ -22,6 +22,26 @@ Contents:
 * [ADR example templates](#adr-example-templates)
 * [Teamwork advice](#teamwork-advice)
 * [For more information](#for-more-information)
+
+Templates:
+
+* [Decision record template by Jeff Tyree and Art Akerman](templates/decision_record_template_by_jeff_tyree_and_art_akerman/index.md)
+* [Decision record template by Michael Nygard](templates/decision_record_template_by_michael_nygard/index.md)
+* [Decision record template for Alexandrian pattern](templates/decision_record_template_for_alexandrian_pattern/index.md)
+* [Decision record template for business case](templates/decision_record_template_for_business_case/index.md)
+* [Decision record template for MADR](templates/decision_record_template_madr/index.md)
+* [Decision record template using Planguage](templates/decision_record_template_using_planguage/index.md)
+
+Examples:
+
+* [CSS framework](examples/css-framework/index.md)
+* [Environment variable configuration](examples/environment-variable-configuration/index.md)
+* [Metrics, monitors, alerts](examples/metrics-monitors-alerts/index.md)
+* [Microsoft Azure DevOps](examples/microsoft-azure-devops/index.md)
+* [Monorepo vs multirepo](examples/monorepo-vs-multirepo/index.md)
+* [Programming languages](examples/programming-languages/index.md)
+* [Secrets storage](examples/secrets-storage/index.md)
+* [Timestamp format](examples/timestamp-format/index.md)
 
 
 ## What is an architecture decision record?

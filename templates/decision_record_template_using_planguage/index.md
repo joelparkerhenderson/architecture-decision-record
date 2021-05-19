@@ -1,4 +1,4 @@
-# ADR template using Planguage
+# Decision record template using Planguage
 
 See http://www.iaria.org/conferences2012/filesICCGI12/Tutorial%20Specifying%20Effective%20Non-func.pdf
 

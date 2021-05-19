@@ -1,4 +1,4 @@
-# ADR template for business case
+# Decision record template for business case
 
 This ADR template emphasizes creating a business case for a decision, including critera, candidates, and costs.
 
