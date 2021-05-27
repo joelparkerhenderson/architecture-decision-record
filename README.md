@@ -216,17 +216,17 @@ A new ADR may take the place of a previous ADR:
 
 ADR example templates that we have collected on the net:
 
-  * [ADR template by Michael Nygard](adr_template_by_michael_nygard.md) (simple and popular)
+  * [ADR template by Michael Nygard](templates/decision_record_template_by_michael_nygard/index.md) (simple and popular)
 
-  * [ADR template by Jeff Tyree and Art Akerman](adr_template_by_jeff_tyree_and_art_akerman.md) (more sophisticated)
+  * [ADR template by Jeff Tyree and Art Akerman](templates/decision_record_template_by_jeff_tyree_and_art_akerman/index.md) (more sophisticated)
 
-  * [ADR template for Alexandrian pattern](adr_template_for_alexandrian_pattern.md) (simple with context specifics)
+  * [ADR template for Alexandrian pattern](template/decision_record_template_for_alexandrian_pattern/index.md) (simple with context specifics)
 
-  * [ADR template for business case](adr_template_for_business_case.md) (more MBA-oriented, with costs, SWOT, and more opinions)
+  * [ADR template for business case](template/decision_record_template_for_business_case/index.md) (more MBA-oriented, with costs, SWOT, and more opinions)
 
-  * [ADR template MADR](adr_template_madr.md) (more Markdown)
+  * [ADR template MADR](template/decision_record_template_madr/index.md) (more Markdown)
 
-  * [ADR template using Planguage](adr_template_using_planguage.md) (more quality assurance oriented)
+  * [ADR template using Planguage](template/decision_record_template_using_planguage/index.md) (more quality assurance oriented)
 
 
 ## Teamwork advice
