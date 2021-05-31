@@ -101,7 +101,7 @@ Transition from monorepo to polyrepo is a signficant devops task, and will need 
 
 ### Related decisions
 
-We will create decisions for related tooling to manage monorepos (e.g. Google Blaze) and polyrepos (e.g. Lyft Refactorator).
+We will create decisions for related tooling to manage monorepos (e.g. Google Bazel) and polyrepos (e.g. Lyft Refactorator).
 
 
 ### Related requirements
