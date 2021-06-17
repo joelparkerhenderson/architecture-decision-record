@@ -195,13 +195,13 @@ Characteristics of a good ADR:
 
   * Specificity - Each ADR should be about a single AD
 
-Characteristics of a good context in an ADR:
+Characteristics of a good "Context" section in an ADR:
 
   * Explain your organization's situation and business priorities
 
   * Include rationale and considerations based on social and skills makeups of your teams
 
-Characteristics of good Consequences in an ADR::
+Characteristics of good "Consequences" section in an ADR:
 
   * Right approach - "We need to start doing X instead of Y"
 
