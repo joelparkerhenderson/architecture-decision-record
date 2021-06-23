@@ -25,12 +25,12 @@ Contents:
 
 Templates:
 
-* [Decision record template by Jeff Tyree and Art Akerman](templates/decision_record_template_by_jeff_tyree_and_art_akerman/index.md)
-* [Decision record template by Michael Nygard](templates/decision_record_template_by_michael_nygard/index.md)
-* [Decision record template for Alexandrian pattern](templates/decision_record_template_for_alexandrian_pattern/index.md)
-* [Decision record template for business case](templates/decision_record_template_for_business_case/index.md)
-* [Decision record template for MADR](templates/decision_record_template_madr/index.md)
-* [Decision record template using Planguage](templates/decision_record_template_using_planguage/index.md)
+* [Decision record template by Jeff Tyree and Art Akerman](templates/decision-record-template-by-jeff-tyree-and-art-akerman/index.md)
+* [Decision record template by Michael Nygard](templates/decision-record-template-by-michael-nygard/index.md)
+* [Decision record template for Alexandrian pattern](templates/decision-record-template-for-alexandrian-pattern/index.md)
+* [Decision record template for business case](templates/decision-record-template-for-business-case/index.md)
+* [Decision record template for MADR](templates/decision-record-template-madr/index.md)
+* [Decision record template using Planguage](templates/decision-record-template-using-planguage/index.md)
 
 Examples:
 
@@ -117,7 +117,7 @@ Decision documentation:
 
 Decision guidance:
 
-  * The steps above are adopted from the Wikipedia entry on [Architectural Decision](https://en.wikipedia.org/wiki/Architectural_decision)
+  * The steps above are adopted from the Wikipedia entry on [Architectural Decision](https://en.wikipedia.org/wiki/Architectural-decision)
 
   * A number of decision making techniques exists, both general ones and software and software architecture specific ones, for instance, dialogue mapping.
 
@@ -166,19 +166,19 @@ We prefer to use a file name convention that has a specific format.
 
 Examples:
 
-  * choose_database.md
+  * choose-database.md
 
-  * format_timestamps.md
+  * format-timestamps.md
 
-  * manage_passwords.md
+  * manage-passwords.md
 
-  * handle_exceptions.md
+  * handle-exceptions.md
 
 Our file name convention:
 
   * The name has a present tense imperative verb phrase. This helps readability and matches our commit message format.
 
-  * The name uses lowercase and underscores (same as this repo). This is a balance of readability and system usability.
+  * The name uses lowercase and dashs (same as this repo). This is a balance of readability and system usability.
 
   * The extension is markdown. This can be useful for easy formatting.
 
@@ -216,17 +216,17 @@ A new ADR may take the place of a previous ADR:
 
 ADR example templates that we have collected on the net:
 
-  * [ADR template by Michael Nygard](templates/decision_record_template_by_michael_nygard/index.md) (simple and popular)
+  * [ADR template by Michael Nygard](templates/decision-record-template-by-michael-nygard/index.md) (simple and popular)
 
-  * [ADR template by Jeff Tyree and Art Akerman](templates/decision_record_template_by_jeff_tyree_and_art_akerman/index.md) (more sophisticated)
+  * [ADR template by Jeff Tyree and Art Akerman](templates/decision-record-template-by-jeff-tyree-and-art-akerman/index.md) (more sophisticated)
 
-  * [ADR template for Alexandrian pattern](template/decision_record_template_for_alexandrian_pattern/index.md) (simple with context specifics)
+  * [ADR template for Alexandrian pattern](template/decision-record-template-for-alexandrian-pattern/index.md) (simple with context specifics)
 
-  * [ADR template for business case](template/decision_record_template_for_business_case/index.md) (more MBA-oriented, with costs, SWOT, and more opinions)
+  * [ADR template for business case](template/decision-record-template-for-business-case/index.md) (more MBA-oriented, with costs, SWOT, and more opinions)
 
-  * [ADR template MADR](template/decision_record_template_madr/index.md) (more Markdown)
+  * [ADR template MADR](template/decision-record-template-madr/index.md) (more Markdown)
 
-  * [ADR template using Planguage](template/decision_record_template_using_planguage/index.md) (more quality assurance oriented)
+  * [ADR template using Planguage](template/decision-record-template-using-planguage/index.md) (more quality assurance oriented)
 
 
 ## Teamwork advice
