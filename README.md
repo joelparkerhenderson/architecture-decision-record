@@ -220,13 +220,13 @@ ADR example templates that we have collected on the net:
 
   * [ADR template by Jeff Tyree and Art Akerman](templates/decision-record-template-by-jeff-tyree-and-art-akerman/index.md) (more sophisticated)
 
-  * [ADR template for Alexandrian pattern](template/decision-record-template-for-alexandrian-pattern/index.md) (simple with context specifics)
+  * [ADR template for Alexandrian pattern](templates/decision-record-template-for-alexandrian-pattern/index.md) (simple with context specifics)
 
-  * [ADR template for business case](template/decision-record-template-for-business-case/index.md) (more MBA-oriented, with costs, SWOT, and more opinions)
+  * [ADR template for business case](templates/decision-record-template-for-business-case/index.md) (more MBA-oriented, with costs, SWOT, and more opinions)
 
-  * [ADR template MADR](template/decision-record-template-madr/index.md) (more Markdown)
+  * [ADR template MADR](templates/decision-record-template-madr/index.md) (more Markdown)
 
-  * [ADR template using Planguage](template/decision-record-template-using-planguage/index.md) (more quality assurance oriented)
+  * [ADR template using Planguage](templates/decision-record-template-using-planguage/index.md) (more quality assurance oriented)
 
 
 ## Teamwork advice
