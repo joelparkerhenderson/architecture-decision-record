@@ -41,7 +41,7 @@ The top-level choice is to organize as a "monorepo" or "polyrepo" or "hybrid":
   * Polyrepo means we put each piece in its own repo
   * Hhybrid means some mix of monorepo and polyrepo
 
-For more please see https://github.com/joelparkerhenderson/monorepo_vs_polyrepo
+For more please see https://github.com/joelparkerhenderson/monorepo-vs-polyrepo
 
 
 ### Decision
@@ -66,7 +66,7 @@ All the code that we're developing is for one organization's offerings, and not 
 
 ### Constraints
 
-Constraints are well-documented at https://github.com/joelparkerhenderson/monorepo_vs_polyrepo
+Constraints are well-documented at https://github.com/joelparkerhenderson/monorepo-vs-polyrepo
 
 
 ### Positions
