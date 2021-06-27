@@ -1,10 +1,10 @@
 <!--
-  * browser: architecture-decision-record
-  * tracker: 2bd6622ec3beeeddd8ff55cf0ccf2efc
-  * version: 2.0.0
-  * updated: 2021-05-19T18:56:40Z
-  * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
-  * options: commentable
+  browser: architecture-decision-record
+  tracker: 2bd6622ec3beeeddd8ff55cf0ccf2efc
+  version: 2.0.0
+  updated: 2021-05-19T18:56:40Z
+  contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+  options: commentable
 -->
 
 # Architecture decision record (ADR)
