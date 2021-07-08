@@ -39,7 +39,7 @@ The top-level choice is to organize as a "monorepo" or "polyrepo" or "hybrid":
 
   * Monorepo means we put all pieces into one big repo
   * Polyrepo means we put each piece in its own repo
-  * Hhybrid means some mix of monorepo and polyrepo
+  * Hybrid means some mix of monorepo and polyrepo
 
 For more please see https://github.com/joelparkerhenderson/monorepo-vs-polyrepo
 
