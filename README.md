@@ -30,7 +30,8 @@ Templates:
 * [Decision record template for Alexandrian pattern](templates/decision-record-template-for-alexandrian-pattern/index.md)
 * [Decision record template for business case](templates/decision-record-template-for-business-case/index.md)
 * [Decision record template for MADR](templates/decision-record-template-madr/index.md)
-* [Decision record template using Planguage](templates/decision-record-template-using-planguage/index.md)
+* [Decision record template using Planguage](templates/decision-record-template-using-planguage/index.md)  
+* [Decision record template by Paulo Merson](https://github.com/pmerson/ADR-template)
 
 Examples:
 
