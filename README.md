@@ -120,7 +120,7 @@ Decision guidance:
 
   * The steps above are adopted from the Wikipedia entry on [Architectural Decision](https://en.wikipedia.org/wiki/Architectural_decision)
 
-  * A number of decision making techniques exists, both general ones and software and software architecture specific ones, for instance, dialogue mapping.
+  * A number of decision making techniques exists, both general ones and software architecture specific ones, for instance, dialogue mapping.
 
 
 ## How to start using ADRs with tools
