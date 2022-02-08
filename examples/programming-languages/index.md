@@ -121,7 +121,7 @@ Summary per language:
 
   * C: rejected because of low safety; Rust can do nearly everything better.
 
-  * C++: rejected because it's a mess; Rush can do nearly everything better.
+  * C++: rejected because it's a mess; Rust can do nearly everything better.
 
   * Clojure: excellent modeling; best Lisp approximation; great runtime on the JVM.
   
