@@ -161,7 +161,7 @@ We believe that our core decision is driven by two cross-cutting concerns:
 
 Honorable mentions go to the VM languages and web frameworks that we would choose if we wanted a VM lanauge:
 
-  * Closure and Luminous
+  * Clojure and Luminus
 
   * Java and Spring
 
