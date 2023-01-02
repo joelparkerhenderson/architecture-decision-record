@@ -257,7 +257,7 @@ Templates:
 
   * [Documenting architecture decisions - Michael Nygard (thinkrelevance.com)](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
-  * [Markdown Architectural Decision Records (adr.github.io)](https://adr.github.io/madr/) - provided by the [adr GitHub organization](https://adr.github.io/)
+  * [Markdown Architectural Decision Records (adr.github.io)](https://adr.github.io/madr/) 
 
   * [Template for documenting architecture alternatives and decisions (stackoverflow.com)](http://stackoverflow.com/questions/7104735/template-for-documenting-architecture-alternatives-and-decisions)
 
@@ -281,10 +281,11 @@ Tools:
 
   * [Command line tools with python by Victor Sluiter](https://bitbucket.org/tinkerer_/adr-tools-python/src/master/)
 
-Company-Specific Guides:
+Company-Specific Guidance:
 
-  * [AWS Prescriptive Guidance: ADR Process](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/adr-process.html)
+  * [Amazon: AWS Prescriptive Guidance: ADR Process](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/adr-process.html)
 
+ * [GitHub: ADR GitHub organization](https://adr.github.io/)
 
 Examples:
 
