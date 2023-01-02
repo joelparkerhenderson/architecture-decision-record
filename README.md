@@ -13,15 +13,15 @@ An architecture decision record (ADR) is a document that captures an important a
 
 Contents:
 
-* [What is an architecture decision record?](#what-is-an-architecture-decision-record)
-* [How to start using ADRs](#how-to-start-using-adrs)
-* [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
-* [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
-* [ADR file name conventions](#adr-file-name-conventions)
-* [Suggestions for writing good ADRs](#suggestions-for-writing-good-adrs)
-* [ADR example templates](#adr-example-templates)
-* [Teamwork advice](#teamwork-advice)
-* [For more information](#for-more-information)
+- [What is an architecture decision record?](#what-is-an-architecture-decision-record)
+- [How to start using ADRs](#how-to-start-using-adrs)
+- [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
+- [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
+- [ADR file name conventions](#adr-file-name-conventions)
+- [Suggestions for writing good ADRs](#suggestions-for-writing-good-adrs)
+- [ADR example templates](#adr-example-templates)
+- [Teamwork advice](#teamwork-advice)
+- [For more information](#for-more-information)
 
 Templates:
 
@@ -280,6 +280,11 @@ Tools:
   * [Command-line tools for working with Architecture Decision Records](https://github.com/npryce/adr-tools)
 
   * [Command line tools with python by Victor Sluiter](https://bitbucket.org/tinkerer_/adr-tools-python/src/master/)
+
+Company-Specific Guides:
+
+  * [AWS Prescriptive Guidance: ADR Process](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/adr-process.html)
+
 
 Examples:
 
