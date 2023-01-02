@@ -287,6 +287,8 @@ Company-Specific Guidance:
 
  * [GitHub: ADR GitHub organization](https://adr.github.io/)
 
+ * [RedHat: Why you should use ADRs](https://www.redhat.com/architect/architecture-decision-records)
+  
 Examples:
 
   * [Repository of Architecture Decision Records made for the Arachne Framework](https://github.com/arachne-framework/architecture)
