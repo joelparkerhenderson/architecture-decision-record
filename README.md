@@ -36,14 +36,15 @@ Templates:
                                       
 Examples:
 
-* [CSS framework](examples/css-framework/index.md)
-* [Environment variable configuration](examples/environment-variable-configuration/index.md)
-* [Metrics, monitors, alerts](examples/metrics-monitors-alerts/index.md)
-* [Microsoft Azure DevOps](examples/microsoft-azure-devops/index.md)
-* [Monorepo vs multirepo](examples/monorepo-vs-multirepo/index.md)
-* [Programming languages](examples/programming-languages/index.md)
-* [Secrets storage](examples/secrets-storage/index.md)
-* [Timestamp format](examples/timestamp-format/index.md)
+* [CSS framework](examples/css-framework)
+* [Environment variable configuration](examples/environment-variable-configuration)
+* [Metrics, monitors, alerts](examples/metrics-monitors-alerts)
+* [Microsoft Azure DevOps](examples/microsoft-azure-devops)
+* [Monorepo vs multirepo](examples/monorepo-vs-multirepo)
+* [Programming languages](examples/programming-languages)
+* [Secrets storage](examples/secrets-storage)
+* [Timestamp format](examples/timestamp-format)
+* [Many more...](examples)
 
 
 ## What is an architecture decision record?
