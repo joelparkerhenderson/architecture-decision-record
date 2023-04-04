@@ -29,10 +29,11 @@ Templates:
 * [Decision record template by Michael Nygard](templates/decision-record-template-by-michael-nygard/index.md)
 * [Decision record template for Alexandrian pattern](templates/decision-record-template-for-alexandrian-pattern/index.md)
 * [Decision record template for business case](templates/decision-record-template-for-business-case/index.md)
-* [Decision record template for MADR](templates/decision-record-template-madr/index.md)
+* [Decision record template in Markdown](templates/decision-record-template-madr/index.md)
 * [Decision record template using Planguage](templates/decision-record-template-using-planguage/index.md)  
 * [Decision record template by Paulo Merson](https://github.com/pmerson/ADR-template)
 * [Decision record template by EdgeX](templates/decision-record-template-by-edgex/index.md)
+* [Decision record template by Olaf Zimemrmann](https://medium.com/olzzio/y-statements-10eb07b5a177)
                                       
 Examples:
 
@@ -231,7 +232,7 @@ ADR example templates that we have collected on the net:
 
   * [ADR template for business case](templates/decision-record-template-for-business-case/index.md) (more MBA-oriented, with costs, SWOT, and more opinions)
 
-  * [ADR template MADR](templates/decision-record-template-madr/index.md) (more Markdown)
+  * [ADR template MADR](templates/decision-record-template-madr/index.md) (Markdown Any/Architectural Decision Records)
 
   * [ADR template using Planguage](templates/decision-record-template-using-planguage/index.md) (more quality assurance oriented)
 
@@ -278,7 +279,9 @@ In-depth:
   * [ThoughtWorks Technology Radar: Lightweight Architecture Decision Records (thoughtworks.com)](https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records)
 
   * [A Skeptic’s Guide to Software Architecture Decisions (infoq.com)](https://www.infoq.com/articles/architecture-skeptics-guide/)
-  
+ 
+ * [Architectural Decisions — The Making Of](https://ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html)
+ 
 Tools:
 
   * [Command-line tools for working with Architecture Decision Records](https://github.com/npryce/adr-tools)
