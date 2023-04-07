@@ -18,6 +18,12 @@
 
 * [Timestamp format](timestamp-format)
 
+ChatGPT examples:
+
+* [API using JSON v. gRPC](api-using-json-v-grpc)
+
+* [Choosing a database technology](choosing-a-database-technology)
+
 Specific programming languages:
 
 * [Go programming language](go-programming-language)
