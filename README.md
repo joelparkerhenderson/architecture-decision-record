@@ -29,7 +29,7 @@ Templates:
 * [Decision record template by Michael Nygard](templates/decision-record-template-by-michael-nygard/index.md)
 * [Decision record template for Alexandrian pattern](templates/decision-record-template-for-alexandrian-pattern/index.md)
 * [Decision record template for business case](templates/decision-record-template-for-business-case/index.md)
-* [Decision record template in Markdown](templates/decision-record-template-madr/index.md)
+* [Decision record template of the MADR project](templates/decision-record-template-madr/index.md)
 * [Decision record template using Planguage](templates/decision-record-template-using-planguage/index.md)  
 * [Decision record template by Paulo Merson](https://github.com/pmerson/ADR-template)
 * [Decision record template by EdgeX](templates/decision-record-template-by-edgex/index.md)
@@ -232,7 +232,7 @@ ADR example templates that we have collected on the net:
 
   * [ADR template for business case](templates/decision-record-template-for-business-case/index.md) (more MBA-oriented, with costs, SWOT, and more opinions)
 
-  * [ADR template MADR](templates/decision-record-template-madr/index.md) (Markdown Any/Architectural Decision Records)
+  * [ADR template Markdown Any Decision Records (MADR)](templates/decision-record-template-madr/index.md) (both simple and elaborate version; the latter emphasizes options and their pros and cons)
 
   * [ADR template using Planguage](templates/decision-record-template-using-planguage/index.md) (more quality assurance oriented)
 
