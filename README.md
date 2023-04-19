@@ -33,7 +33,7 @@ Templates:
 * [Decision record template using Planguage](templates/decision-record-template-using-planguage/index.md)  
 * [Decision record template by Paulo Merson](https://github.com/pmerson/ADR-template)
 * [Decision record template by EdgeX](templates/decision-record-template-by-edgex/index.md)
-* [Decision record template by Olaf Zimemrmann](https://medium.com/olzzio/y-statements-10eb07b5a177)
+* [Decision record template by Olaf Zimmermann](https://medium.com/olzzio/y-statements-10eb07b5a177)
                                       
 Examples:
 
