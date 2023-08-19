@@ -119,11 +119,9 @@ Decision documentation:
 
   * See traditional software engineering and architecture design processes, e.g. table layouts suggested by IBM UMF and by Tyree and Akerman from CapitalOne.
 
-Decision guidance:
+For more:
 
   * The steps above are adopted from the Wikipedia entry on [Architectural Decision](https://en.wikipedia.org/wiki/Architectural_decision)
-
-  * A number of decision making techniques exists, both general ones and software architecture specific ones, for instance, dialogue mapping.
 
 
 ## How to start using ADRs with tools
