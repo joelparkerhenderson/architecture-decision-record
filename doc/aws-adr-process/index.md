@@ -1,8 +1,3 @@
-[ADR GitHub organization](https://adr.github.io)
-
-[AWS
-
-
 # AWS Architectural Decision Records Process
 
 https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/adr-process.html
