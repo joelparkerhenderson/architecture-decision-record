@@ -109,8 +109,6 @@ Decision sharing (optional):
 
   * Hence, experiences with past decisions, both good and bad, can be valuable reusable assets when employing an explicit knowledge management strategy.
 
-  * Group decision making is an active research topic.
-
 Decision documentation:
 
   * Many templates and tools for decision capturing exist.
