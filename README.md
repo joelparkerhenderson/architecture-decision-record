@@ -35,14 +35,16 @@ Templates:
 * [Decision record template by Paulo Merson](https://github.com/pmerson/ADR-template)
 * [Decision record template by Olaf Zimmermann](https://medium.com/olzzio/y-statements-10eb07b5a177)
 
- <details>
+<details>
   <summary>Templates in Spanish</summary>
-  * [Plantilla de registro de decisión de Jeff Tyree y Art Akerman](plantilla-de-registro-de-decisión-de-jeff-tyree-y-art-akerman/)
-  * [Plantilla de registro de decisión de Michael Nygard](plantilla-de-registro-de-decisión-de-michael-nygard/)
-  * [Plantilla de registro de decisión para el patrón alejandrino](plantilla-de-registro-de-decisión-para-el-patrón-alejandrino/)
-  * [Plantilla de registro de decisión para caso de negocio](plantilla-de-registro-de-decisión-para-caso-de-negocio/)
-  * [Plantilla de registro de decisión del proyecto MADR](plantilla-de-registro-de-decisión-del-proyecto-madr/)
-  * [Plantilla de registro de decisión usando Planguage](plantilla-de-registro-de-decisión-usando-planguage/)
+  <ul>
+    <li><a href="plantilla-de-registro-de-decisión-de-jeff-tyree-y-art-akerman/">Plantilla de registro de decisión de Jeff Tyree y Art Akerman</li> 
+    <li><a href="plantilla-de-registro-de-decisión-de-michael-nygard/">Plantilla de registro de decisión de Michael Nygard</li> 
+    <li><a href="plantilla-de-registro-de-decisión-para-el-patrón-alejandrino/">Plantilla de registro de decisión para el patrón alejandrino</li> 
+    <li><a href="plantilla-de-registro-de-decisión-para-caso-de-negocio/">Plantilla de registro de decisión para caso de negocio</li> 
+    <li><a href="plantilla-de-registro-de-decisión-del-proyecto-madr/">Plantilla de registro de decisión del proyecto MADR</li> 
+    <li><a href="plantilla-de-registro-de-decisión-usando-planguage/">Plantilla de registro de decisión usando Planguage</li> 
+  </ul>
 </details> 
 
 Examples:
