@@ -25,27 +25,37 @@ Contents:
 
 Templates:
 
-* [Decision record template by Jeff Tyree and Art Akerman](locales/en/templates/decision-record-template-by-jeff-tyree-and-art-akerman/index.md)
-* [Decision record template by Michael Nygard](locales/en/templates/decision-record-template-by-michael-nygard/index.md)
-* [Decision record template for Alexandrian pattern](locales/en/templates/decision-record-template-for-alexandrian-pattern/index.md)
-* [Decision record template for business case](locales/en/templates/decision-record-template-for-business-case/index.md)
-* [Decision record template of the MADR project](locales/en/templates/decision-record-template-madr/index.md)
-* [Decision record template using Planguage](locales/en/templates/decision-record-template-using-planguage/index.md)  
+* [Decision record template by Jeff Tyree and Art Akerman](locales/en/templates/decision-record-template-by-jeff-tyree-and-art-akerman/)
+* [Decision record template by Michael Nygard](locales/en/templates/decision-record-template-by-michael-nygard/)
+* [Decision record template by EdgeX](locales/en/templates/decision-record-template-by-edgex/)
+* [Decision record template for Alexandrian pattern](locales/en/templates/decision-record-template-for-alexandrian-pattern/)
+* [Decision record template for business case](locales/en/templates/decision-record-template-for-business-case/)
+* [Decision record template of the MADR project](locales/en/templates/decision-record-template-of-the-madr-project/)
+* [Decision record template using Planguage](locales/en/templates/decision-record-template-using-planguage/)  
 * [Decision record template by Paulo Merson](https://github.com/pmerson/ADR-template)
-* [Decision record template by EdgeX](locales/en/templates/decision-record-template-by-edgex/index.md)
 * [Decision record template by Olaf Zimmermann](https://medium.com/olzzio/y-statements-10eb07b5a177)
-                                      
+
+ <details>
+  <summary>Templates in Spanish</summary>
+  * [Plantilla de registro de decisión de Jeff Tyree y Art Akerman](plantilla-de-registro-de-decisión-de-jeff-tyree-y-art-akerman/)
+  * [Plantilla de registro de decisión de Michael Nygard](plantilla-de-registro-de-decisión-de-michael-nygard/)
+  * [Plantilla de registro de decisión para el patrón alejandrino](plantilla-de-registro-de-decisión-para-el-patrón-alejandrino/)
+  * [Plantilla de registro de decisión para caso de negocio](plantilla-de-registro-de-decisión-para-caso-de-negocio/)
+  * [Plantilla de registro de decisión del proyecto MADR](plantilla-de-registro-de-decisión-del-proyecto-madr/)
+  * [Plantilla de registro de decisión usando Planguage](plantilla-de-registro-de-decisión-usando-planguage/)
+</details> 
+
 Examples:
 
-* [CSS framework](locales/en/examples/css-framework)
-* [Environment variable configuration](locales/en/examples/environment-variable-configuration)
-* [Metrics, monitors, alerts](locales/en/examples/metrics-monitors-alerts)
-* [Microsoft Azure DevOps](locales/en/examples/microsoft-azure-devops)
-* [Monorepo vs multirepo](locales/en/examples/monorepo-vs-multirepo)
-* [Programming languages](locales/en/examples/programming-languages)
-* [Secrets storage](locales/en/examples/secrets-storage)
-* [Timestamp format](locales/en/examples/timestamp-format)
-* [Many more...](examples)
+* [CSS framework](locales/en/examples/css-framework/)
+* [Environment variable configuration](locales/en/examples/environment-variable-configuration/)
+* [Metrics, monitors, alerts](locales/en/examples/metrics-monitors-alerts/)
+* [Microsoft Azure DevOps](locales/en/examples/microsoft-azure-devops/)
+* [Monorepo vs multirepo](locales/en/examples/monorepo-vs-multirepo/)
+* [Programming languages](locales/en/examples/programming-languages/)
+* [Secrets storage](locales/en/examples/secrets-storage/)
+* [Timestamp format](locales/en/examples/timestamp-format/)
+* [Many more...](locales/en/examples/)
 
 
 ## What is an architecture decision record?
