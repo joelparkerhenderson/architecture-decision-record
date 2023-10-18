@@ -25,26 +25,26 @@ Contents:
 
 Templates:
 
-* [Decision record template by Jeff Tyree and Art Akerman](templates/decision-record-template-by-jeff-tyree-and-art-akerman/index.md)
-* [Decision record template by Michael Nygard](templates/decision-record-template-by-michael-nygard/index.md)
-* [Decision record template for Alexandrian pattern](templates/decision-record-template-for-alexandrian-pattern/index.md)
-* [Decision record template for business case](templates/decision-record-template-for-business-case/index.md)
-* [Decision record template of the MADR project](templates/decision-record-template-madr/index.md)
-* [Decision record template using Planguage](templates/decision-record-template-using-planguage/index.md)  
+* [Decision record template by Jeff Tyree and Art Akerman](locales/en/templates/decision-record-template-by-jeff-tyree-and-art-akerman/index.md)
+* [Decision record template by Michael Nygard](locales/en/templates/decision-record-template-by-michael-nygard/index.md)
+* [Decision record template for Alexandrian pattern](locales/en/templates/decision-record-template-for-alexandrian-pattern/index.md)
+* [Decision record template for business case](locales/en/templates/decision-record-template-for-business-case/index.md)
+* [Decision record template of the MADR project](locales/en/templates/decision-record-template-madr/index.md)
+* [Decision record template using Planguage](locales/en/templates/decision-record-template-using-planguage/index.md)  
 * [Decision record template by Paulo Merson](https://github.com/pmerson/ADR-template)
-* [Decision record template by EdgeX](templates/decision-record-template-by-edgex/index.md)
+* [Decision record template by EdgeX](locales/en/templates/decision-record-template-by-edgex/index.md)
 * [Decision record template by Olaf Zimmermann](https://medium.com/olzzio/y-statements-10eb07b5a177)
                                       
 Examples:
 
-* [CSS framework](examples/css-framework)
-* [Environment variable configuration](examples/environment-variable-configuration)
-* [Metrics, monitors, alerts](examples/metrics-monitors-alerts)
-* [Microsoft Azure DevOps](examples/microsoft-azure-devops)
-* [Monorepo vs multirepo](examples/monorepo-vs-multirepo)
-* [Programming languages](examples/programming-languages)
-* [Secrets storage](examples/secrets-storage)
-* [Timestamp format](examples/timestamp-format)
+* [CSS framework](locales/en/examples/css-framework)
+* [Environment variable configuration](locales/en/examples/environment-variable-configuration)
+* [Metrics, monitors, alerts](locales/en/examples/metrics-monitors-alerts)
+* [Microsoft Azure DevOps](locales/en/examples/microsoft-azure-devops)
+* [Monorepo vs multirepo](locales/en/examples/monorepo-vs-multirepo)
+* [Programming languages](locales/en/examples/programming-languages)
+* [Secrets storage](locales/en/examples/secrets-storage)
+* [Timestamp format](locales/en/examples/timestamp-format)
 * [Many more...](examples)
 
 
@@ -220,17 +220,17 @@ A new ADR may take the place of a previous ADR:
 
 ADR example templates that we have collected on the net:
 
-  * [ADR template by Michael Nygard](templates/decision-record-template-by-michael-nygard/index.md) (simple and popular)
+  * [ADR template by Michael Nygard](locales/en/templates/decision-record-template-by-michael-nygard/index.md) (simple and popular)
 
-  * [ADR template by Jeff Tyree and Art Akerman](templates/decision-record-template-by-jeff-tyree-and-art-akerman/index.md) (more sophisticated)
+  * [ADR template by Jeff Tyree and Art Akerman](locales/en/templates/decision-record-template-by-jeff-tyree-and-art-akerman/index.md) (more sophisticated)
 
-  * [ADR template for Alexandrian pattern](templates/decision-record-template-for-alexandrian-pattern/index.md) (simple with context specifics)
+  * [ADR template for Alexandrian pattern](locales/en/templates/decision-record-template-for-alexandrian-pattern/index.md) (simple with context specifics)
 
-  * [ADR template for business case](templates/decision-record-template-for-business-case/index.md) (more MBA-oriented, with costs, SWOT, and more opinions)
+  * [ADR template for business case](locales/en/templates/decision-record-template-for-business-case/index.md) (more MBA-oriented, with costs, SWOT, and more opinions)
 
-  * [ADR template Markdown Any Decision Records (MADR)](templates/decision-record-template-madr/index.md) (both simple and elaborate version; the latter emphasizes options and their pros and cons)
+  * [ADR template Markdown Any Decision Records (MADR)](locales/en/templates/decision-record-template-madr/index.md) (both simple and elaborate version; the latter emphasizes options and their pros and cons)
 
-  * [ADR template using Planguage](templates/decision-record-template-using-planguage/index.md) (more quality assurance oriented)
+  * [ADR template using Planguage](locales/en/templates/decision-record-template-using-planguage/index.md) (more quality assurance oriented)
 
 
 ## Teamwork advice
