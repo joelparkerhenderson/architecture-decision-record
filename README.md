@@ -34,18 +34,7 @@ Templates:
 * [Decision record template using Planguage](locales/en/templates/decision-record-template-using-planguage/)  
 * [Decision record template by Paulo Merson](https://github.com/pmerson/ADR-template)
 * [Decision record template by Olaf Zimmermann](https://medium.com/olzzio/y-statements-10eb07b5a177)
-
-<details>
-  <summary>Templates in Spanish</summary>
-  <ul>
-    <li><a href="locales/es/plantillas/plantilla-de-registro-de-decisión-de-jeff-tyree-y-art-akerman/">Plantilla de registro de decisión de Jeff Tyree y Art Akerman</li> 
-    <li><a href="locales/es/plantillas/plantilla-de-registro-de-decisión-de-michael-nygard/">Plantilla de registro de decisión de Michael Nygard</li> 
-    <li><a href="locales/es/plantillas/plantilla-de-registro-de-decisión-para-el-patrón-alejandrino/">Plantilla de registro de decisión para el patrón alejandrino</li> 
-    <li><a href="locales/es/plantillas/plantilla-de-registro-de-decisión-para-caso-de-negocio/">Plantilla de registro de decisión para caso de negocio</li> 
-    <li><a href="locales/es/plantillas/plantilla-de-registro-de-decisión-del-proyecto-madr/">Plantilla de registro de decisión del proyecto MADR</li> 
-    <li><a href="locales/es/plantillas/plantilla-de-registro-de-decisión-usando-planguage/">Plantilla de registro de decisión usando Planguage</li> 
-  </ul>
-</details> 
+* Translations: [cymraeg](locales/cy) • [español](locales/es) • [français](locales/fr] • [한국어](locales/ko)
 
 Examples:
 
