@@ -34,7 +34,7 @@ Templates:
 * [Decision record template using Planguage](locales/en/templates/decision-record-template-using-planguage/)  
 * [Decision record template by Paulo Merson](https://github.com/pmerson/ADR-template)
 * [Decision record template by Olaf Zimmermann](https://medium.com/olzzio/y-statements-10eb07b5a177)
-* Translations: [cymraeg](locales/cy) • [español](locales/es) • [français](locales/fr] • [한국어](locales/ko)
+* Translations: [cymraeg](locales/cy) • [español](locales/es) • [français](locales/fr) • [한국어](locales/ko)
 
 Examples:
 
