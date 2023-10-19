@@ -229,7 +229,7 @@ ADR example templates that we have collected on the net:
 
   * [ADR template for business case](locales/en/templates/decision-record-template-for-business-case/) (more MBA-oriented, with costs, SWOT, and more opinions)
 
-  * [ADR template of the Markdown Any Decision Records (MADR) project](locales/en/templates/locales/en/templates/decision-record-template-of-the-madr-project/) (both simple and elaborate version; the latter emphasizes options and their pros and cons)
+  * [ADR template of the Markdown Any Decision Records (MADR) project](locales/en/templates/decision-record-template-of-the-madr-project/) (both simple and elaborate version; the latter emphasizes options and their pros and cons)
 
   * [ADR template using Planguage](locales/en/templates/decision-record-template-using-planguage/) (more quality assurance oriented)
 
