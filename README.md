@@ -31,7 +31,7 @@ Templates:
 * [Decision record template for Alexandrian pattern](locales/en/templates/decision-record-template-for-alexandrian-pattern/)
 * [Decision record template for business case](locales/en/templates/decision-record-template-for-business-case/)
 * [Decision record template of the MADR project](locales/en/templates/decision-record-template-of-the-madr-project/)
-* [Decision record template using Planguage](locales/en/templates/decision-record-template-using-planguage/)  
+* [Decision record template using Planguage](locales/en/templates/decision-record-template-using-planguage/)
 * [Decision record template by Paulo Merson](https://github.com/pmerson/ADR-template)
 * [Decision record template by Olaf Zimmermann](https://medium.com/olzzio/y-statements-10eb07b5a177)
 * Translations: [cymraeg](locales/cy) • [español](locales/es) • [français](locales/fr) • [한국어](locales/ko)
@@ -257,7 +257,7 @@ Templates:
 
   * [Documenting architecture decisions - Michael Nygard (thinkrelevance.com)](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
-  * [Markdown Architectural Decision Records (adr.github.io)](https://adr.github.io/madr/) 
+  * [Markdown Architectural Decision Records (adr.github.io)](https://adr.github.io/madr/)
 
   * [Template for documenting architecture alternatives and decisions (stackoverflow.com)](http://stackoverflow.com/questions/7104735/template-for-documenting-architecture-alternatives-and-decisions)
 
@@ -276,9 +276,9 @@ In-depth:
   * [ThoughtWorks Technology Radar: Lightweight Architecture Decision Records (thoughtworks.com)](https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records)
 
   * [A Skeptic’s Guide to Software Architecture Decisions (infoq.com)](https://www.infoq.com/articles/architecture-skeptics-guide/)
- 
+
  * [Architectural Decisions — The Making Of](https://ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html)
- 
+
 Tools:
 
   * [Command-line tools for working with Architecture Decision Records](https://github.com/npryce/adr-tools)
@@ -294,7 +294,7 @@ Company-Specific Guidance:
  * [GitHub: ADR GitHub organization](https://adr.github.io/)
 
  * [RedHat: Why you should use ADRs](https://www.redhat.com/architect/architecture-decision-records)
-  
+
 Examples:
 
   * [Repository of Architecture Decision Records made for the Arachne Framework](https://github.com/arachne-framework/architecture)
