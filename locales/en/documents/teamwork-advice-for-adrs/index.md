@@ -1,4 +1,4 @@
-# Teamwork advice
+# Teamwork advice for ADRs
 
 If you're considering using decision records with your team, then here's some advice that we've learned by working with many teams.
 
