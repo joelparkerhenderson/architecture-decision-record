@@ -1,0 +1,9 @@
+# Cyngor gwaith tîm ar gyfer ADRs
+
+Os ydych chi'n ystyried defnyddio cofnodion penderfyniadau gyda'ch tîm, yna dyma ychydig o gyngor rydyn ni wedi'i ddysgu trwy weithio gyda llawer o dimau.
+
+Mae gennych gyfle i arwain eich cyd -chwaraewyr, trwy siarad gyda'i gilydd am y "pam", yn hytrach na gorfodi'r "beth". Er enghraifft, mae cofnodion penderfyniadau yn ffordd i dimau feddwl yn ddoethach a chyfathrebu'n well; Nid yw cofnodion penderfyniadau yn werthfawr os mai dim ond gofyniad gwaith papur gorfodol ar ôl y ffaith ydyn nhw.
+
+Mae'n well gan rai timau'r enw "penderfyniadau" dros y talfyriad "ADRS". Pan fydd rhai timau'n defnyddio'r enw cyfeiriadur "penderfyniadau", yna mae fel petai bwlb golau yn troi ymlaen, ac mae'r tîm yn dechrau rhoi mwy o wybodaeth yn y cyfeiriadur, megis penderfyniadau gwerthwr, penderfyniadau cynllunio, penderfyniadau amserlennu, ac ati. Mae'r holl fathau hyn o Gall gwybodaeth ddefnyddio'r un templed. Rydym yn damcaniaethu bod pobl yn dysgu'n gyflymach gyda geiriau ("penderfyniadau") dros fyrfoddau ("ADRs"), ac mae pobl yn fwy cymhelliant i ysgrifennu docs gwaith ar y gweill pan fydd y gair "record" yn cael ei dynnu, a hefyd rhai datblygwyr a rhai rheolwyr Ddim yn hoffi'r gair "pensaernïaeth".
+
+Mewn theori, mae anfarwoldeb yn ddelfrydol. Yn ymarferol, mae treiglad wedi gweithio'n well i'n timau. Rydym yn mewnosod y wybodaeth newydd yr ADR presennol, gyda stamp dyddiad, a nodyn bod y wybodaeth wedi cyrraedd ar ôl y penderfyniad. Mae'r math hwn o ddull yn arwain at "ddogfen fyw" y gallwn ni i gyd ei diweddaru. Diweddariadau nodweddiadol yw pan gawn wybodaeth diolch i gyd-chwaraewyr newydd, neu offrymau newydd, neu ganlyniadau'r byd go iawn o'n defnyddiau, neu newidiadau trydydd parti ar ôl y ffaith fel capabilties gwerthwyr, cynlluniau prisio, cytundebau trwydded, ac ati.
