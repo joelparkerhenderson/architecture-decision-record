@@ -1,8 +1,8 @@
 <!--
   browser: architecture-decision-record
   tracker: 2bd6622ec3beeeddd8ff55cf0ccf2efc
-  version: 2.0.0
-  updated: 2021-05-19T18:56:40Z
+  version: 3.0.0
+  updated: 2023-11-07T20:42:12Z
   contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   options: commentable
 -->
@@ -17,10 +17,10 @@ Contents:
 - [How to start using ADRs](#how-to-start-using-adrs)
 - [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
 - [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
-- [ADR file name conventions](#adr-file-name-conventions)
+- [File name conventions for ADRs](#file-name-conventions-for-adrs)
 - [Suggestions for writing good ADRs](#suggestions-for-writing-good-adrs)
 - [ADR example templates](#adr-example-templates)
-- [Teamwork advice](#teamwork-advice)
+- [Teamwork advice for ADRs](#teamwork-advice-for-adrs)
 - [For more information](#for-more-information)
 
 Templates:
@@ -34,7 +34,7 @@ Templates:
 * [Decision record template using Planguage](locales/en/templates/decision-record-template-using-planguage/)
 * [Decision record template by Paulo Merson](https://github.com/pmerson/ADR-template)
 * [Decision record template by Olaf Zimmermann](https://medium.com/olzzio/y-statements-10eb07b5a177)
-* Translations: [cymraeg](locales/cy) • [español](locales/es) • [français](locales/fr) • [한국어](locales/ko)
+* [Translations into more languages](locales/)
 
 Examples:
 
@@ -48,6 +48,10 @@ Examples:
 * [Timestamp format](locales/en/examples/timestamp-format/)
 * [Many more...](locales/en/examples/)
 
+[Translations into more languages](locales/)
+
+
+<div class="include" data-path="locales/en/what-is-an-architecture-decision-record">
 
 ## What is an architecture decision record?
 
@@ -75,6 +79,9 @@ Abbreviations:
 
   * **ASR**: architecturally-significant requirement
 
+</div>
+
+<div class="include" data-path="locales/en/how-to-start-using-adrs">
 
 ## How to start using ADRs
 
@@ -122,6 +129,9 @@ For more:
 
   * The steps above are adopted from the Wikipedia entry on [Architectural Decision](https://en.wikipedia.org/wiki/Architectural_decision)
 
+</div>
+
+<div class="include" data-path="locales/en/how-to-start-using-adrs-with-tools">
 
 ## How to start using ADRs with tools
 
@@ -137,6 +147,9 @@ For example:
 
   * If you like using wikis, such as MediaWiki, then you can create an ADR wiki.
 
+</div>
+
+<div class="include" data-path="locales/en/how-to-start-using-ADRs-with-git">
 
 ## How to start using ADRs with git
 
@@ -158,8 +171,11 @@ Write anything you want in the ADR. See the templates in this repository for ide
 
 Commit the ADR to your git repo.
 
+</div>
 
-## ADR file name conventions
+<div class="include" data-path="locales/en/file-name-conventions-for-adrs">
+
+## File name conventions for ADRs
 
 If you choose to create your ADRs using typical text files, then you may want to come up with your own ADR file name convention.
 
@@ -183,6 +199,9 @@ Our file name convention:
 
   * The extension is markdown. This can be useful for easy formatting.
 
+</div>
+
+<div class="import" data-path="locales/en/suggestions-for-writing-good-adrs">
 
 ## Suggestions for writing good ADRs
 
@@ -216,6 +235,7 @@ A new ADR may take the place of a previous ADR:
 
   * When an AD is made that replaces or invalidates a previous ADR, then a new ADR should be created
 
+</div>
 
 ## ADR example templates
 
@@ -233,8 +253,9 @@ ADR example templates that we have collected on the net:
 
   * [ADR template using Planguage](locales/en/templates/decision-record-template-using-planguage/) (more quality assurance oriented)
 
+<div class="import" data-path="locales/en/teamwork-advice-for-adrs">
 
-## Teamwork advice
+## Teamwork advice for ADRs
 
 If you're considering using decision records with your team, then here's some advice that we've learned by working with many teams.
 
@@ -244,6 +265,7 @@ Some teams much prefer the name "decisions" over the abbreviation "ADRs". When s
 
 In theory, immutability is ideal. In practice, mutability has worked better for our teams. We insert the new info the existing ADR, with a date stamp, and a note that the info arrived after the decision. This kind of approach leads to a "living document" that we all can update. Typical updates are when we get information thanks to new teammates, or new offerings, or real-world results of our usages, or after-the-fact third-party changes such as vendor capabilties, pricing plans, license agreements, etc.
 
+</div>
 
 ## For more information
 
