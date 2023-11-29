@@ -4,7 +4,7 @@
 
 内容：
 
-- [什么是架构决策记录？](#什么是架构决策记录？)
+- [什么是架构决策记录？](#什么是架构决策记录)
 - [How to start using ADRs](#how-to-start-using-adrs)
 - [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
 - [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
