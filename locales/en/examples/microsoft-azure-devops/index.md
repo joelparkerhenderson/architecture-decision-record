@@ -86,7 +86,7 @@ Our firsthand experience:
 
   * Azure setup is a mess of UIs, some of which overlap with Microsoft accounts, some of which don't. E.g. there's an Azure sign in, a Microsoft.com sign in, a Live.com sign in, etc. and all are simultaneously in play.
 
-  * We encountered a minor security issue during setup, and found no resolution. We tried many ways to report it, to many Microsoft reps, with no success. We successfully reported it to Microfot security, which replied with won't fix.
+  * We encountered a minor security issue during setup, and found no resolution. We tried many ways to report it, to many Microsoft reps, with no success. We successfully reported it to Microsoft security, which replied with won't fix.
 
   * Documentation is often either wrong or outdated. At least some of this is due to Microsoft's poor search engine, and some of this is due to sub-par SEO.
   
@@ -129,7 +129,7 @@ Our top 4 devops KPIs include mean time to recovery, which necessitates fast bui
 
 ### Related artifacts
 
-We want the build system to output artifacts suitable for using in other systems, such as Artefactory.
+We want the build system to output artifacts suitable for using in other systems, such as Artifactory.
 
 
 ### Related principles
