@@ -301,6 +301,8 @@ In-depth:
 
  * [Architectural Decisions — The Making Of](https://ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html)
 
+* [Architectural Retrospectives: the Key to Getting Better at Architecting](https://www.infoq.com/articles/architectural-retrospectives/)
+
 Tools:
 
   * [Command-line tools for working with Architecture Decision Records](https://github.com/npryce/adr-tools)
