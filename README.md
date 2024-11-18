@@ -5,6 +5,7 @@
   updated: 2023-11-07T20:42:12Z
   contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   options: commentable
+  summary: Architecture Decision Record (ADR) for software planning, CTO/CIO leadership teamwork, and project management documentation. Examples, templates, and tutorials. 
   tags: architecturedecisionrecord adr decisionrecord projectmanagement plan cto cio leadership teamwork documentation template tutorial architecture decision record
 -->
 
