@@ -303,7 +303,19 @@ In-depth:
 
  * [Architectural Decisions — The Making Of](https://ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html)
 
-* [Architectural Retrospectives: the Key to Getting Better at Architecting](https://www.infoq.com/articles/architectural-retrospectives/)
+  * [Architectural Retrospectives: the Key to Getting Better at Architecting](https://www.infoq.com/articles/architectural-retrospectives/)
+
+Books:
+
+  * [Software Architecture Metrics: Case Studies to Improve the Quality of Your Architecture](https://www.amazon.com/Software-Architecture-Metrics-Christian-Ciceri-ebook/dp/B0B1NZ8Z5V)
+
+  * [Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives](https://www.amazon.com/Software-Systems-Architecture-Stakeholders-Perspectives/dp/032171833X)
+
+  * [Software Architecture in Practice (SEI Series in Software Engineering)](https://www.amazon.com/Software-Architecture-Practice-SEI-Engineering-ebook/dp/B094CPJ96B)
+
+  * [Documenting Software Architectures: Views and Beyond (SEI Series in Software Engineering)](https://www.amazon.com/Documenting-Software-Architectures-Beyond-Engineering-ebook/dp/B0046XS3RO)
+
+  * [The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise](https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects-ebook/dp/B086WQ9XL1)
 
 Tools:
 
@@ -336,3 +348,34 @@ See also:
   * QOC (Questions, Options, and Criteria)
 
   * IBM’s e-Business Reference Architecture Framework
+
+
+ Software Architecture Monday by Mark Richards
+
+    [1a] Lesson 55 - Architecture Decision Records --> Which refers to:
+    [1b] The original ADR template by Michael Nygard
+    [1c] Lesson 141 - Managing Architecture Decisions
+
+[2] Fundamentals of Software Architecture: An Engineering Approach by Mark Richards and Neal Ford
+
+    [2a] Architecture Decisions
+
+[3] Software Systems Architecture by Nick Rozanski and Eoin Woods
+
+[4] Just Enough Software Architecture: A Risk-Driven Approach by George Fairbanks
+
+[5] The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise by Gregor Hohpe
+
+[6] Software Architecture Metrics by Christian Ciceri, Dave Farley, Neal Ford, Andrew Harmel-Law, Michael Keeling and Carola Lilienthal
+
+[7] Building Evolutionary Architectures by Neal Ford, Rebecca Parsons, Patrick Kua and Pramod Sadalage
+
+[8] Foundations of Decision Analysis by Ronald Howard and Ali Abbas
+
+[9] Head First Software Architecture by Raju Gandhi, Neal Ford and Mark Richards
+
+    [9a] Software Architecture Bookclub Podcast 
+
+[10] The C4 model for visualising software architecture by Simon Brown
+
+[11] Communication Patterns: A Guide for Developers and Architects by Jacqui Read 
