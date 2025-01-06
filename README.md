@@ -305,23 +305,13 @@ In-depth:
 
   * [Architectural Retrospectives: the Key to Getting Better at Architecting](https://www.infoq.com/articles/architectural-retrospectives/)
 
-Books:
-
-  * [Software Architecture Metrics: Case Studies to Improve the Quality of Your Architecture](https://www.amazon.com/Software-Architecture-Metrics-Christian-Ciceri-ebook/dp/B0B1NZ8Z5V)
-
-  * [Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives](https://www.amazon.com/Software-Systems-Architecture-Stakeholders-Perspectives/dp/032171833X)
-
-  * [Software Architecture in Practice (SEI Series in Software Engineering)](https://www.amazon.com/Software-Architecture-Practice-SEI-Engineering-ebook/dp/B094CPJ96B)
-
-  * [Documenting Software Architectures: Views and Beyond (SEI Series in Software Engineering)](https://www.amazon.com/Documenting-Software-Architectures-Beyond-Engineering-ebook/dp/B0046XS3RO)
-
-  * [The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise](https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects-ebook/dp/B086WQ9XL1)
-
+  * [Software Architecture Monday with Mark Richards](https://developertoarchitect.com/lessons/) - free monthly software architecture lesson 
+ 
 Tools:
 
   * [Command-line tools for working with Architecture Decision Records](https://github.com/npryce/adr-tools)
 
-  * [Command line tools with python by Victor Sluiter](https://bitbucket.org/tinkerer_/adr-tools-python/src/master/)
+  * [Command line tools with python - by Victor Sluiter](https://bitbucket.org/tinkerer_/adr-tools-python/src/master/)
 
   * [Architectural Design Decision Support Framework (ADvISE)](https://swa.univie.ac.at/Software_Architecture/research-projects/architectural-design-decision-support-framework-advise/)
 
@@ -329,13 +319,45 @@ Company-Specific Guidance:
 
   * [Amazon: AWS Prescriptive Guidance: ADR Process](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/adr-process.html)
 
- * [GitHub: ADR GitHub organization](https://adr.github.io/)
+  * [GitHub: ADR GitHub organization](https://adr.github.io/)
 
- * [RedHat: Why you should use ADRs](https://www.redhat.com/architect/architecture-decision-records)
+  * [RedHat: Why you should use ADRs](https://www.redhat.com/architect/architecture-decision-records)
 
 Examples:
 
   * [Repository of Architecture Decision Records made for the Arachne Framework](https://github.com/arachne-framework/architecture)
+
+Videos:
+
+  * [The C4 model for visualising software architecture - by Simon Brown](https://www.youtube.com/watch?v=KvoBrUd1-5E)
+
+Podcasts:
+
+  * [Software Architecture Bookclub Podcast](https://www.developertoarchitect.com/bookclub-podcast.html)
+
+Books:
+
+  * [Software Architecture Metrics: Case Studies to Improve the Quality of Your Architecture - by Christian Ciceri, Dave Farley, Neal Ford, Andrew Harmel-Law, Michael Keeling and Carola Lilienthal](https://www.amazon.com/Software-Architecture-Metrics-Christian-Ciceri-ebook/dp/B0B1NZ8Z5V)
+
+  * [Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives - by Nick Rozanski and Eoin Woods](https://www.amazon.com/Software-Systems-Architecture-Stakeholders-Perspectives/dp/032171833X)
+
+  * [Software Architecture in Practice (SEI Series in Software Engineering)](https://www.amazon.com/Software-Architecture-Practice-SEI-Engineering-ebook/dp/B094CPJ96B)
+
+  * [Documenting Software Architectures: Views and Beyond (SEI Series in Software Engineering)](https://www.amazon.com/Documenting-Software-Architectures-Beyond-Engineering-ebook/dp/B0046XS3RO)
+
+  * [The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise](https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects-ebook/dp/B086WQ9XL1)
+
+  * [Fundamentals of Software Architecture: An Engineering Approach - by Mark Richards and Neal Ford](https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach-ebook/dp/B0849MPK73)
+
+  * [The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise by Gregor Hohpe](https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects-ebook/dp/B086WQ9XL1)
+
+  * [Building Evolutionary Architectures - by Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage](https://www.amazon.com/Building-Evolutionary-Architectures-Neal-Ford-ebook/dp/B0BN4T1P27?crid=37FA31IFLAS0Z)
+
+  * [Foundations of Decision Analysis by Ronald Howard and Ali Abbas](https://www.amazon.com/Foundations-Decision-Analysis-Ronald-Howard-ebook/dp/B00SZECJTI?crid=14BK5SDP76UN6)
+
+  * [Head First Software Architecture - by Raju Gandhi, Neal Ford and Mark Richards](https://www.amazon.com/Head-First-Software-Architecture-Architectural-ebook/dp/B0CW1JMNF2))
+
+  * [Communication Patterns: A Guide for Developers and Architects - by Jacqui Read](https://www.amazon.com/Communication-Patterns-Guide-Developers-Architects/dp/1098140540)
 
 See also:
 
@@ -350,32 +372,5 @@ See also:
   * IBM’s e-Business Reference Architecture Framework
 
 
- Software Architecture Monday by Mark Richards
 
-    [1a] Lesson 55 - Architecture Decision Records --> Which refers to:
-    [1b] The original ADR template by Michael Nygard
-    [1c] Lesson 141 - Managing Architecture Decisions
 
-[2] Fundamentals of Software Architecture: An Engineering Approach by Mark Richards and Neal Ford
-
-    [2a] Architecture Decisions
-
-[3] Software Systems Architecture by Nick Rozanski and Eoin Woods
-
-[4] Just Enough Software Architecture: A Risk-Driven Approach by George Fairbanks
-
-[5] The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise by Gregor Hohpe
-
-[6] Software Architecture Metrics by Christian Ciceri, Dave Farley, Neal Ford, Andrew Harmel-Law, Michael Keeling and Carola Lilienthal
-
-[7] Building Evolutionary Architectures by Neal Ford, Rebecca Parsons, Patrick Kua and Pramod Sadalage
-
-[8] Foundations of Decision Analysis by Ronald Howard and Ali Abbas
-
-[9] Head First Software Architecture by Raju Gandhi, Neal Ford and Mark Richards
-
-    [9a] Software Architecture Bookclub Podcast 
-
-[10] The C4 model for visualising software architecture by Simon Brown
-
-[11] Communication Patterns: A Guide for Developers and Architects by Jacqui Read 
