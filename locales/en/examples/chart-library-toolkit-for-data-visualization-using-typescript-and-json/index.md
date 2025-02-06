@@ -1,8 +1,8 @@
 # Architecture Decision Record: chart library toolkit for data visualization using TypeScript and JSON
 
-<-- 
+<!--
 
-ChatGPT prompt
+ChatGPT prompt:
 
 Long software architecture decision record 
 chart library toolkit for data visualization using TypeScript and JSON

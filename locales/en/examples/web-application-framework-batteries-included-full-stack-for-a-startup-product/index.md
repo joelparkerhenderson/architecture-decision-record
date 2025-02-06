@@ -1,6 +1,6 @@
 # Architecture Decision Record: web application framework, batteries included, full stack, for a startup product
 
-<-- 
+<!-- 
 
 ChatGPT prompt
 
