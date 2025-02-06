@@ -4,7 +4,8 @@
 
 ChatGPT prompt
 
-Long software architecture decision record for a web application framework, batteries included, full stack, for a startup product.
+Long software architecture decision record 
+for a web application framework, batteries included, full stack, for a startup product.
 
 Evaluate Python Django, Ruby on Rails, Phoenix Elixir, Rust Loco.
 
