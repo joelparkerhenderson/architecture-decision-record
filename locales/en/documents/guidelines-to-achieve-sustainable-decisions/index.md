@@ -18,4 +18,4 @@ We learned the following lessons in our work that can serve as guidelines and as
 
 7. Provide automated consistency checking to make sure the traceability links are in sync after a change. Limit the number of dependencies between decisions and other software artifacts.
 
-8 Apply the guidelines for the justifications consequently and forcefully—they’re the most important part of the decision documentation because they give the rationale.
+8. Apply the guidelines for the justifications consequently and forcefully—they’re the most important part of the decision documentation because they give the rationale.
