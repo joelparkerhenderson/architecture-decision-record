@@ -1,46 +1,45 @@
-# How to start using ADRs
+# ADR の始め方
 
-To start using ADRs, talk with your teammates about these areas.
+ADR の活用を始めるには、以下の点についてチームメンバーと話し合ってください。
 
-Decision identification:
+意思決定の特定:
 
-  * How urgent and how important is the AD?
+  * どの程度ADに緊急性と重要性があるのか
 
-  * Does it have to be made now, or can it wait until more is known?
+  * 今すぐ行う必要があるか、それとも、詳細が判明するまで待つことができるか
 
-  * Both personal and collective experience, as well as recognized design methods and practices, can assist with decision identification.
+  * 個人および集団の経験。そして広く認められた設計手法やプラクティス。これらは意思決定の特定に役立ちます。
 
-  * Ideally maintain a decision todo list that complements the product todo list.
+  * 理想を言うと、プロダクトの ToDo リストを補完する、意思決定 ToDo リストを保守できればよいです。
 
-Decision making:
+意思決定：
 
-  * A number of decision making techniques exists, both general ones and software architecture specific ones, for instance, dialogue mapping.
+  * 意思決定手法には、数多くの手段が存在します。例えば、ダイアログマッピングなど一般的な手法とソフトウェアアーキテクチャ特有の手法の両方があります。
 
-  * Group decision making is an active research topic.
+  * グループによる意思決定は活発に研究されています。
 
-Decision enactment and enforcement:
+意思決定の制定と執行：
 
-  * ADs are used in software design; hence they have to be communicated to, and accepted by, the stakeholders of the system that fund, develop, and operate it.
+  * AD はソフトウェア設計で使用されるため、システムの投資者、開発者、運用者などの関係者に伝達され、承認される必要があります。
 
-  * Architecturally evident coding styles and code reviews that focus on architectural concerns and decisions are two related practices.
+  * アーキテクチャ的に明確なコーディングスタイルと、アーキテクチャ上の懸念事項と意思決定に焦点を当てたコードレビューは、共に行われるべき実践です。
 
-  * ADs also have to be (re-)considered when modernizing a software system in software evolution.
+  * ソフトウェアの大きな変革においてソフトウェアシステムを近代化する際にも、AD は（再）検討する必要があります。
 
-Decision sharing (optional):
+意思決定の共有（オプション）：
 
-  * Many ADs recur across projects.
+  * 多くのADはプロジェクト間で繰り返し発生します。
 
-  * Hence, experiences with past decisions, both good and bad, can be valuable reusable assets when employing an explicit knowledge management strategy.
+  * したがって、良いものも悪いものも含めた過去の意思決定に関する経験は、明白な知識管理戦略をとる際に、貴重な再利用可能な資産となり得ます。
 
-Decision documentation:
+意思決定のドキュメント化：
 
-  * Many templates and tools for decision capturing exist.
+  * 意思決定を記録するためのテンプレートやツールは数多く存在します。
 
-  * See agile communities, e.g. M. Nygard's ADRs.
+  * アジャイルコミュニティ（M. NygardのADRなど）を参照してください。
 
-  * See traditional software engineering and architecture design processes, e.g. table layouts suggested by IBM UMF and by Tyree and Akerman from CapitalOne.
+  * 従来のソフトウェアエンジニアリングおよびアーキテクチャ設計プロセス（IBM UMFやCapitalOneのTyreeとAkermanが提案したテーブルレイアウトなど）を参照してください。
 
-For more:
+詳細はこちら：
 
-  * The steps above are adopted from the Wikipedia entry on [Architectural Decision](https://en.wikipedia.org/wiki/Architectural_decision)
-
+* 上記の手順は、Wikipedia の [Architectural Decision（英語記事）](https://en.wikipedia.org/wiki/Architectural_decision) の項目から引用したものです。

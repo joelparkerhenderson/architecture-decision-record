@@ -1,19 +1,19 @@
-# How to start using ADRs with git
+# Git で ADR を使い始める方法
 
-If you like using git version control, then here is how we like to start using ADRs with git for a typical software project with source code.
+Git によるバージョン管理をしている場合、ソースコードを含む一般的なソフトウェアプロジェクトで Git で ADR を使い始める手順は以下のとおりです。
 
-Create a directory for ADR files:
+ADR ファイル用のディレクトリを作成します。
 
 ```sh
 $ mkdir adr
 ```
 
-For each ADR, create a text file, such as `database.txt`:
+各 ADR に対して、`database.txt` などのテキスト ファイルを作成します。
 
 ```sh
 $ vi database.txt
 ```
 
-Write anything you want in the ADR. See the templates in this repository for ideas.
+ADRには何でも書き込んでください。このリポジトリのテンプレートを参考に、アイデアを得てください。
 
-Commit the ADR to your git repo.
+ADRをGitリポジトリにコミットしてください。

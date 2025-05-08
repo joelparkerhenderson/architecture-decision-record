@@ -1,54 +1,54 @@
-# AWS Architectural Decision Records Process
+# AWSのADRプロセス
 
 https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/adr-process.html
 
-An architectural decision record (ADR) is a document that describes a choice the team makes about a significant aspect of the software architecture they’re planning to build. Each ADR describes the architectural decision, its context, and its consequences. ADRs have states and therefore follow a lifecycle. For an example of an ADR, see the appendix.
+ADR（Architectural Decision Record）とは、構築予定のソフトウェアアーキテクチャの重要な側面について、チームが行う選択を記述した文書です。各ADRには、アーキテクチャー決定、そのコンテキスト、およびその結果が記述されます。ADRには状態があるため、ライフサイクルに従います。ADRの例については、付録を参照のこと。
 
-The ADR process outputs a collection of architectural decision records. This collection creates the decision log. The decision log provides the project context as well as detailed implementation and design information. Project members skim the headlines of each ADR to get an overview of the project context. They read the ADRs to dive deep into project implementations and design choices.
+ADR プロセスは、アーキテクチャの決定記録のコレクションを出力します。このコレクションにより、決定ログが作成されます。決定ログは、プロジェクトのコンテキストのほか、詳細な実装および設計情報を提供します。プロジェクトメンバーは、各 ADR の見出しに目を通し、プロジェクトの概要を把握します。そして、ADRを読み、プロジェクトの実装やアーキテクチャの選択について深く掘り下げます。
 
-When the team accepts an ADR, it becomes immutable. If new insights require a different decision, the team proposes a new ADR. When the team accepts the new ADR, it supersedes the previous ADR.
-
-## Scope of the ADR process
-
-Project members should create an ADR for every architecturally significant decision that affects the software project or product, including the following (Richards and Ford 2020):
-
-* Structure (for example, patterns such as microservices)
-
-* Non-functional requirements (security, high availability, and fault tolerance)
-
-* Dependencies (coupling of components)
-
-* Interfaces (APIs and published contracts)
-
-* Construction techniques (libraries, frameworks, tools, and processes)
-
-* Functional and non-functional requirements are the most common inputs to the ADR process.
+チームがADRを受け入れると、そのADRは不変のものとなる。新たな洞察により異なる決定が必要になった場合、チームは新しいADRを提案する。チームが新しいADRを受け入れると、それは以前のADRに取って代わります。
 
 
-## ADR contents
+## ADRプロセスの範囲
 
-When the team identifies a need for an ADR, a team member starts to write the ADR based on a projectwide template. (See the ADR GitHub organization for example templates.) The template simplifies ADR creation and ensures that the ADR captures all the relevant information. At a minimum, each ADR should define the context of the decision, the decision itself, and the consequences of the decision for the project and its deliverables. (For examples of these sections, see the appendix.) One of the most powerful aspects of the ADR structure is that it focuses on the reason for the decision rather than how the team implemented it. Understanding why the team made the decision makes it easier for other team members to adopt the decision, and prevents other architects who weren’t involved in the decision-making process to overrule that decision in the future.
+プロジェクトメンバは、ソフトウェアプロジェクトやプロダクトに影響を与える、アーキテクチャ的に重要な決定ごとにADRを作成すべきです。これには以下のRichardsとFordの2020が含まれます。
 
+* 構造（例えば、マイクロサービスなどのパターン）
 
-## ADR adoption process
+* 非機能要件（セキュリティ、高可用性、耐障害性）
 
-Every team member can create an ADR, but the team should establish a definition of ownership for an ADR. Each author who is the owner of an ADR should actively maintain and communicate the ADR content. To clarify this ownership, this guide refers to ADR authors as ADR owners in the following sections. Other team members can always contribute to an ADR. If the content of an ADR changes before the team accepts the ADR, the owner should approve these changes.
+* 依存関係（コンポーネントの結合）
 
-After the team identifies an architectural decision and its owner, the ADR owner provides the ADR in the **Proposed** state at the beginning of the process. ADRs in the Proposed state are ready for review.
+* インターフェース（APIと公開コントラクト）
 
-The ADR owner then initiates the review process for the ADR. The goal of the ADR review process is to decide whether the team accepts the ADR, determines that it needs rework, or rejects the ADR. The project team, including the owner, reviews the ADR. The review meeting should start with a dedicated time slot to read the ADR. On average, 10 to 15 minutes should be enough. During this time, each team member reads the document and adds comments and questions to flag unclear topics. After the review phase, the ADR owner reads out and discusses each comment with the team.
+* 構築手法（ライブラリ、フレームワーク、ツール、プロセス）
 
-If the team finds action points to improve the ADR, the state of the ADR stays **Proposed**. The ADR owner formulates the actions, and, in collaboration with the team, adds an assignee to each action. Each team member can contribute and resolve the action points. It is the responsibility of the ADR owner to reschedule the review process.
-
-The team can also decide to reject the ADR. In this case, the ADR owner adds a reason for the rejection to prevent future discussions on the same topic. The owner changes the ADR state to **Rejected**.
-
-If the team approves the ADR, the owner adds a timestamp, version, and list of stakeholders. The owner then updates the state to **Accepted**.
-
-ADRs and the decision log they create represent decisions made by the team and provide a history of all decisions. The team uses the ADRs as a reference during code and architectural reviews where possible. In addition to performing code reviews, design tasks, and implementation tasks, team members should consult ADRs for strategic decisions for the product.
-
-As a good practice, each software change should go through peer reviews and require at least one approval. During the code review, a code reviewer might find changes that violate one or more ADRs. In this case, the reviewer asks the author of the code change to update the code, and shares a link to the ADR. When the author updates the code, it is approved by peer reviewers and merged into the main code base.
+* 機能要件と非機能要件は、ADRプロセスへの最も一般的なインプットである。
 
 
-## ADR review process
+## ADRコンテキスト
 
-The team should treat ADRs as immutable documents after the team accepts or rejects them. Changes to an existing ADR requires creating a new ADR, establishing a review process for the new ADR, and approving the ADR. If the team approves the new ADR, the owner should change the state of the old ADR to **Superseded**. 
+チームが ADR の必要性を認識すると、チーム メンバーがプロジェクト全体のテンプレートに基づいて ADR の作成を開始します (サンプル テンプレートについては、ADR GitHub organization を参照してください)。テンプレートを使用すると ADR の作成が簡単になり、ADR にすべての関連情報が確実に取り込まれるようになります。各 ADR では少なくとも、決定のコンテキスト、決定自体、プロジェクトとその成果物に対する決定の結果を定義する必要があります (これらのセクションの例については、付録を参照してください)。ADR 構造の最も強力な側面の 1 つは、チームがどのように決定を実装したかではなく、決定の理由に焦点を当てていることです。チームが決定を下した理由を理解することで、他のチーム メンバーがその決定を採用しやすくなり、意思決定プロセスに関与していない他のアーキテクトが将来その決定を覆すことを防ぐことができます。
+
+## ADR導入プロセス
+
+チームメンバーは誰でも ADR を作成できますが、ADR の所有権はチームで明確に定義する必要があります。ADR の所有者である各作成者は、ADR のコンテンツを積極的に維持管理し、共有する必要があります。この所有権を明確にするため、このガイドでは以降のセクションでは ADR 作成者を ADR 所有者（ADR オーナー）と呼びます。他のチームメンバーはいつでも ADR に貢献できます。チームが ADR を承認する前に ADR の内容が変更された場合は、所有者がその変更を承認する必要があります。
+
+チームがアーキテクチャ上の決定とその所有者を特定した後、ADR オーナーはプロセスの開始時に **提案済み** 状態の ADR を提供します。提案済み状態の ADR はレビューの準備が整っています。
+
+ADRオーナーは、ADRのレビュープロセスを開始します。ADRレビュープロセスの目的は、チームがADRを承認するか、修正が必要と判断するか、あるいは却下するかを決定することです。所有者を含むプロジェクトチームがADRをレビューします。レビュー会議は、ADRを読むための専用の時間枠を設けることから始めます。平均10～15分あれば十分です。この時間内に、各チームメンバーはドキュメントを読み、不明な点があればコメントや質問を追加します。レビューフェーズの後、ADRオーナーは各コメントを読み上げ、チームと話し合います。
+
+チームがADRを改善するためのアクションポイントを見つけた場合、ADRの状態は**提案済み**のままとなります。ADRオーナーはアクションを策定し、チームと協力して各アクションに担当者を追加します。各チームメンバーはアクションポイントに貢献し、解決することができます。レビュープロセスのスケジュール変更はADRオーナーの責任です。
+
+チームはADRを拒否することもできます。この場合、ADRオーナーは拒否の理由を追加し、同じトピックに関する将来の議論を回避します。オーナーはADRの状態を「**拒否**」に変更します。
+
+チームがADRを承認する場合、オーナーはタイムスタンプ、バージョン、関係者リストを追加します。その後、オーナーは状態を「**承認**」に更新します。
+
+ADR とそれによって作成される意思決定ログは、チームによる意思決定を表し、すべての意思決定の履歴を提供します。チームは、可能な限り、コードレビューとアーキテクチャレビューの際に ADR を参照資料として使用します。コードレビュー、設計タスク、実装タスクの実行に加えて、チームメンバーは製品の戦略的な意思決定について ADR を参照する必要があります。
+
+グッドプラクティスとして、すべてのソフトウェア変更はピアレビューを受け、少なくとも 1 回の承認を得る必要があります。コードレビュー中に、コードレビュー担当者が 1 つ以上の ADR に違反する変更を発見する場合があります。この場合、レビュー担当者はコード変更の作成者にコードの更新を依頼し、ADR へのリンクを共有します。作成者がコードを更新すると、ピアレビュー担当者によって承認され、メインのコードベースにマージされます。
+
+
+## ADRレビュープロセス
+
+チームは、ADR を承認または却下した後は、変更不可能なドキュメントとして扱う必要があります。既存の ADR を変更するには、新しい ADR を作成し、新しい ADR のレビュープロセスを確立し、ADR を承認する必要があります。チームが新しい ADR を承認した場合、オーナーは古い ADR の状態を **置換済み** に変更する必要があります。

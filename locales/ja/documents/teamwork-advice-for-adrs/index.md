@@ -1,9 +1,9 @@
-# Teamwork advice for ADRs
+# ADR向けチームワークアドバイス
 
-If you're considering using decision records with your team, then here's some advice that we've learned by working with many teams.
+チームで意思決定記録の活用を検討されている方は、ここの多くのチームとの協働を通して得られたアドバイスが参考になります。
 
-You have an opportunity to lead your teammates, by talking together about the "why", rather than mandating the "what". For example, decision records are a way for teams to think smarter and communicate better; decision records are not valuable if they're just an after-the-fact forced paperwork requirement.
+「何を」ではなく「なぜ」を話し合うことで、チームメイトを導く機会が得られます。例えば、意思決定記録は、チームがよりスマートに考え、より効果的なコミュニケーションを図るための手段です。しかし、事後的に強制的に書類作成を求められるような意思決定記録では、意味がありません。
 
-Some teams much prefer the name "decisions" over the abbreviation "ADRs". When some teams use the directory name "decisions", then it's as if a light bulb turns on, and the team starts putting more information into the directory, such as vendor decisions, planning decisions, scheduling decisions, etc. All of these kinds of information can use the same template. We hypothesize that people learn faster with words ("decisions") over abbreviations ("ADRs"), and people are more motivated to write work-in-progress docs when the word "record" is removed, and also some developers and some managers dislike the word "architecture".
+チームによっては、「ADR」という略語よりも「決定」という名称を好むところもあります。とあるチームでは、「decisions」というディレクトリを使うことで、まるで電球が点いたかのように、ベンダーの決定、計画の決定、スケジュールの決定など、より多くの情報をディレクトリに入力し始めました。これらの情報はすべて同じテンプレートを使用できます。私たちは、略語（「ADR」）よりも単語（「decisions」）の方が学習が早くなる、また「record」という単語を削除することで作業中のドキュメントを作成する意欲が高まる、そして一部の開発者やマネージャーは「architecture」という単語を嫌う、という仮説を立てています。
 
-In theory, immutability is ideal. In practice, mutability has worked better for our teams. We insert the new info the existing ADR, with a date stamp, and a note that the info arrived after the decision. This kind of approach leads to a "living document" that we all can update. Typical updates are when we get information thanks to new teammates, or new offerings, or real-world results of our usages, or after-the-fact third-party changes such as vendor capabilties, pricing plans, license agreements, etc.
+理論上、ADRは不変であることが理想的です。しかし実際、私たちのチームでは可変性の方がうまく機能していました。新しい情報を既存のADRに挿入し、日付スタンプと、決定後に情報が届いたことを示すメモを添えます。このようなアプローチにより、全員が更新できる「生きた文書」が生まれます。例えば典型的な更新の例でいうと、新しいチームメンバー、新しい提供物、実際の使用してみた結果、あるいはベンダーの機能、価格プラン、ライセンス契約などのサードパーティの事後的な変更などによって情報を入手した場合です。

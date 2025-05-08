@@ -1,31 +1,31 @@
-## Suggestions for writing good ADRs
+## 良いADR作成のための提案
 
-Characteristics of a good ADR:
+良いADRの特徴：
 
-  * Rationale: Explain the reasons for doing the particular AD. This can include the context (see below), pros and cons of various potential choices, feature comparions, cost/benefit discussions, and more.
+  * 根拠を示すこと: 特定のADを実施する理由を説明します。これには、「背景」（下記参照）、様々な選択肢の長所と短所、機能の比較、費用対効果の検討などが含まれます。
 
-  * Specific: Each ADR should be about one AD, not multiple ADs.
+  * 具体的であること: 各ADRは、複数のADではなく、1つのADについて記述する必要があります。
 
-  * Timestamps: Identify when each item in the ADR is written. This is especially important for aspects that may change over time, such as costs, schedules, scaling, and the like.
+  * タイムスタンプ: ADRの各項目がいつ作成されたかを明確にします。これは、コスト、スケジュール、規模感など、時間の経過とともに変化する可能性のある要素において特に重要です。
 
-  * Immutable: Don't alter existing information in an ADR. Instead, amend the ADR by adding new information, or supersede the ADR by creating a new ADR.
+  * 変更不可であること: ADR内の既存の情報を変更しないでください。代わりに、新しい情報を追加してADRを修正するか、新しいADRを作成して既存のADRを置き換えます。
 
-Characteristics of a good "Context" section in an ADR:
+ADRにおける適切な「背景」セクションの特徴：
 
-  * Explain your organization's situation and business priorities.
+  * 組織の状況とビジネス上の優先事項を説明する。
 
-  * Include rationale and considerations based on social and skills makeups of your teams.
+  * チームの社会的・スキル構成に基づいた根拠と考慮事項を記載する。
 
-  * Include pros and cons that are relevant, and describe them in terms that align with your needs and goals.
+  * 関連する長所と短所を記載し、ニーズと目標に沿った言葉で説明する。
 
-Characteristics of good "Consequences" section in an ADR:
+ADRにおける優れた「結果」セクションの特徴：
 
-  * Explain what follows from making the decision. This can include the effects, outcomes, outputs, follow ups, and more.
+  * 意思決定の結果として何が起こるかを説明します。これには、影響、成果、アウトプット、フォローアップなどが含まれます。
 
-  * Include information about any subsequent ADRs. It's relatively common for one ADR to trigger the need for more ADRs, such as when one ADR makes a big overarching choice, which in turn creates needs for more smaller decisions.
+  * 後続のADRに関する情報も含めます。1つのADRが、より大きな包括的な選択を行い、それがさらにより小さな意思決定の必要性を生み出すなど、より多くのADRの必要性を引き起こすことは比較的よくあります。
 
-  * Include any after-action review processes. It's typical for teams to review each ADR one month later, to compare the ADR information with what's happened in actual practice, in order to learn and grow.
+  * 事後レビュープロセスがあれば含めます。チームが1か月後に各ADRをレビューし、ADRの情報と実際の状況を比較することで、学習と成長を図るのが一般的です。
 
-A new ADR may take the place of a previous ADR:
+新しいADRが以前のADRに代わる場合があります：
 
-  * When an AD is made that replaces or invalidates a previous ADR, then a new ADR should be created
+  * 以前のADRを置き換える、または無効にするADが作成された場合は、新しいADRを作成する必要があります。

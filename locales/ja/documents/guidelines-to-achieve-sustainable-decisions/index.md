@@ -1,21 +1,21 @@
-# Guidelines to Achieve Sustainable Decisions
+# 持続可能な意思決定を実現するためのガイドライン
 
 <https://www.infoq.com/articles/sustainable-architectural-design-decisions/>
 
-We learned the following lessons in our work that can serve as guidelines and assessment for achieving sustainable decisions:
+私たちは、この作業を通して、持続可能な意思決定を実現するためのガイドラインと評価基準となる以下の教訓を学びました。
 
-1. Use a lean/minimalistic approach for the initial decision documentation.
+1. 初期の意思決定文書には、無駄を省いたミニマリスト的なアプローチを採用する。
 
-2. Prioritize and capture all important decisions that are relevant enough for documenting and understanding the target architecture.
+2. 対象アーキテクチャの文書化と理解に十分関連する重要な意思決定をすべて優先順位付けし、記録する。
 
-3. Detail the particularly important decisions with full-blown templates only after the initial work has been done (that is, when the decision makers are content with the architectural decisions made and confident that these decisions don’t have to be revised any time soon).
+3. 特に重要な意思決定については、初期作業が完了した後（つまり、意思決定者がアーキテクチャ上の意思決定に満足し、これらの意思決定をすぐに修正する必要がないと確信した後）にのみ、本格的なテンプレートを使用して詳細を記述する。
 
-4. Use the lean/minimalistic versions from step 1 as a short version of documented decisions with the right granularity level to provide an overview of the detailed decisions, as well as for trivial or obvious decisions.
+4. ステップ1で作成した簡潔なバージョンを、適切な粒度で文書化された意思決定の短縮版として使用し、詳細な意思決定だけでなく、些細な意思決定や明白な意思決定についても概要を示す。
 
-5. Wherever possible, use existing architectural knowledge, either from guidance models or from other sources. Review and extend such knowledge and fit it to the context of the specific decision.
+5. 可能な限り、ガイダンスモデルやその他の情報源から得られる既存のアーキテクチャに関する知識を活用します。これらの知識をレビュー・拡張し、具体的な意思決定のコンテキストに適合させます。
 
-6. Ensure that traceability links are established between decisions and both requirements and architectural designs/code. 
+6. 意思決定と要件、そしてアーキテクチャ設計／実装との間にトレーサビリティがしっかりと繋がっていることを確認する。
 
-7. Provide automated consistency checking to make sure the traceability links are in sync after a change. Limit the number of dependencies between decisions and other software artifacts.
+7. 変更後にトレーサビリティの繋がりが同期されていることを確認するために、自動化された整合性チェックを提供する。意思決定と他のソフトウェア成果物との間の依存関係の数を制限する。
 
-8 Apply the guidelines for the justifications consequently and forcefully—they’re the most important part of the decision documentation because they give the rationale.
+8. 根拠の紐づいたガイドラインを、結果的かつ強力に適用する。このガイドラインは、合理性を示すものであるため、意思決定文書の中で最も重要な部分。

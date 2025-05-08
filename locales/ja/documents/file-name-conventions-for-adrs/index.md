@@ -1,23 +1,23 @@
-# File name conventions
+# ファイル名の命名規則
 
-If you choose to create your ADRs using typical text files, then you may want to come up with your own ADR file name convention.
+一般的なテキストファイルを使用してADRを作成する場合は、独自のADRファイル名の命名規則を設定することをお勧めします。
 
-We prefer to use a file name convention that has a specific format.
+特定の形式のファイル名の命名規則を使用することをお勧めします。
 
-Examples:
+例：
 
-  * choose-database.md
+  * データベース選定.md
 
-  * format-timestamps.md
+  * タイムスタンプフォーマット.md
 
-  * manage-passwords.md
+  * パスワード管理.md
 
-  * handle-exceptions.md
+  * 例外処理.md
 
-Our file name convention:
+ファイル名の命名規則：
 
-  * The name has a present tense imperative verb phrase. This helps readability and matches our commit message format.
+  * ファイル名は名詞で終わらせます。これは読みやすさを向上させます。
 
-  * The name uses lowercase and dashes (same as this repo). This is a balance of readability and system usability.
+  * ファイル名には日本語と必要に応じてダッシュを使用します（このリポジトリと同じです）。これは読みやすさとシステムの使いやすさのバランスです。
 
-  * The extension is markdown. This can be useful for easy formatting.
+  * 拡張子はmarkdownです。これは書式設定を容易にするのに役立ちます。

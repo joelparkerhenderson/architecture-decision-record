@@ -1,25 +1,25 @@
-## What is an architecture decision record?
+## アーキテクチャ決定記録とは？
 
-An **architecture decision record** (ADR) is a document that captures an important architectural decision made along with its context and consequences.
+**アーキテクチャ決定記録** (ADR) は、重要なアーキテクチャ上の決定とその背景および結果を記録した文書です。
 
-An **architecture decision** (AD) is a software design choice that addresses a significant requirement.
+**アーキテクチャ決定** (AD) は、重要な要件に対応するソフトウェア設計上の選択です。
 
-An **architecture decision log** (ADL) is the collection of all ADRs created and maintained for a particular project (or organization).
+**アーキテクチャ決定ログ** (ADL) は、特定のプロジェクト (または組織) のために作成および維持されるすべての ADR の集合です。
 
-An **architecturally-significant requirement** (ASR) is a requirement that has a measurable effect on a software system’s architecture.
+**アーキテクチャ上重要な要件** (ASR) は、ソフトウェアシステムのアーキテクチャに測定可能な影響を与える要件です。
 
-All these are within the topic of **architecture knowledge management** (AKM).
+これらはすべて、**アーキテクチャ知識管理** (AKM) のトピックに含まれます。
 
-The goal of this document is to provide a fast overview of ADRs, how to create them, and where to look for more information.
+このドキュメントの目的は、ADR の概要、作成方法、および詳細情報の参照先を簡単に説明することです。
 
-Abbreviations:
+略語：
 
-  * **AD**: architecture decision
+* **AD**: アーキテクチャ決定
 
-  * **ADL**: architecture decision log
+* **ADL**: アーキテクチャ決定ログ
 
-  * **ADR**: architecture decision record
+* **ADR**: アーキテクチャ決定記録
 
-  * **AKM**: architecture knowledge management
+* **AKM**: アーキテクチャ知識管理
 
-  * **ASR**: architecturally-significant requirement
+* **ASR**: アーキテクチャ上重要な要件
