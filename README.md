@@ -369,7 +369,7 @@ In-depth:
 * [Architectural Retrospectives: the Key to Getting Better at Architecting](https://www.infoq.com/articles/architectural-retrospectives/)
 
 * [Software Architecture Monday with Mark Richards](https://developertoarchitect.com/lessons/) - free monthly software architecture lesson
- 
+
 Tools:
 
 * [Command-line tools for working with Architecture Decision Records](https://github.com/npryce/adr-tools)
