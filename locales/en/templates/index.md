@@ -7,3 +7,4 @@
 * [Decision record template for business case](decision-record-template-for-business-case)
 * [Decision record template of the MADR Project](decision-record-template-of-the-madr-project)
 * [Decision record template using Planguage](decision-record-template-using-planguage)
+* [Decision record template by Berni Ruoff](decision-record-template-by-berni-ruoff)
