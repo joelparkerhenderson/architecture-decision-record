@@ -8,3 +8,4 @@
 * [Decision record template of the MADR Project](decision-record-template-of-the-madr-project)
 * [Decision record template using Planguage](decision-record-template-using-planguage)
 * [Decision record template by Gareth Morgan](decision-record-template-by-gareth-morgan)
+  
