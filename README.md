@@ -1,8 +1,8 @@
 <!--
   browser: architecture-decision-record
   tracker: 2bd6622ec3beeeddd8ff55cf0ccf2efc
-  version: 3.1.0
-  updated: 2025-05-18T11:55:54Z
+  version: 3.2.0
+  updated: 2025-05-29T14:13:27Z
   contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   options: commentable
   summary: Architecture Decision Record (ADR) for software planning, CTO/CIO leadership teamwork, and project management documentation. Examples, templates, and tutorials. 
@@ -24,14 +24,6 @@ Contents:
 * [ADR example templates](#adr-example-templates)
 * [Teamwork advice for ADRs](#teamwork-advice-for-adrs)
 * [Teamwork questions for ADRs](#teamwork-questions-for-adrs)
-  * [Who can create an ADR?](#who-can-create-an-adr)
-  * [What justifies raising an ADR?](#what-justifies-raising-an-adr)
-  * [What justifies not rasing an ADR?](#what-justifies-not-rasing-an-adr)
-  * [What is the lifecycle of an ADR?](#what-is-the-lifecycle-of-an-adr)
-  * [What are criteria for lifecycle steps of an ADR?](#what-are-criteria-for-lifecycle-steps-of-an-adr)
-  * [What roles and responsibilities interact with an ADR?](#what-roles-and-responsibilities-interact-with-an-adr)
-  * [How does governance interact with an ADR?](#how-does-governance-interact-with-an-adr)
-  * [What principles interact with an ADR?](#what-principles-interact-with-an-adr)
 * [For more information](#for-more-information)
 
 Templates:
@@ -46,6 +38,7 @@ Templates:
 * [Decision record template by Paulo Merson](https://github.com/pmerson/ADR-template)
 * [Decision record template by Olaf Zimmermann](https://medium.com/olzzio/y-statements-10eb07b5a177)
 * [Decision record template by Gareth Morgan](locales/en/templates/decision-record-template-by-gareth-morgan/)
+* [Decision record template by GIG Cymru NHS Wales](locales/en/templates/decision-record-template-by-gig-cymru-nhs-wales/)
 * [Translations into more languages](locales/)
 
 Examples:
