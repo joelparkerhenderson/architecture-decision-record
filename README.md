@@ -370,6 +370,8 @@ In-depth:
 
 * [Software Architecture Monday with Mark Richards](https://developertoarchitect.com/lessons/) - free monthly software architecture lesson
 
+* [Solution Architecture Decisions - By Gareth Morgan](https://www.linkedin.com/pulse/solution-architecture-decisions-gareth-morgan-0r5xe/)
+
 Tools:
 
 * [Command-line tools for working with Architecture Decision Records](https://github.com/npryce/adr-tools)
