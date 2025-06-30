@@ -24,6 +24,7 @@ Contents:
 * [ADR example templates](#adr-example-templates)
 * [Teamwork advice for ADRs](#teamwork-advice-for-adrs)
 * [Teamwork questions for ADRs](#teamwork-questions-for-adrs)
+* [Next step concepts for ADRs](#next-step-concepts-for-adrs)
 * [For more information](#for-more-information)
 
 Templates:
@@ -302,7 +303,7 @@ Example answer: We want an ADR to have five lifecycle stages: Initiating → Res
 ### What are criteria for lifecycle steps of an ADR?
 
 Consider areas such as acceptance criteria for an ADR, meaning how do you know it's good enough to progress from one lifecycle step to the next? Is the problem clearly articulated? Have the alternatives been considered? Are trade-offs well-enough understood and documented?
-Is all relevant context in place? Are all revelant stakeholders involved? Has all feedback been incorporated? 
+Is all relevant context in place? Are all relevant stakeholders involved? Has all feedback been incorporated? 
 
 Example answer: We want an ADR to be voted on by stakeholders when the active team has 1) completed their research, 2) completed their evaluation, 3) published the ADR proposal to the stakeholders with a request for comments and a timebox of one week, 4) all stakeholder comments have been incorporated and addressed.
 
@@ -325,6 +326,14 @@ Consider areas such as your organization's ways of working that include  moving 
 Example answer: We use the leadership priciples of bias for action, disagree-and-commit, 70% estimates are good enough for easily-reversable easily-isolatable decisions, and public ways of working with the exception of confidential information as described in our organization's confidentiality agreement.
 
 </div>
+
+<div class="import" data-path="locales/en/documents/next-step-concepts-for-adrs">
+
+## Next step concepts for ADRs
+
+[Arc42](https://arc42.org/) answers two questions in a pragmatic way and can be tailored to your specific needs. What should you document/communicate about your architecture? How should you document/communicate? Arc42 includes architecture decision records plus guidance on goals, contraints, contexts, quality, risks, and more.
+
+[The C4 model](https://c4model.com/)  is an easy to learn, developer friendly approach to software architecture diagramming.  C4 is a set of hierarchical digrams for context, containers, components, code, plus supporting diagrams for system landscape, dynamic, and deployment.
 
 ## For more information
 
@@ -387,6 +396,8 @@ Examples:
 * [Repository of Architecture Decision Records made for the Arachne Framework](https://github.com/arachne-framework/architecture)
 
 Videos:
+
+* [An introduction to arc42 with Savvas Kleanthous](https://www.youtube.com/watch?v=V5clR8c6D7o)
 
 * [The C4 model for visualising software architecture - by Simon Brown](https://www.youtube.com/watch?v=KvoBrUd1-5E)
 
