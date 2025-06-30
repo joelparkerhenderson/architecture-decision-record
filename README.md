@@ -32,6 +32,7 @@ Templates:
 * [Decision record template by Jeff Tyree and Art Akerman](locales/en/templates/decision-record-template-by-jeff-tyree-and-art-akerman/)
 * [Decision record template by Michael Nygard](locales/en/templates/decision-record-template-by-michael-nygard/)
 * [Decision record template by EdgeX](locales/en/templates/decision-record-template-by-edgex/)
+* [Decision record template by arc42](locales/en/templates/decision-record-template-by-arc42/)
 * [Decision record template for Alexandrian pattern](locales/en/templates/decision-record-template-for-alexandrian-pattern/)
 * [Decision record template for business case](locales/en/templates/decision-record-template-for-business-case/)
 * [Decision record template of the MADR project](locales/en/templates/decision-record-template-of-the-madr-project/)
