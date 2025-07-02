@@ -289,7 +289,7 @@ Consider areas such as your organization's team ways of working, your software s
 
 Example answer: We want to create an ADR when we want future developers to understand the “why” of what we're doing.
 
-### What justifies not rasing an ADR?
+### What justifies not raising an ADR?
 
 Consider areas such as decisions that are not about architecture, or are tiny such as minimal-risk or self-contained or single-developer, or are already fully covered elsewhere such as by standards or policies or documentation, or are temporary such as workarounds or proofs of concepts or orexperiments. 
 
