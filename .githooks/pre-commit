@@ -1,0 +1,37 @@
+#!/bin/sh
+
+# Temporary file to store the list of files that need cleanup
+TEMP_FILE=$(mktemp)
+
+# Collect staged files with potential whitespace issues
+git diff --cached --name-only --diff-filter=ACM > "$TEMP_FILE"
+
+# Check if any of these files have whitespace issues
+NEEDS_CLEANUP=false
+while read -r FILE; do
+  if ! git diff --cached --check -- "$FILE"; then
+    NEEDS_CLEANUP=true
+    break
+  fi
+done < "$TEMP_FILE"
+
+# Cleanup process
+if [ "$NEEDS_CLEANUP" = true ]; then
+  # Loop through the files and apply git-stripspace
+  while read -r FILE; do
+    git show ":$FILE" | git stripspace > "$FILE"
+    git add "$FILE"
+  done < "$TEMP_FILE"
+
+  # Inform the user
+  echo 'Cleanup trailing whitespaces is done'
+fi
+
+# Clean up - remove the temporary file
+rm "$TEMP_FILE"
+
+if [ "$NEEDS_CLEANUP" = false ]; then
+  echo "No need to cleanup"
+fi
+# Continue with the original commit
+exit 0
