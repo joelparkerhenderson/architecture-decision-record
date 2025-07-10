@@ -105,7 +105,7 @@ Decision identification:
 
 Decision making:
 
-* A number of decision making techniques exists, both general ones and software architecture specific ones, for instance, dialogue mapping.
+* A number of decision making techniques exist, both general ones and software architecture specific ones, for instance, dialogue mapping.
 
 * Group decision making is an active research topic.
 
