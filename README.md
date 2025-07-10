@@ -318,7 +318,7 @@ Example answer: We want each ADR to always have a primary contact person, second
 
 Consider areas such as your organization's ways of working, any special compliance needs such as for legal aspects or human resource aspects, how you want to handle consensus versus conflict versus escalation. Are there areas or people or teams that can have more influence than others regarding an ADR, such as being able to approve it, or vote on it, or veto it?
 
-Example answer: The governance of an ADR is in this priority order: the CEO, the CTO, the CLO, the team that implements an ADR, the experts on the team that are most-knowledgeable about the ADD. No one else has governance unless described in the ADR. 
+Example answer: The governance of an ADR is in this priority order: the CEO, the CTO, the CLO, the team that implements an ADR, the experts on the team that are most-knowledgeable about the AD. No one else has governance unless described in the ADR. 
 
 ### What principles interact with an ADR?
 
