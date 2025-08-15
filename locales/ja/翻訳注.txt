@@ -1,0 +1,4 @@
+「ADR」の訳語はAWSやAzureに従って「アーキテクチャ決定レコード」とする。
+
+AWS： https://docs.aws.amazon.com/ja_jp/prescriptive-guidance/latest/architectural-decision-records/adr-process.html
+Azure： https://learn.microsoft.com/ja-jp/azure/well-architected/architect-role/architecture-decision-record

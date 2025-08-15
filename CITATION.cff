@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: Architecture decision record (ADR)
+message: >-
+  If you use this work and you want to cite it,
+  then you can use the metadata from this file.
+type: software
+authors:
+  - given-names: Joel Parker
+    family-names: Henderson
+    email: joel@joelparkerhenderson.com
+    affiliation: joelparkerhenderson.com
+    orcid: 'https://orcid.org/0009-0000-4681-282X'
+identifiers:
+  - type: url
+    value: 'https://github.com/joelparkerhenderson/architecture-decision-record/'
+    description: Architecture decision record (ADR)
+repository-code: 'https://github.com/joelparkerhenderson/architecture-decision-record/'
+abstract: >-
+  Architecture decision record (ADR)
+license: See license file
