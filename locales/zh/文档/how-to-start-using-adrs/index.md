@@ -4,13 +4,13 @@
 
 决策识别：
 
-  * How urgent and how important is the AD?
+  * AD 的紧急程度和重要性如何？
 
-  * Does it have to be made now, or can it wait until more is known?
+  * 必须现在就做，还是可以等到了解更多信息后再做？
 
-  * Both personal and collective experience, as well as recognized design methods and practices, can assist with decision identification.
+  * 个人和集体经验以及公认的设计方法和实践都可以帮助做出决策。
 
-  * Ideally maintain a decision todo list that complements the product todo list.
+  * 理想情况下，应维护一份与产品待办事项清单相对应的决策待办事项清单。
 
 做出决策：
 

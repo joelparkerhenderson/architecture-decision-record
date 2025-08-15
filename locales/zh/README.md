@@ -4,45 +4,50 @@
 
 内容：
 
-- [什么是架构决策记录？](#什么是架构决策记录)
-- [How to start using ADRs](#how-to-start-using-adrs)
-- [How to start using ADRs with tools](#how-to-start-using-adrs-with-tools)
-- [How to start using ADRs with git](#how-to-start-using-adrs-with-git)
-- [File name conventions for ADRs](#file-name-conventions-for-adrs)
-- [Suggestions for writing good ADRs](#suggestions-for-writing-good-adrs)
-- [ADR example templates](#adr-example-templates)
-- [Teamwork advice for ADRs](#teamwork-advice-for-adrs)
-- [For more information](#for-more-information)
+- [什么是架构决策记录 ADR](#什么是架构决策记录？)
+- [如何开始使用 ADR](#how-to-start-using-adrs)
+- [如果开始使用工具进行 ADR](#how-to-start-using-adrs-with-tools)
+- [如何开始使用 Git 进行 ADR](#how-to-start-using-adrs-with-git)
+- [ADR 文件名约定](#file-name-conventions-for-adrs)
+- [编写良好 ADR 的建议](#suggestions-for-writing-good-adrs)
+- [ADR 示例模板](#adr-example-templates)
+* [ADR 的团队协作建议](#teamwork-advice-for-adrs)
+* [ADR 的团队协作问题](#teamwork-questions-for-adrs)
+* [ADR 的下一步概念](#next-step-concepts-for-adrs)
+* [了解更多信息](#for-more-information)
 
 模板：
 
-* [Decision record template by Jeff Tyree and Art Akerman](locales/en/templates/decision-record-template-by-jeff-tyree-and-art-akerman/)
-* [Decision record template by Michael Nygard](locales/en/templates/decision-record-template-by-michael-nygard/)
-* [Decision record template by EdgeX](locales/en/templates/decision-record-template-by-edgex/)
-* [Decision record template for Alexandrian pattern](locales/en/templates/decision-record-template-for-alexandrian-pattern/)
-* [Decision record template for business case](locales/en/templates/decision-record-template-for-business-case/)
-* [Decision record template of the MADR project](locales/en/templates/decision-record-template-of-the-madr-project/)
-* [Decision record template using Planguage](locales/en/templates/decision-record-template-using-planguage/)
+* [Decision record template by Jeff Tyree and Art Akerman](locales/zh/templates/decision-record-template-by-jeff-tyree-and-art-akerman/)
+* [Decision record template by Michael Nygard](locales/zh/templates/decision-record-template-by-michael-nygard/)
+* [Decision record template by EdgeX](locales/zh/templates/decision-record-template-by-edgex/)
+* [Decision record template by arc42](locales/zh/templates/decision-record-template-by-arc42/)
+* [Decision record template for Alexandrian pattern](locales/zh/templates/decision-record-template-for-alexandrian-pattern/)
+* [Decision record template for business case](locales/zh/templates/decision-record-template-for-business-case/)
+* [Decision record template of the MADR project](locales/zh/templates/decision-record-template-of-the-madr-project/)
+* [Decision record template using Planguage](locales/zh/templates/decision-record-template-using-planguage/)
 * [Decision record template by Paulo Merson](https://github.com/pmerson/ADR-template)
 * [Decision record template by Olaf Zimmermann](https://medium.com/olzzio/y-statements-10eb07b5a177)
+* [Decision record template by Gareth Morgan](locales/zh/templates/decision-record-template-by-gareth-morgan/)
+* [Decision record template by GIG Cymru NHS Wales](locales/zh/templates/decision-record-template-by-gig-cymru-nhs-wales/)
 * [Translations into more languages](locales/)
 
 案例：
 
-* [CSS framework](locales/en/examples/css-framework/)
-* [Environment variable configuration](locales/en/examples/environment-variable-configuration/)
-* [Metrics, monitors, alerts](locales/en/examples/metrics-monitors-alerts/)
-* [Microsoft Azure DevOps](locales/en/examples/microsoft-azure-devops/)
-* [Monorepo vs multirepo](locales/en/examples/monorepo-vs-multirepo/)
-* [Programming languages](locales/en/examples/programming-languages/)
-* [Secrets storage](locales/en/examples/secrets-storage/)
-* [Timestamp format](locales/en/examples/timestamp-format/)
-* [Many more...](locales/en/examples/)
+* [CSS 框架](locales/zh/examples/css-framework/)
+* [环境变量配置](locales/zh/examples/environment-variable-configuration/)
+* [指标、监控与告警](locales/zh/examples/metrics-monitors-alerts/)
+* [Microsoft Azure DevOps](locales/zh/examples/microsoft-azure-devops/)
+* [单仓库 vs 多仓库](locales/zh/examples/monorepo-vs-multirepo/)
+* [编程语言](locales/zh/examples/programming-languages/)
+* [密钥存储](locales/zh/examples/secrets-storage/)
+* [时间戳格式](locales/zh/examples/timestamp-format/)
+* [更多示例...](locales/zh/examples/)
 
-[翻译成更多语言](locales/)
+[更多语言](locales/)
 
 
-<div class="include" data-path="locales/en/what-is-an-architecture-decision-record">
+<div class="include" data-path="locales/zh/what-is-an-architecture-decision-record">
 
 ## 什么是架构决策记录？
 
