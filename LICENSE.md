@@ -4,5 +4,6 @@ For the work that I've personally done, such as writing the README.md file, the 
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-FOr the work that is included created by others, such as the original authors of
-the templates, please see the original works for their respective licenses.
+For the work that is included created by others, such as the original authors of
+the templates, please see the original works for their respective licenses, and
+optionally see each work's folder for a respective LICENSE.md file if available.
