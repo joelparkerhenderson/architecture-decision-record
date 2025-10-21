@@ -565,7 +565,7 @@ Typical information for detailed scenarios include the following:
 
 In short form (favoured in the Q42 model):
 
-- Context/Background: What kind of system or component, what is the envirionment or situation?
+- Context/Background: What kind of system or component, what is the environment or situation?
 
 - Source/Stimulus: Who or what initiates or triggers a behaviour, reaction or action.
 

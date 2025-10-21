@@ -310,9 +310,9 @@ Example answer: We want an ADR to be voted on by stakeholders when the active te
 
 ### What roles and responsibilities interact with an ADR?
 
-Consider roles such as proposer, researcher, evaluator, reviewer, approver, maintainer, and the like. Consider responsbilities such as communication with stakeholders, ensuring expectations are met, sharing on the website or intranet, and reviewing the work periodically and especially when relevant changes happen.
+Consider roles such as proposer, researcher, evaluator, reviewer, approver, maintainer, and the like. Consider responsibilities such as communication with stakeholders, ensuring expectations are met, sharing on the website or intranet, and reviewing the work periodically and especially when relevant changes happen.
 
-Example answer: We want each ADR to always have a primary contact person, secondary contact person, and accountable team; these are responsble for communications, publications, maintenance, periodic review at least once per year, and eventual sunsetting as needed.
+Example answer: We want each ADR to always have a primary contact person, secondary contact person, and accountable team; these are responsible for communications, publications, maintenance, periodic review at least once per year, and eventual sunsetting as needed.
 
 ### How does governance interact with an ADR?
 
@@ -324,7 +324,7 @@ Example answer: The governance of an ADR is in this priority order: the CEO, the
 
 Consider areas such as your organization's ways of working that include  moving quickly versus moving slowly, for decision consensus versus decision conflict, and for risk preferences versus safety preferences, public discussion versus private discussion, and the like.
 
-Example answer: We use the leadership priciples of bias for action, disagree-and-commit, 70% estimates are good enough for easily-reversable easily-isolatable decisions, and public ways of working with the exception of confidential information as described in our organization's confidentiality agreement.
+Example answer: We use the leadership principles of bias for action, disagree-and-commit, 70% estimates are good enough for easily-reversable easily-isolatable decisions, and public ways of working with the exception of confidential information as described in our organization's confidentiality agreement.
 
 </div>
 
@@ -332,7 +332,7 @@ Example answer: We use the leadership priciples of bias for action, disagree-and
 
 ## Next step concepts for ADRs
 
-[Arc42](https://arc42.org/) answers two questions in a pragmatic way and can be tailored to your specific needs. What should you document/communicate about your architecture? How should you document/communicate? Arc42 includes architecture decision records plus guidance on goals, contraints, contexts, quality, risks, and more.
+[Arc42](https://arc42.org/) answers two questions in a pragmatic way and can be tailored to your specific needs. What should you document/communicate about your architecture? How should you document/communicate? Arc42 includes architecture decision records plus guidance on goals, constraints, contexts, quality, risks, and more.
 
 [The C4 model](https://c4model.com/)  is an easy to learn, developer friendly approach to software architecture diagramming.  C4 is a set of hierarchical digrams for context, containers, components, code, plus supporting diagrams for system landscape, dynamic, and deployment.
 

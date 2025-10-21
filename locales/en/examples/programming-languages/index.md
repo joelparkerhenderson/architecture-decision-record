@@ -74,12 +74,12 @@ We accept lower compile-time speeds in favor of compile-time safety and runtime 
 
 ### Constraints
 
-We have a strong constraint on languages that are usuable with major cloud provider services for functions, such as Amazon Lambda.
+We have a strong constraint on languages that are usable with major cloud provider services for functions, such as Amazon Lambda.
 
 
 ### Positions
 
-We considered these langauges:
+We considered these languages:
 
   * C
 
@@ -129,7 +129,7 @@ Summary per language:
 
   * Erlang: excellent runtime including deployability and concurrency; challenging developer experience; relatively small ecosystem.
 
-  * Elm: looks very promising; IBM is publishing major case studies with good resutls; smaller ecosystem.
+  * Elm: looks very promising; IBM is publishing major case studies with good results; smaller ecosystem.
 
   * Flow: interesting improvement over JavaScript; however; developers are moving away from it.
 
@@ -141,9 +141,9 @@ Summary per language:
 
   * JavaScript: most popular language ever; most widespread ecosystem.
 
-  * Kotlin: fixes so much of Java; excelent backing by JetBrains; good published cases of porting from Java to Kotlin.
+  * Kotlin: fixes so much of Java; excellent backing by JetBrains; good published cases of porting from Java to Kotlin.
   
-  * Python: most popular language for systems administration; great analytics tooling; good web frameworks; but abandonded by Google in favor of Go.
+  * Python: most popular language for systems administration; great analytics tooling; good web frameworks; but abandoned by Google in favor of Go.
 
   * Ruby: best developer experience ever; best web frameworks; nicest community; but very slow; somewhat hard to package.
 
@@ -159,7 +159,7 @@ We believe that our core decision is driven by two cross-cutting concerns:
 
   * For close-to-fastest runtime speed and close-to-tightest system access, we choose TypeScript and Rust.
 
-Honorable mentions go to the VM languages and web frameworks that we would choose if we wanted a VM lanauge:
+Honorable mentions go to the VM languages and web frameworks that we would choose if we wanted a VM language:
 
   * Clojure and Luminus
 
@@ -174,7 +174,7 @@ Front-end developers will need to learn TypeScript. This is likely an easy learn
 
 Back-end developers will need to learn Rust. This is likely a moderate learning curve if the developer's primary experience is using  C/C++, and a hard learning curve if the developer's primary experience is using Java, Python, Ruby, or similar memory-managed languages. 
 
-TypeScript and Rust are both relatively new. This means that many tools do not yet have documentation for these languages. For example, the devops pipeline will need to be set up for these languages, and so far, none of the devops tools that we are evaluating have default examples for these langauges.
+TypeScript and Rust are both relatively new. This means that many tools do not yet have documentation for these languages. For example, the devops pipeline will need to be set up for these languages, and so far, none of the devops tools that we are evaluating have default examples for these languages.
 
 Compile times for TypeScript and Rust are quite slow. Some of this may be due to the newness of the languages. We may want to look at how to mitigate slow compile times, such as by compile-on-demand, compile-concurrency, etc.
 
@@ -186,9 +186,9 @@ IDE support for these languages is not yet ubiquitous and not yet first-class. F
 
 ### Related decisions
 
-We will aim toward ecosystem choices that align with these langauges.
+We will aim toward ecosystem choices that align with these languages.
 
-For example, we want to choose an IDE that has good capabilties for these languages.
+For example, we want to choose an IDE that has good capabilities for these languages.
 
 For example, for our front-end web framework, we are more-likley to decide on a framework that tends to aim toward TypeScript (e.g. Vue) than a framework that tends to aim toward plain JavaScript (e.g. React).
 

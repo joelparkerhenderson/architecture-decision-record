@@ -93,7 +93,7 @@ If an organization/team/project grows, then a monorepo will have scaling issues.
 
 Monorepo scaling issues may make it increasing valuable to transition to a polyrepo.
 
-Transition from monorepo to polyrepo is a signficant devops task, and will need to be planned, managed, and programmed.
+Transition from monorepo to polyrepo is a significant devops task, and will need to be planned, managed, and programmed.
 
 
 ## Related
@@ -116,7 +116,7 @@ We expect the repo organization to have related artifacts for provisioning, conf
 
 ### Related principles
 
-Easily reversable. If the monorepo doesn't work in practice, or isn't wanted by leadership, it's simple to change to polyrepo.
+Easily reversible. If the monorepo doesn't work in practice, or isn't wanted by leadership, it's simple to change to polyrepo.
 
 Customer Obsession. We value getting the project in the hands of customers, and we believe that a monoreop can get us there faster than a polyrepo, and also help us iterate faster.
 

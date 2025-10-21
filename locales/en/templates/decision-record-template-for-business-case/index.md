@@ -1,6 +1,6 @@
 # Decision record template for business case
 
-This ADR template emphasizes creating a business case for a decision, including critera, candidates, and costs.
+This ADR template emphasizes creating a business case for a decision, including criteria, candidates, and costs.
 
 
 ## Top-level
@@ -73,7 +73,7 @@ This ADR template emphasizes creating a business case for a decision, including 
 
     * Weaknesses
 
-    * Opportunites
+    * Opportunities
 
     * Threats
 
