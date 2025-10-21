@@ -11,7 +11,7 @@ Consider areas such as your organization's team ways of working, your software s
 
 Example answer: We want to create an ADR when we want future developers to understand the “why” of what we're doing.
 
-### What justifies not rasing an ADR?
+### What justifies not raising an ADR?
 
 Consider areas such as decisions that are not about architecture, or are tiny such as minimal-risk or self-contained or single-developer, or are already fully covered elsewhere such as by standards or policies or documentation, or are temporary such as workarounds or proofs of concepts or orexperiments. 
 
@@ -26,15 +26,15 @@ Example answer: We want an ADR to have five lifecycle stages: Initiating → Res
 ### What are criteria for lifecycle steps of an ADR?
 
 Consider areas such as acceptance criteria for an ADR, meaning how do you know it's good enough to progress from one lifecycle step to the next? Is the problem clearly articulated? Have the alternatives been considered? Are trade-offs well-enough understood and documented?
-Is all relevant context in place? Are all revelant stakeholders involved? Has all feedback been incorporated? 
+Is all relevant context in place? Are all relevant stakeholders involved? Has all feedback been incorporated? 
 
 Example answer: We want an ADR to be voted on by stakeholders when the active team has 1) completed their research, 2) completed their evaluation, 3) published the ADR proposal to the stakeholders with a request for comments and a timebox of one week, 4) all stakeholder comments have been incorporated and addressed.
 
 ### What roles and responsibilities interact with an ADR?
 
-Consider roles such as proposer, researcher, evaluator, reviewer, approver, maintainer, and the like. Consider responsbilities such as communication with stakeholders, ensuring expectations are met, sharing on the website or intranet, and reviewing the work periodically and especially when relevant changes happen.
+Consider roles such as proposer, researcher, evaluator, reviewer, approver, maintainer, and the like. Consider responsibilities such as communication with stakeholders, ensuring expectations are met, sharing on the website or intranet, and reviewing the work periodically and especially when relevant changes happen.
 
-Example answer: We want each ADR to always have a primary contact person, secondary contact person, and accountable team; these are responsble for communications, publications, maintenance, periodic review at least once per year, and eventual sunsetting as needed.
+Example answer: We want each ADR to always have a primary contact person, secondary contact person, and accountable team; these are responsible for communications, publications, maintenance, periodic review at least once per year, and eventual sunsetting as needed.
 
 ### How does governance interact with an ADR?
 
@@ -46,4 +46,4 @@ Example answer: The governance of an ADR is in this priority order: the CEO, the
 
 Consider areas such as your organization's ways of working that include  moving quickly versus moving slowly, for decision consensus versus decision conflict, and for risk preferences versus safety preferences, public discussion versus private discussion, and the like.
 
-Example answer: We use the leadership priciples of bias for action, disagree-and-commit, 70% estimates are good enough for easily-reversable easily-isolatable decisions, and public ways of working with the exception of confidential information as described in our organization's confidentiality agreement.
+Example answer: We use the leadership principles of bias for action, disagree-and-commit, 70% estimates are good enough for easily-reversable easily-isolatable decisions, and public ways of working with the exception of confidential information as described in our organization's confidentiality agreement.

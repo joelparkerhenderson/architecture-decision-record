@@ -2,7 +2,7 @@
 
 Characteristics of a good ADR:
 
-* Rationale: Explain the reasons for doing the particular AD. This can include the context (see below), pros and cons of various potential choices, feature comparions, cost/benefit discussions, and more.
+* Rationale: Explain the reasons for doing the particular AD. This can include the context (see below), pros and cons of various potential choices, feature comparisons, cost/benefit discussions, and more.
 
 * Specific: Each ADR should be about one AD, not multiple ADs.
 

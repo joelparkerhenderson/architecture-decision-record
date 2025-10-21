@@ -73,7 +73,7 @@ We considered using no framework. This still seems viable, especially because CS
 
 We considered many CSS frameworks using a quick shortlist triage: Bootstrap, Bulma, Foundation, Materialize, Semantic UI, Tachyons, etc. Our two selections for deeper review are Semantic UI (because it has the most-semantic approach) and Bulma (because it has the lightest-weight approach that provides the components we want now).
 
-We considered Semantic UI. This provides many components, including ones we want for our project: tabs, grids, buttons, etc. We did a pilot with Semantic UI two ways: using typical CDN files, and using NPM repos. We achieved success with Semantic UI in a static HTML page, but did not achieve success within our timebox to build a JavaScript SPA (primarly because of jQuery load issues). We discovered that other coders have been asking the Semantic UI developers to create a jQuery-free version, for the same reasons we have. Other coders have been requesting a jQuery-free version for many years, yet the developers have said no, and stated that any jQuery-free version would be too hard to write e.g. ~"the Semantic UI project has more than 22,000 touchpoints that use jQuery".
+We considered Semantic UI. This provides many components, including ones we want for our project: tabs, grids, buttons, etc. We did a pilot with Semantic UI two ways: using typical CDN files, and using NPM repos. We achieved success with Semantic UI in a static HTML page, but did not achieve success within our timebox to build a JavaScript SPA (primarily because of jQuery load issues). We discovered that other coders have been asking the Semantic UI developers to create a jQuery-free version, for the same reasons we have. Other coders have been requesting a jQuery-free version for many years, yet the developers have said no, and stated that any jQuery-free version would be too hard to write e.g. ~"the Semantic UI project has more than 22,000 touchpoints that use jQuery".
 
 Example with Semantic:
 
@@ -84,7 +84,7 @@ Example with Semantic:
 </div>
 ```
 
-We considered Bulma. Bulma has many similar capabilties as Semantic UI, although not as many sophisticated components. Bulma is built with modern techniques, such as no jQuery. Bulma has some third-party components, some of which we may want to use.
+We considered Bulma. Bulma has many similar capabilities as Semantic UI, although not as many sophisticated components. Bulma is built with modern techniques, such as no jQuery. Bulma has some third-party components, some of which we may want to use.
 
 
 Example with Bulma:
@@ -102,7 +102,7 @@ Example with Bulma:
 
 As above.
 
-Specifically, Semantic UI seems to have a caution flag both in terms of technology (i.e. so many jQuery touchpoints) and also in terms of leadership (i.e. jQuery-free was a hard no, rather than attemping a roadmap, or continous improvement, or donation fundraising, etc.).
+Specifically, Semantic UI seems to have a caution flag both in terms of technology (i.e. so many jQuery touchpoints) and also in terms of leadership (i.e. jQuery-free was a hard no, rather than attempting a roadmap, or continuous improvement, or donation fundraising, etc.).
 
 
 ### Implications

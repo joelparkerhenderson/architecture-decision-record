@@ -64,7 +64,7 @@ For this purpose, and our current state, we value user-oriented convenience, suc
 
 We are not trying to solve for single-provider, such as storing all secrets exclusively on Amazon or Azure or Google.
 
-We do not want ad-hoc approachs such as "remember it" or "write it on a note" or "figure out your own way to store it".
+We do not want ad-hoc approaches such as "remember it" or "write it on a note" or "figure out your own way to store it".
 
 Our security model for this purpose is fine with using well-respected COTS vendors, such as SaaS password management tools.
 
@@ -89,7 +89,7 @@ We considered:
 
 ### Argument
 
-Bitwarden, LastPass, 1Password, and Dashlane all are commerical off-the-shelf products.
+Bitwarden, LastPass, 1Password, and Dashlane all are commercial off-the-shelf products.
 
   * Similar kinds of features for users, teams, organizations, etc.
 

@@ -57,7 +57,7 @@ All the usual devops assumptions, such as in the book Accelerate.
 
   * We can swap in/out pieces from alternate vendors i.e. we may want to bring our our higher-speed build servers, or use our own choice of version control system, or coordinate with a self-hosted continuous integration server.
   
-  * Streamlined usabilitiy is a signficant help, for developer experience, and in turn for subtle areas such as consistency, clarity, security, and ease of learning curve.
+  * Streamlined usabilitiy is a significant help, for developer experience, and in turn for subtle areas such as consistency, clarity, security, and ease of learning curve.
 
   * When anything is broken or problematic, we want an effective way to report the issue. This is especially important for any security-related issues.
 
@@ -96,7 +96,7 @@ Our peer experiences:
 
   * After we did our own blind assessment, we looked for peer experiences. What we found confirmed our experiences.
 
-  * Peers reported additional problems with build times, and problems with bring-your-own-build server. These problems are signficantly more severe than UI problems, because doing builds is the core purpose of a build pipeline, and we expect to do many per day.
+  * Peers reported additional problems with build times, and problems with bring-your-own-build server. These problems are significantly more severe than UI problems, because doing builds is the core purpose of a build pipeline, and we expect to do many per day.
 
   * We found excellent participation by Azure teammates in the discussion areas. Kudos to Microsoft for this. We are especially impressed with Edward Thomson, Azure PM and coder, because of his participation, directness, and technical explanations.
 
@@ -115,7 +115,7 @@ If we choose Azure DevOps, there are many related offerings, including Azure Rep
 
 We believe that Microsoft is making great strides in developer experience, and we see Microsoft making large acquisition of developer tools (e.g. GitHub) and dependencies (e.g. Citus).
 
-If we choose Azure DevOps, then we may want to emphasize choosing the Microsoft acquistion offerings, and we may also want to approach the acquisition offerings with more care/assessement because of potential tissue-rejection e.g. staff turnover risk.
+If we choose Azure DevOps, then we may want to emphasize choosing the Microsoft acquisition offerings, and we may also want to approach the acquisition offerings with more care/assessement because of potential tissue-rejection e.g. staff turnover risk.
 
 
 ### Related requirements
