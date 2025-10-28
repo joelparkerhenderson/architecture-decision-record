@@ -1,6 +1,6 @@
 # Modèle d'enregistrement de décision par Jeff Tyree et Art Akerman
 
-Il s'agit du modèle de description de décision d'architecture publié dans ["Architecture Decisions: Demystifying Architecture" par Jeff Tyree et Art Akerman, Capital One Financial](https://www.utdallas.edu/~chung/SA/zz-Impreso-architecture_decisions- pneu-05.pdf).
+Il s'agit du modèle de description de décision d'architecture publié dans ["Architecture Decisions: Demystifying Architecture" par Jeff Tyree et Art Akerman, Capital One Financial](https://personal.utdallas.edu/~chung/SA/zz-Impreso-architecture_decisions-tyree-05.pdf).
 
 * **Problème** : décrivez le problème de conception architecturale que vous abordez, sans laisser de questions sur la raison pour laquelle vous abordez ce problème maintenant. En suivant une approche minimaliste, abordez et documentez uniquement les problèmes qui doivent être résolus à différents stades du cycle de vie.
 
