@@ -53,7 +53,7 @@ We want to create web apps that are modern, fast, reliable, responsive, etc.
 
 Typical modern web apps are reducing/eliminating the use of jQuery because of multiple reasons: 
 
-  * Modern JavaScript in phasing in many capabilities that jQuery has provided, so jQuery is less needed, and there are better/faster/smaller modules that provide specific implementations
+  * Modern JavaScript is phasing in many capabilities that jQuery has provided, so jQuery is less needed, and there are better/faster/smaller modules that provide specific implementations
 
   * jQuery's broad approach is to do direct DOM manipulation, which is an anti-pattern for modern JavaScript frameworks (e.g. React, Vue, Svelte)
 
