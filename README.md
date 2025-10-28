@@ -25,6 +25,7 @@ Contents:
 * [Teamwork advice for ADRs](#teamwork-advice-for-adrs)
 * [Teamwork questions for ADRs](#teamwork-questions-for-adrs)
 * [Next step concepts for ADRs](#next-step-concepts-for-adrs)
+* [Architecture diagrams \& views \& viewpoints](#architecture-diagrams--views--viewpoints)
 * [For more information](#for-more-information)
 
 Templates:
@@ -335,6 +336,48 @@ Example answer: We use the leadership principles of bias for action, disagree-an
 [Arc42](https://arc42.org/) answers two questions in a pragmatic way and can be tailored to your specific needs. What should you document/communicate about your architecture? How should you document/communicate? Arc42 includes architecture decision records plus guidance on goals, constraints, contexts, quality, risks, and more.
 
 [The C4 model](https://c4model.com/)  is an easy to learn, developer friendly approach to software architecture diagramming.  C4 is a set of hierarchical digrams for context, containers, components, code, plus supporting diagrams for system landscape, dynamic, and deployment.
+
+</div>
+
+<div class="import" data-path="locales/en/documents/architecture-diagrams-views-viewpoints">
+
+## Architecture diagrams & views & viewpoints
+
+An architecture diagram is called an "architecture view".
+
+An "architecture view" is an instance of a "architecture viewpoint".
+
+An "architecture viewpoint" has a specific audience with specific concerns in mind.
+
+Architecture viewpoint examples, view examples, and diagram examples:
+
+* Business Capabilities
+
+* High-level Business Processes
+
+* [Value Streams](https://en.wikipedia.org/wiki/Value_stream)
+
+* Software Functions mapped to application components
+
+* [C4 Model](https://en.wikipedia.org/wiki/C4_model) Context Diagram (TO-BE / AS-IS)
+
+* [C4 Model](https://en.wikipedia.org/wiki/C4_model) Container Diagram (TO-BE / AS-IS)
+
+* [Entity-relationship Diagram](https://en.wikipedia.org/w/index.php?title=Entity_relationship_diagram) (ERD) to map data entities to application components
+
+* [Sequence Diagrams](https://en.wikipedia.org/wiki/Sequence_diagram) to describe Functional Flows within Systems and for Integrations
+
+* [Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation) (BPMN) diagrams to describe data flows across application components
+
+* [Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation) (BPMN) diagrams to describe business processes / user Scenarios
+
+* [Identity and Access Management](https://en.wikipedia.org/wiki/Identity_and_access_management) (IAM) diagrams
+
+* [Role-Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control) (RBAC) diagrams with roles per application component
+
+* [Attribute-Based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (ABAC) diagrams with attributes per application component
+
+* Privacy diagrams
 
 ## For more information
 
