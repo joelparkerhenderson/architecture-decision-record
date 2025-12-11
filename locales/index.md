@@ -3,3 +3,4 @@
 * [Española](es/)
 * [Français](fr/)
 * [한국인](ko/)
+* [Türkçe](tr/)

@@ -1,0 +1,9 @@
+# ADR'ler için ekip çalışması tavsiyesi
+
+Ekibinizle karar kayıtlarını kullanmayı düşünüyorsanız, burada birçok ekiple çalışarak öğrendiğimiz bazı tavsiyeler var.
+
+"Ne"yi zorunlu kılmak yerine "neden" hakkında birlikte konuşarak takım arkadaşlarınıza liderlik etme fırsatınız var. Örneğin, karar kayıtları ekiplerin daha akıllı düşünmeleri ve daha iyi iletişim kurmaları için bir yoldur; karar kayıtları, yalnızca sonradan zorunlu bir evrak gereksinimi ise değerli değildir.
+
+Bazı ekipler "ADR'ler" kısaltması yerine "kararlar" adını çok daha fazla tercih eder. Bazı ekipler "kararlar" dizin adını kullandığında, bir ampul yanar ve ekip, satıcı kararları, planlama kararları, zamanlama kararları vb. gibi daha fazla bilgiyi dizine koymaya başlar. Tüm bu tür bilgiler aynı şablonu kullanabilir. İnsanların kısaltmalar ("ADR'ler") yerine kelimelerle ("kararlar") daha hızlı öğrendiklerini ve "kayıt" kelimesi kaldırıldığında insanların devam eden çalışma belgeleri yazmaya daha motive olduklarını ve ayrıca bazı geliştiricilerin ve bazı yöneticilerin "mimari" kelimesini sevmediğini varsayıyoruz.
+
+Teoride, değişmezlik idealdir. Pratikte, değişkenlik ekiplerimiz için daha iyi çalıştı. Karardan sonra bilgilerin geldiğine dair bir not ve tarih damgasıyla mevcut ADR'ye yeni bilgileri ekliyoruz. Bu tür bir yaklaşım, hepimizin güncelleyebileceği "yaşayan bir belgeye" yol açar. Tipik güncellemeler, yeni takım arkadaşları, yeni teklifler veya kullanımlarımızın gerçek dünya sonuçları veya satıcı yetenekleri, fiyatlandırma planları, lisans sözleşmeleri vb. gibi sonradan yapılan üçüncü taraf değişiklikleri sayesinde bilgi edindiğimizde yapılır.
