@@ -37,7 +37,7 @@ This is a fitness function to evaluate if our work is
 using all our decisions, and is correct and accurate.
 
 - Our decisions are here: {url}
-- Our wor to evaluate is here: {url}
+- Our work to evaluate is here: {url}
 
 Explain any errors, problems, gaps, weaknesses. Be direct. Be decisive.
 ```
