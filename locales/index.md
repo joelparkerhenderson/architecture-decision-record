@@ -4,3 +4,4 @@
 * [Français](fr/)
 * [한국인](ko/)
 * [Türkçe](tr/)
+* [繁體中文](zh-Hant/)
