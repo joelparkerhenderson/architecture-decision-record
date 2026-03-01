@@ -545,3 +545,5 @@ See also:
 - QOC (Questions, Options, and Criteria)
 
 - IBM’s e-Business Reference Architecture Framework
+
+- [Decision Reasoning Format (DRF)](https://github.com/reasoning-formats/reasoning-formats) - A vendor-neutral, machine-readable YAML/JSON format for representing decisions with explicit reasoning, assumptions, cognitive state, and trade-offs. Complements ADRs by adding structured, validatable reasoning to decision documentation.
