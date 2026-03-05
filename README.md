@@ -27,6 +27,7 @@ Contents:
 - [Next step concepts for ADRs](#next-step-concepts-for-adrs)
 - [Architecture diagrams \& views \& viewpoints](#architecture-diagrams--views--viewpoints)
 - [Fitness functions for decisions as code](#fitness-functions-for-decisions-as-code)
+- [Decision guardrails for pull requests](#decision-guardrails-for-pull-requests)
 - [For more information](#for-more-information)
 
 Templates:
@@ -442,6 +443,103 @@ Explain any errors, problems, gaps, weaknesses. Be direct. Be decisive.
 
 [ArchUnitTS](https://github.com/LukasNiessen/ArchUnitTS): check architecture rules of TypeScript code and JavaScript code by using Jest, Vitest, Jasmine, etc.
 
+
+## Decision guardrails for pull requests
+
+[Decision Guardian](https://github.com/DecispherHQ/decision-guardian) automatically surfaces the right decision records at the right moment — when a developer is actively modifying the code those decisions cover. Instead of hoping developers read a docs folder before merging, the relevant context appears directly on the pull request.
+
+This works for any kind of decision record: architecture decisions, data decisions, compliance decisions, clinical and medical decisions, security decisions, and more.
+
+
+### How guardrails work
+
+1. Link each decision record to the file paths it covers, using glob patterns
+2. When a PR touches a matched file, the decision is posted as a PR comment automatically
+3. Developers see the "why" before they merge, not after
+
+### Example decision file
+
+Create a `.decispher/decisions.md` file that maps decisions to your existing ADRs:
+
+```markdown
+
+## Decision: Database choice for billing
+
+**Status**: Active
+**Severity**: Critical
+
+**Files**:
+- `src/db/**/*.ts`
+- `config/database.{yml,yaml}`
+
+### Context
+
+See [choose-database.md](./choose-database.md) for full rationale.
+
+Short version: billing requires ACID compliance. MongoDB was evaluated
+and rejected — no transaction guarantees for financial transactions.
+```
+
+When a PR modifies any matching file, this decision appears as a PR comment automatically.
+
+### Severity levels
+
+| Severity | Behavior |
+|---|---|
+| `Critical` | Can block the PR from merging |
+| `Warning` | Highlighted but non-blocking |
+| `Info` | Informational, low friction |
+
+### GitHub Actions setup
+
+```yaml
+name: Decision guardrails
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Pin to a specific commit SHA in production for supply-chain safety.
+      # Latest release: https://github.com/DecispherHQ/decision-guardian/releases
+      - uses: DecispherHQ/decision-guardian@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          decision_file: '.decispher/decisions.md'
+          fail_on_critical: true
+```
+
+> **Note for public repositories:** Use `pull_request_target` instead of `pull_request`
+> for PRs from forks — `GITHUB_TOKEN` is read-only on fork PRs and cannot post comments.
+> Decision Guardian only reads from your base branch and does not execute PR code, so
+> `pull_request_target` is safe here. See
+> [GitHub's security hardening guidance](https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions).
+
+### CLI — check locally before pushing
+
+```sh
+# Check staged changes before committing
+npx decision-guardian check .decispher/decisions.md --staged
+
+# Check against a target branch
+npx decision-guardian check .decispher/decisions.md --branch main
+
+# Auto-discover all decision files in the directory
+npx decision-guardian checkall --fail-on-critical
+```
+
+Works with any CI system (GitLab, Jenkins, CircleCI) and as a pre-commit hook.
+
+[Decision Guardian](https://github.com/DecispherHQ/decision-guardian) is open source and MIT licensed — available as a [GitHub Action](https://github.com/marketplace/actions/decision-guardian) and [CLI on npm](https://www.npmjs.com/package/decision-guardian). See the [documentation](https://decision-guardian.decispher.com/) for full details. No external network calls, nothing leaves your runner.
+
 ## For more information
 
 Introduction:
@@ -483,6 +581,8 @@ In-depth:
 - [Solution Architecture Decisions - By Gareth Morgan](https://www.linkedin.com/pulse/solution-architecture-decisions-gareth-morgan-0r5xe/)
 
 Tools:
+
+- [Decision Guardian](https://github.com/DecispherHQ/decision-guardian) - Automatically surface decision records as PR comments when relevant files change; supports any decision type (architecture, data, compliance, clinical, and more); works as a [GitHub Action](https://github.com/marketplace/actions/decision-guardian) or [local CLI](https://www.npmjs.com/package/decision-guardian) for any CI system
 
 - [Command-line tools for working with Architecture Decision Records](https://github.com/npryce/adr-tools)
 
