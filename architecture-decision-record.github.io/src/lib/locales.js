@@ -6,7 +6,7 @@
 // See spec/locale-specific-search-picker/index.md.
 export const LOCALES = [
 	'ar_001', 'bn_001', 'cy_001', 'cy_GB', 'da_001', 'de_001', 'en', 'en_GB', 'en_US',
-	'es_001', 'et_001', 'fi_001', 'fr_001', 'hi_001', 'hi_IN', 'id_001', 'is_001', 'it_001', 'ja_001', 'ko_001', 'nl_001',
+	'es_001', 'et_001', 'fi_001', 'fr_001', 'hi_001', 'hi_IN', 'id_001', 'is_001', 'it_001', 'ja_001', 'ja_JP', 'ko_001', 'ko_KR', 'nl_001',
 	'pt_001', 'ru_001', 'sv_001', 'sw_001', 'th_001', 'tr_001', 'tr_TR', 'ur_001', 'vi_001', 'zh_001', 'zh_CN', 'zh_TW'
 ];
 
