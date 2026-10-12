@@ -34,7 +34,7 @@
 			<p>{data.landing.hero.text}</p>
 			{#if hero}
 				<p class="hero-translations">
-					{hero.translations}{#each Object.entries(ENDONYMS) as [code, name], i (code)}{i ? ', ' : ''}<a
+					{hero.translations}{#each Object.entries(ENDONYMS).filter(([c]) => c.endsWith('-001')) as [code, name], i (code)}{i ? ', ' : ''}<a
 							href="/{code}/"
 							lang={slugToTag(code)}
 							aria-current={code === slug ? 'page' : undefined}>{name}</a
