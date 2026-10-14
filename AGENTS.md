@@ -1,7 +1,7 @@
 # Architecture Decision Record — agent guide
 
 Guide to architecture decision records (ADRs): templates, examples, and
-documents, translated into 58 locales, plus a SvelteKit website and Claude
+documents, translated into 61 locales, plus a SvelteKit website and Claude
 Code skills.
 
 **Read [spec/](spec/README.md) first. It is the single source of truth.** If

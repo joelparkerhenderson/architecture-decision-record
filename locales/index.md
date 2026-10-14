@@ -54,3 +54,6 @@
 * [Română (Lume)](ro-001/)
 * [Română (România)](ro-ro/)
 * [Kiswahili (Tanzania)](sw-tz/)
+* [Ελληνικά (Κόσμος)](el-001/)
+* [Ελληνικά (Κύπρος)](el-cy/)
+* [Ελληνικά (Ελλάδα)](el-gr/)
