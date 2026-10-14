@@ -545,6 +545,8 @@ Tools:
 
 - [kgai - append-only decision log for AI coding agents, a machine-readable companion to ADR files](https://github.com/kgaidev/kgai)
 
+- [quern - a decision ledger whose decisions, debts and hypotheses carry rules that go red when the stated rationale stops holding; `quern brief` gives an AI agent the entries that still bind, Apache-2.0](https://github.com/xag/quern)
+
 Company-Specific Guidance:
 
 - [Amazon: AWS Prescriptive Guidance: ADR Process](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/adr-process.html)
