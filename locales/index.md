@@ -59,3 +59,5 @@
 * [Ελληνικά (Ελλάδα)](el-gr/)
 * [Magyar (Világ)](hu-001/)
 * [Magyar (Magyarország)](hu-hu/)
+* [Čeština (svět)](cs-001/)
+* [Čeština (Česko)](cs-cz/)
