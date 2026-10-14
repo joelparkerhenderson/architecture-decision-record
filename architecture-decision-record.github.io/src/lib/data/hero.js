@@ -41,6 +41,14 @@ export const HERO = {
   "tagline": "Templates, examples, and guidance for recording architecture decisions.",
   "translations": "Translations: "
  },
+ "hu-001": {
+  "tagline": "Sablonok, példák és útmutatás az architekturális döntések rögzítéséhez.",
+  "translations": "Fordítások: "
+ },
+ "hu-hu": {
+  "tagline": "Sablonok, példák és útmutatás az architekturális döntések rögzítéséhez.",
+  "translations": "Fordítások: "
+ },
  "el-001": {
   "tagline": "Πρότυπα, παραδείγματα και καθοδήγηση για την καταγραφή αρχιτεκτονικών αποφάσεων.",
   "translations": "Μεταφράσεις: "
@@ -259,6 +267,8 @@ export const ENDONYMS = {
  "de-at": "Deutsch (Österreich)",
  "de-de": "Deutsch (Deutschland)",
  "en-001": "English",
+ "hu-001": "Magyar",
+ "hu-hu": "Magyar (Magyarország)",
  "el-001": "Ελληνικά",
  "el-cy": "Ελληνικά (Κύπρος)",
  "el-gr": "Ελληνικά (Ελλάδα)",

@@ -19,7 +19,7 @@ website has no separate `/en/` site: English is the `/en-001/` locale route
 `locales/`; stray or duplicate directories (for example a copy of a locale
 under another name) fail the audit and the sync, and are deleted.
 
-## The 61 locales
+## The 63 locales
 
 | Directory and route | Picker value | Endonym (Intl) |
 |---|---|---|
@@ -50,6 +50,8 @@ under another name) fail the audit and the sync, and are deleted.
 | `fr-lu` | `fr_LU` | français (Luxembourg) |
 | `hi-001` | `hi_001` | हिन्दी (विश्व) |
 | `hi-in` | `hi_IN` | हिन्दी (भारत) |
+| `hu-001` | `hu_001` | magyar (Világ) |
+| `hu-hu` | `hu_HU` | magyar (Magyarország) |
 | `id-001` | `id_001` | Indonesia (Dunia) |
 | `id-id` | `id_ID` | Indonesia (Indonesia) |
 | `is-001` | `is_001` | íslenska (heimurinn) |
@@ -83,9 +85,9 @@ under another name) fail the audit and the sync, and are deleted.
 | `zh-cn` | `zh_CN` | 中文（中国） |
 | `zh-tw` | `zh_TW` | 中文（台灣） |
 
-Counts: 61 locales, of which `en-001` is the source and 60 are translations or
+Counts: 63 locales, of which `en-001` is the source and 62 are translations or
 variants (`en-gb` and `en-us` follow English; `cy-gb` is a copy of `cy-001`;
-`hi-in` is a copy of `hi-001`; `sv-se` is a copy of `sv-001`; `tr-tr` is a copy of `tr-001`; `nl-nl`, `is-is`, `et-ee`, `id-id`, `fi-fi`, `it-it`, `th-th` and `vi-vn` are copies of their `-001` locales; `da-dk`, `de-de`, `de-at`, `es-es`, `fr-fr`, `fr-lu`, `pt-pt` and `nl-be` are copies of `da-001`, `de-001`, `es-001`, `fr-001`, `pt-001` and `nl-001`; `en-ie` is a copy of `en-gb`; `pl-pl` is a copy of `pl-001`; `ro-ro` is a copy of `ro-001`; `sw-tz` is a copy of `sw-001`; `el-gr` is a copy of `el-001`; `el-cy` is a copy of `el-001`). Every one is complete: 205 files, 63 pages, and a root index.
+`hi-in` is a copy of `hi-001`; `sv-se` is a copy of `sv-001`; `tr-tr` is a copy of `tr-001`; `nl-nl`, `is-is`, `et-ee`, `id-id`, `fi-fi`, `it-it`, `th-th` and `vi-vn` are copies of their `-001` locales; `da-dk`, `de-de`, `de-at`, `es-es`, `fr-fr`, `fr-lu`, `pt-pt` and `nl-be` are copies of `da-001`, `de-001`, `es-001`, `fr-001`, `pt-001` and `nl-001`; `en-ie` is a copy of `en-gb`; `pl-pl` is a copy of `pl-001`; `ro-ro` is a copy of `ro-001`; `sw-tz` is a copy of `sw-001`; `el-gr` is a copy of `el-001`; `el-cy` is a copy of `el-001`; `hu-hu` is a copy of `hu-001`). Every one is complete: 205 files, 63 pages, and a root index.
 
 `locales/index.md` lists each locale as `* [<Endonym> (<World>)](<code>/)`.
 `locales/locales-by-priority.md` records the translation order (all are
