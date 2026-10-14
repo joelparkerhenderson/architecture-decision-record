@@ -65,3 +65,5 @@
 * [Български (България)](bg-bg/)
 * [Hrvatski (Svijet)](hr-001/)
 * [Hrvatski (Hrvatska)](hr-hr/)
+* [Slovenčina (svet)](sk-001/)
+* [Slovenčina (Slovensko)](sk-sk/)
