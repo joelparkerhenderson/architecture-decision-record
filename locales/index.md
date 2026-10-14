@@ -62,3 +62,5 @@
 * [Magyar (Magyarország)](hu-hu/)
 * [Čeština (svět)](cs-001/)
 * [Čeština (Česko)](cs-cz/)
+* [Български (свят)](bg-001/)
+* [Български (България)](bg-bg/)
