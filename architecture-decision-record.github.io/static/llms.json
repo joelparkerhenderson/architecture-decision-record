@@ -7,7 +7,7 @@
     "documents": 12,
     "templates": 11,
     "examples": 40,
-    "locales": 65
+    "locales": 67
   },
   "sections": {
     "documents": [
@@ -279,6 +279,8 @@
   "skills": "https://github.com/architecture-decision-record/architecture-decision-record/tree/main/skills",
   "locales": [
     "ar_001",
+    "bg_001",
+    "bg_BG",
     "bn_001",
     "cs_001",
     "cs_CZ",
