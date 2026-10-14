@@ -51,3 +51,5 @@
 * [Kiswahili (Dunia)](sw-001/)
 * [Polski (Świat)](pl-001/)
 * [Polski (Polska)](pl-pl/)
+* [Română (Lume)](ro-001/)
+* [Română (România)](ro-ro/)
