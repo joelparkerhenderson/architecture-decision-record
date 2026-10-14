@@ -93,6 +93,10 @@ export const HERO = {
   "tagline": "Sjablonen, voorbeelden en richtlijnen voor het vastleggen van architectuurbeslissingen.",
   "translations": "Vertalingen: "
  },
+ "nl-nl": {
+  "tagline": "Sjablonen, voorbeelden en richtlijnen voor het vastleggen van architectuurbeslissingen.",
+  "translations": "Vertalingen: "
+ },
  "pt-001": {
   "tagline": "Modelos, exemplos e orientações para registrar decisões de arquitetura.",
   "translations": "Traduções: "
@@ -102,6 +106,10 @@ export const HERO = {
   "translations": "Переводы: "
  },
  "sv-001": {
+  "tagline": "Mallar, exempel och vägledning för att dokumentera arkitekturbeslut.",
+  "translations": "Översättningar: "
+ },
+ "sv-se": {
   "tagline": "Mallar, exempel och vägledning för att dokumentera arkitekturbeslut.",
   "translations": "Översättningar: "
  },
@@ -168,9 +176,11 @@ export const ENDONYMS = {
  "ko-001": "한국어",
  "ko-kr": "한국어 (대한민국)",
  "nl-001": "Nederlands",
+ "nl-nl": "Nederlands (Nederland)",
  "pt-001": "Português",
  "ru-001": "Русский",
  "sv-001": "Svenska",
+ "sv-se": "Svenska (Sverige)",
  "sw-001": "Kiswahili",
  "th-001": "ไทย",
  "tr-001": "Türkçe",
