@@ -37,7 +37,7 @@
 * [Dansk (Verden)](da-001/)
 * [Dansk (Danmark)](da-dk/)
 * [Eesti (Maailm)](et-001/)
-* [Eesti (Eesti)](et-et/)
+* [Eesti (Eesti)](et-ee/)
 * [Italiano (Mondo)](it-001/)
 * [Italiano (Italia)](it-it/)
 * [ไทย (โลก)](th-001/)

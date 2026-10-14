@@ -65,7 +65,7 @@ export const HERO = {
   "tagline": "Mallid, näited ja juhised arhitektuuriotsuste dokumenteerimiseks.",
   "translations": "Tõlked: "
  },
- "et-et": {
+ "et-ee": {
   "tagline": "Mallid, näited ja juhised arhitektuuriotsuste dokumenteerimiseks.",
   "translations": "Tõlked: "
  },
@@ -233,7 +233,7 @@ export const ENDONYMS = {
  "es-001": "Español",
  "es-es": "Español (España)",
  "et-001": "Eesti",
- "et-et": "Eesti (Eesti)",
+ "et-ee": "Eesti (Eesti)",
  "fi-001": "Suomi",
  "fi-fi": "Suomi (Suomi)",
  "fr-001": "Français",
