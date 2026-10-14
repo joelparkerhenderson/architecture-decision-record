@@ -45,7 +45,15 @@ export const HERO = {
   "tagline": "Mallid, näited ja juhised arhitektuuriotsuste dokumenteerimiseks.",
   "translations": "Tõlked: "
  },
+ "et-et": {
+  "tagline": "Mallid, näited ja juhised arhitektuuriotsuste dokumenteerimiseks.",
+  "translations": "Tõlked: "
+ },
  "fi-001": {
+  "tagline": "Mallipohjia, esimerkkejä ja ohjeita arkkitehtuuripäätösten kirjaamiseen.",
+  "translations": "Käännökset: "
+ },
+ "fi-fi": {
   "tagline": "Mallipohjia, esimerkkejä ja ohjeita arkkitehtuuripäätösten kirjaamiseen.",
   "translations": "Käännökset: "
  },
@@ -65,11 +73,23 @@ export const HERO = {
   "tagline": "Templat, contoh, dan panduan untuk mencatat keputusan arsitektur.",
   "translations": "Terjemahan: "
  },
+ "id-id": {
+  "tagline": "Templat, contoh, dan panduan untuk mencatat keputusan arsitektur.",
+  "translations": "Terjemahan: "
+ },
  "is-001": {
   "tagline": "Sniðmát, dæmi og leiðbeiningar til að skrá arkitektúrákvarðanir.",
   "translations": "Þýðingar: "
  },
+ "is-is": {
+  "tagline": "Sniðmát, dæmi og leiðbeiningar til að skrá arkitektúrákvarðanir.",
+  "translations": "Þýðingar: "
+ },
  "it-001": {
+  "tagline": "Modelli, esempi e indicazioni per documentare le decisioni architetturali.",
+  "translations": "Traduzioni: "
+ },
+ "it-it": {
   "tagline": "Modelli, esempi e indicazioni per documentare le decisioni architetturali.",
   "translations": "Traduzioni: "
  },
@@ -121,6 +141,10 @@ export const HERO = {
   "tagline": "แม่แบบ ตัวอย่าง และแนวทางสำหรับการบันทึกการตัดสินใจด้านสถาปัตยกรรม",
   "translations": "การแปล: "
  },
+ "th-th": {
+  "tagline": "แม่แบบ ตัวอย่าง และแนวทางสำหรับการบันทึกการตัดสินใจด้านสถาปัตยกรรม",
+  "translations": "การแปล: "
+ },
  "tr-001": {
   "tagline": "Mimari kararları kaydetmek için şablonlar, örnekler ve rehberlik.",
   "translations": "Çeviriler: "
@@ -134,6 +158,10 @@ export const HERO = {
   "translations": "تراجم: "
  },
  "vi-001": {
+  "tagline": "Mẫu, ví dụ và hướng dẫn để ghi lại các quyết định kiến trúc.",
+  "translations": "Bản dịch: "
+ },
+ "vi-vn": {
   "tagline": "Mẫu, ví dụ và hướng dẫn để ghi lại các quyết định kiến trúc.",
   "translations": "Bản dịch: "
  },
@@ -164,13 +192,18 @@ export const ENDONYMS = {
  "en-us": "English (United States)",
  "es-001": "Español",
  "et-001": "Eesti",
+ "et-et": "Eesti (Eesti)",
  "fi-001": "Suomi",
+ "fi-fi": "Suomi (Suomi)",
  "fr-001": "Français",
  "hi-001": "हिन्दी",
  "hi-in": "हिन्दी (भारत)",
  "id-001": "Bahasa Indonesia",
+ "id-id": "Bahasa Indonesia (Indonesia)",
  "is-001": "Íslenska",
+ "is-is": "Íslenska (Ísland)",
  "it-001": "Italiano",
+ "it-it": "Italiano (Italia)",
  "ja-001": "日本語",
  "ja-jp": "日本語 (日本)",
  "ko-001": "한국어",
@@ -183,10 +216,12 @@ export const ENDONYMS = {
  "sv-se": "Svenska (Sverige)",
  "sw-001": "Kiswahili",
  "th-001": "ไทย",
+ "th-th": "ไทย (ประเทศไทย)",
  "tr-001": "Türkçe",
  "tr-tr": "Türkçe (Türkiye)",
  "ur-001": "اردو",
  "vi-001": "Tiếng Việt",
+ "vi-vn": "Tiếng Việt (Việt Nam)",
  "zh-001": "中文",
  "zh-cn": "简体中文",
  "zh-tw": "繁體中文"

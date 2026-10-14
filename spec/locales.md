@@ -34,13 +34,18 @@ under another name) fail the audit and the sync, and are deleted.
 | `en-us` | `en_US` | English (United States) |
 | `es-001` | `es_001` | español (Mundo) |
 | `et-001` | `et_001` | eesti (maailm) |
+| `et-et` | `et_ET` | eesti (Eesti) |
 | `fi-001` | `fi_001` | suomi (maailma) |
+| `fi-fi` | `fi_FI` | suomi (Suomi) |
 | `fr-001` | `fr_001` | français (Monde) |
 | `hi-001` | `hi_001` | हिन्दी (विश्व) |
 | `hi-in` | `hi_IN` | हिन्दी (भारत) |
 | `id-001` | `id_001` | Indonesia (Dunia) |
+| `id-id` | `id_ID` | Indonesia (Indonesia) |
 | `is-001` | `is_001` | íslenska (heimurinn) |
+| `is-is` | `is_IS` | íslenska (Ísland) |
 | `it-001` | `it_001` | italiano (Mondo) |
+| `it-it` | `it_IT` | italiano (Italia) |
 | `ja-001` | `ja_001` | 日本語 (世界) |
 | `ko-001` | `ko_001` | 한국어(세계) |
 | `nl-001` | `nl_001` | Nederlands (wereld) |
@@ -51,17 +56,19 @@ under another name) fail the audit and the sync, and are deleted.
 | `sv-se` | `sv_SE` | svenska (Sverige) |
 | `sw-001` | `sw_001` | Kiswahili (Dunia) |
 | `th-001` | `th_001` | ไทย (โลก) |
+| `th-th` | `th_TH` | ไทย (ประเทศไทย) |
 | `tr-001` | `tr_001` | Türkçe (Dünya) |
 | `tr-tr` | `tr_TR` | Türkçe (Türkiye) |
 | `ur-001` | `ur_001` | اردو (دنیا) |
 | `vi-001` | `vi_001` | Tiếng Việt (Thế giới) |
+| `vi-vn` | `vi_VN` | Tiếng Việt (Việt Nam) |
 | `zh-001` | `zh_001` | 中文（世界） |
 | `zh-cn` | `zh_CN` | 中文（中国） |
 | `zh-tw` | `zh_TW` | 中文（台灣） |
 
-Counts: 34 locales, of which `en-001` is the source and 33 are translations or
+Counts: 44 locales, of which `en-001` is the source and 43 are translations or
 variants (`en-gb` and `en-us` follow English; `cy-gb` is a copy of `cy-001`;
-`hi-in` is a copy of `hi-001`; `sv-se` is a copy of `sv-001`; `tr-tr` is a copy of `tr-001`). Every one is complete: 205 files, 63 pages, and a root index.
+`hi-in` is a copy of `hi-001`; `sv-se` is a copy of `sv-001`; `tr-tr` is a copy of `tr-001`; `nl-nl`, `is-is`, `et-et`, `id-id`, `fi-fi`, `it-it`, `th-th` and `vi-vn` are copies of their `-001` locales). Every one is complete: 205 files, 63 pages, and a root index.
 
 `locales/index.md` lists each locale as `* [<Endonym> (<World>)](<code>/)`.
 `locales/locales-by-priority.md` records the translation order (all are
