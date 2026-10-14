@@ -41,6 +41,14 @@ export const HERO = {
   "tagline": "Templates, examples, and guidance for recording architecture decisions.",
   "translations": "Translations: "
  },
+ "pl-001": {
+  "tagline": "Szablony, przykłady i wskazówki dotyczące dokumentowania decyzji architektonicznych.",
+  "translations": "Tłumaczenia: "
+ },
+ "pl-pl": {
+  "tagline": "Szablony, przykłady i wskazówki dotyczące dokumentowania decyzji architektonicznych.",
+  "translations": "Tłumaczenia: "
+ },
  "en-gb": {
   "tagline": "Templates, examples, and guidance for recording architecture decisions.",
   "translations": "Translations: "
@@ -227,6 +235,8 @@ export const ENDONYMS = {
  "de-at": "Deutsch (Österreich)",
  "de-de": "Deutsch (Deutschland)",
  "en-001": "English",
+ "pl-001": "Polski",
+ "pl-pl": "Polski (Polska)",
  "en-gb": "English (United Kingdom)",
  "en-ie": "English (Ireland)",
  "en-us": "English (United States)",

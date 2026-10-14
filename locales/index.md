@@ -49,3 +49,5 @@
 * [Íslenska (Heimurinn)](is-001/)
 * [Íslenska (Ísland)](is-is/)
 * [Kiswahili (Dunia)](sw-001/)
+* [Polski (Świat)](pl-001/)
+* [Polski (Polska)](pl-pl/)
