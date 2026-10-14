@@ -7,7 +7,7 @@
     "documents": 12,
     "templates": 11,
     "examples": 40,
-    "locales": 69
+    "locales": 70
   },
   "sections": {
     "documents": [
@@ -329,6 +329,7 @@
     "pl_001",
     "pl_PL",
     "pt_001",
+    "pt_BR",
     "pt_PT",
     "ro_001",
     "ro_RO",

@@ -1,0 +1,9 @@
+# Conselhos de trabalho em equipe para ADRs
+
+Se você está considerando usar registros de decisão com sua equipe, então aqui estão alguns conselhos que aprendemos trabalhando com muitas equipes.
+
+Você tem uma oportunidade de liderar seus colegas de equipe conversando juntos sobre o "porquê", em vez de impor o "o quê". Por exemplo, registros de decisão são uma forma de as equipes pensarem melhor e se comunicarem melhor; registros de decisão não têm valor se forem apenas uma exigência forçada de documentação após o fato.
+
+Algumas equipes preferem muito mais o nome "decisões" à abreviação "ADRs". Quando algumas equipes usam o nome de diretório "decisions", é como se uma lâmpada se acendesse, e a equipe começasse a colocar mais informações no diretório, como decisões sobre fornecedores, decisões de planejamento, decisões de cronograma etc. Todos esses tipos de informação podem usar o mesmo modelo. Nossa hipótese é que as pessoas aprendem mais rápido com palavras ("decisões") do que com abreviações ("ADRs"), e que as pessoas ficam mais motivadas a escrever documentos em andamento quando a palavra "registro" é removida, e também que alguns desenvolvedores e alguns gerentes não gostam da palavra "arquitetura".
+
+Em teoria, a imutabilidade é ideal. Na prática, a mutabilidade funcionou melhor para nossas equipes. Inserimos as novas informações na ADR existente, com um carimbo de data, e uma observação de que as informações chegaram depois da decisão. Esse tipo de abordagem leva a um "documento vivo" que todos nós podemos atualizar. Atualizações típicas acontecem quando obtemos informações graças a novos colegas de equipe, novas ofertas, resultados reais de nossos usos, ou mudanças de terceiros após o fato, como capacidades de fornecedores, planos de preços, contratos de licença etc.
