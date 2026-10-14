@@ -2925,6 +2925,71 @@
   <url><loc>https://architecture-decision-record.github.io/sw-001/mifano/vipengele-vya-svelte/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/sw-001/mifano/vipimo-ufuatiliaji-na-tahadhari/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/sw-001/mifano/wiki-ya-kazi-ya-siku-4/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/nyaraka/jinsi-ya-kuanza-kutumia-adr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/nyaraka/jinsi-ya-kuanza-kutumia-adr-na-git/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/nyaraka/jinsi-ya-kuanza-kutumia-adr-na-zana/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/nyaraka/kanuni-za-majina-ya-faili-za-adr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/nyaraka/kazi-za-ufaafu-kwa-maamuzi-kama-msimbo/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/nyaraka/mapendekezo-ya-kuandika-adr-nzuri/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/nyaraka/maswali-ya-kazi-ya-timu-kwa-adr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/nyaraka/mchakato-wa-adr-wa-aws/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/nyaraka/miongozo-ya-kufikia-maamuzi-endelevu/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/nyaraka/rekodi-ya-uamuzi-wa-usanifu-ni-nini/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/nyaraka/ushauri-wa-kazi-ya-timu-kwa-adr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/nyaraka/vigezo-vya-uendelevu-wa-maamuzi/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/violezo/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/violezo/kiolezo-cha-rekodi-ya-uamuzi-cha-arc42/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/violezo/kiolezo-cha-rekodi-ya-uamuzi-cha-edgex/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/violezo/kiolezo-cha-rekodi-ya-uamuzi-cha-gareth-morgan/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/violezo/kiolezo-cha-rekodi-ya-uamuzi-cha-gig-cymru-nhs-wales/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/violezo/kiolezo-cha-rekodi-ya-uamuzi-cha-jeff-tyree-na-art-akerman/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/violezo/kiolezo-cha-rekodi-ya-uamuzi-cha-michael-nygard/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/violezo/kiolezo-cha-rekodi-ya-uamuzi-cha-mradi-wa-madr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/violezo/kiolezo-cha-rekodi-ya-uamuzi-kwa-hoja-ya-biashara/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/violezo/kiolezo-cha-rekodi-ya-uamuzi-kwa-kutumia-planguage/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/violezo/kiolezo-cha-rekodi-ya-uamuzi-kwa-maamuzi-muhimu-ya-kiufundi/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/violezo/kiolezo-cha-rekodi-ya-uamuzi-kwa-mtindo-wa-alexander/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/amazon-web-services/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/api-kwa-json-au-grpc/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/chaguo-za-uthibitishaji-na-uidhinishaji/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/google-cloud-platform/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/hifadhidata-ya-mysql/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/hifadhidata-ya-postgresql/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/kazi-ya-timu-yenye-uaminifu-wa-juu/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/kuchagua-teknolojia-ya-hifadhidata/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/kufanya-kazi-kutoka-nyumbani/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/lugha-ya-programu-go/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/lugha-ya-programu-java/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/lugha-ya-programu-python/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/lugha-ya-programu-rust/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/lugha-za-programu/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/maktaba-ya-chati-kwa-taswira-ya-data-kwa-typescript-na-json/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/maktaba-ya-javascript-ya-react-kwa-sehemu-ya-mbele/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/maktaba-ya-javascript-ya-svelte-kwa-sehemu-ya-mbele/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/maktaba-ya-javascript-ya-vue-kwa-sehemu-ya-mbele/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/mfumo-wa-css/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/mfumo-wa-kiotomatiki-wa-kivinjari-kwa-majaribio-ya-e2e-playwright-au-selenium/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/mfumo-wa-programu-za-wavuti-kila-kitu-ndani-safu-kamili-kwa-bidhaa-ya-kampuni-changa/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/mfumo-wa-python-django/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/mfumo-wa-ruby-on-rails/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/mfumo-wa-sveltekit/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/microsoft-azure-devops/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/miundombinu-ya-wingu-ya-microsoft-azure/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/monorepo-au-multirepo/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/muundo-wa-muhuri-wa-muda/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/snake-case-au-camelcase-kwa-rest-api/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/tailwind-css/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/uhifadhi-wa-siri/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/ujumuishaji-endelevu/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/upangaji-wa-kontena-wa-docker-swarm/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/upangaji-wa-kontena-wa-kubernetes/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/usanidi-wa-vigeu-vya-mazingira/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/uundaji-programu-kwa-wepesi/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/vihariri-vya-msimbo-wa-programu/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/vipengele-vya-svelte/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/vipimo-ufuatiliaji-na-tahadhari/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/sw-tz/mifano/wiki-ya-kazi-ya-siku-4/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/th-001/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3-adr-%E0%B8%82%E0%B8%AD%E0%B8%87-aws/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/th-001/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-adr-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B5/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/th-001/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3/%E0%B8%84%E0%B8%B3%E0%B8%96%E0%B8%B2%E0%B8%A1%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-adr/</loc></url>

@@ -53,3 +53,4 @@
 * [Polski (Polska)](pl-pl/)
 * [Română (Lume)](ro-001/)
 * [Română (România)](ro-ro/)
+* [Kiswahili (Tanzania)](sw-tz/)
