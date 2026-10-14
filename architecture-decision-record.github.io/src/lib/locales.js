@@ -5,9 +5,12 @@
 // "en_001" is not listed separately: it would be a duplicate "English").
 // See spec/locale-specific-search-picker/index.md.
 export const LOCALES = [
-	'ar_001', 'bn_001', 'cy_001', 'cy_GB', 'da_001', 'de_001', 'en', 'en_GB', 'en_US',
-	'es_001', 'et_001', 'fi_001', 'fr_001', 'hi_001', 'hi_IN', 'id_001', 'is_001', 'it_001', 'ja_001', 'ko_001', 'nl_001',
-	'pt_001', 'pt_BR', 'ru_001', 'sv_001', 'sw_001', 'th_001', 'tr_001', 'tr_TR', 'ur_001', 'vi_001', 'zh_001', 'zh_CN', 'zh_TW'
+	'ar_001', 'bn_001', 'cs_001', 'cs_CZ', 'cy_001', 'cy_GB', 'da_001', 'da_DK', 'de_001', 'de_AT', 'de_DE', 'el_001',
+	'el_CY', 'el_GR', 'en', 'en_GB', 'en_IE', 'en_US', 'es_001', 'es_ES', 'et_001', 'et_EE', 'fi_001', 'fi_FI',
+	'fr_001', 'fr_FR', 'fr_LU', 'hi_001', 'hi_IN', 'hu_001', 'hu_HU', 'id_001', 'id_ID', 'is_001', 'is_IS', 'it_001',
+	'it_IT', 'ja_001', 'ja_JP', 'ko_001', 'ko_KR', 'nl_001', 'nl_BE', 'nl_NL', 'pl_001', 'pl_PL', 'pt_001', 'pt_BR', 'pt_PT',
+	'ro_001', 'ro_RO', 'ru_001', 'sv_001', 'sv_SE', 'sw_001', 'sw_TZ', 'th_001', 'th_TH', 'tr_001', 'tr_TR', 'ur_001',
+	'vi_001', 'vi_VN', 'zh_001', 'zh_CN', 'zh_TW'
 ];
 
 export const DEFAULT_LOCALE = 'en';
@@ -40,7 +43,7 @@ export function isRtlSlug(slug) {
  * Per preference, the first rule that matches wins:
  *  1. the exact locale ("cy_GB" or "cy-GB" -> "cy-gb", "zh-TW" -> "zh-tw");
  *  2. Chinese by script or region ("zh-Hant", "zh-HK", "zh-MO" -> "zh-tw"; "zh-Hans" -> "zh-cn");
- *  3. the language's international *-001 locale ("en-AU", "de-DE", "pt-PT", "fi" -> "en-001", "de-001", "pt-001", "fi-001").
+ *  3. the language's international *-001 locale ("en-AU", "de-DE", "pt-AO", "fi" -> "en-001", "de-001", "pt-001", "fi-001").
  * Preferences that match nothing are skipped; with no match at all the result
  * is "/en-001/". See spec/website.md.
  * @param {readonly string[]} languages

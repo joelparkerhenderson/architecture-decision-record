@@ -46,7 +46,7 @@ static page with a link to `/en-001/`, which is its canonical URL.
 ([locales.md](locales.md#root-index-the-translated-readme)), loaded by
 `landingOf()` in `src/lib/server/locale-pages.js`:
 
-- **Hero**: the README's `#` title and its first paragraph.
+- **Hero**: the README's `#` title (headline), a one-sentence subheadline, the README's first paragraph (introduction), and a "Translations: " sentence listing every locale's endonym as a link to `/<locale>/`. The subheadline and the translated "Translations" label are hand-authored in `src/lib/data/hero.js`.
 - **Six cards**, linking to anchors further down the same page: the sections "What
   is an ADR?", "How to start using ADRs", "Suggestions for writing good ADRs",
   "ADR example templates", "Teamwork advice for ADRs", and "Fitness functions"

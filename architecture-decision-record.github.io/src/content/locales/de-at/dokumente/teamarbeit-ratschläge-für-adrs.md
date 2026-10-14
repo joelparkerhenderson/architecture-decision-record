@@ -1,0 +1,9 @@
+# Ratschläge zur Teamarbeit für ADRs
+
+Wenn Sie erwägen, Entscheidungsprotokolle mit Ihrem Team zu verwenden, finden Sie hier einige Ratschläge, die wir durch die Arbeit mit vielen Teams gelernt haben.
+
+Sie haben die Gelegenheit, Ihre Teamkollegen zu führen, indem Sie gemeinsam über das „Warum“ sprechen, statt das „Was“ vorzuschreiben. Entscheidungsprotokolle sind zum Beispiel ein Weg für Teams, klüger zu denken und besser zu kommunizieren; Entscheidungsprotokolle sind nicht wertvoll, wenn sie nur eine nachträglich erzwungene Papierarbeit sind.
+
+Manche Teams bevorzugen den Namen „Entscheidungen“ (decisions) deutlich gegenüber der Abkürzung „ADRs“. Wenn manche Teams den Verzeichnisnamen „decisions“ verwenden, geht ihnen gewissermaßen ein Licht auf, und das Team beginnt, mehr Informationen in das Verzeichnis zu legen, etwa Lieferantenentscheidungen, Planungsentscheidungen, Terminplanungsentscheidungen usw. All diese Arten von Informationen können dieselbe Vorlage nutzen. Wir vermuten, dass Menschen mit Wörtern („Entscheidungen“) schneller lernen als mit Abkürzungen („ADRs“), dass Menschen motivierter sind, Dokumente für laufende Arbeit zu schreiben, wenn das Wort „Protokoll“ (record) entfällt, und dass manche Entwickler und manche Manager das Wort „Architektur“ nicht mögen.
+
+In der Theorie ist Unveränderlichkeit ideal. In der Praxis hat sich Veränderlichkeit für unsere Teams besser bewährt. Wir fügen die neue Information in den bestehenden ADR ein, mit einem Datumsstempel und einem Hinweis, dass die Information nach der Entscheidung eintraf. Ein solcher Ansatz führt zu einem „lebenden Dokument“, das wir alle aktualisieren können. Typische Aktualisierungen erfolgen, wenn wir Informationen dank neuer Teamkollegen oder neuer Angebote erhalten, oder durch reale Ergebnisse unserer Nutzung, oder nach nachträglichen Änderungen durch Dritte wie Fähigkeiten von Anbietern, Preismodelle, Lizenzvereinbarungen usw.

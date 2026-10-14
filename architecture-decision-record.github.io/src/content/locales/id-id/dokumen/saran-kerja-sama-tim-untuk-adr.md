@@ -1,0 +1,9 @@
+# Saran kerja sama tim untuk ADR
+
+Jika Anda mempertimbangkan untuk menggunakan catatan keputusan bersama tim Anda, berikut beberapa saran yang kami pelajari dari bekerja dengan banyak tim.
+
+Anda memiliki kesempatan untuk memimpin rekan tim Anda dengan membicarakan "mengapa" bersama-sama, alih-alih mewajibkan "apa". Misalnya, catatan keputusan adalah cara bagi tim untuk berpikir lebih cerdas dan berkomunikasi lebih baik; catatan keputusan tidak bernilai jika hanya menjadi kewajiban administrasi yang dipaksakan setelah kejadian.
+
+Beberapa tim jauh lebih menyukai nama "keputusan" (decisions) daripada singkatan "ADR". Ketika beberapa tim menggunakan nama direktori "decisions", seolah-olah sebuah lampu menyala, dan tim mulai memasukkan lebih banyak informasi ke dalam direktori tersebut, seperti keputusan vendor, keputusan perencanaan, keputusan penjadwalan, dan sebagainya. Semua jenis informasi ini dapat menggunakan templat yang sama. Kami berhipotesis bahwa orang belajar lebih cepat dengan kata ("keputusan") daripada singkatan ("ADR"), dan orang lebih termotivasi untuk menulis dokumen yang sedang dikerjakan ketika kata "catatan" dihilangkan, dan juga sebagian pengembang dan sebagian manajer tidak menyukai kata "arsitektur".
+
+Secara teori, sifat tidak dapat diubah adalah yang ideal. Dalam praktik, sifat dapat diubah bekerja lebih baik untuk tim kami. Kami menyisipkan informasi baru ke dalam ADR yang ada, dengan stempel tanggal, dan catatan bahwa informasi tersebut datang setelah keputusan. Pendekatan semacam ini menghasilkan "dokumen hidup" yang dapat kami perbarui bersama. Pembaruan yang umum terjadi ketika kami memperoleh informasi berkat rekan tim baru, atau penawaran baru, atau hasil nyata dari penggunaan kami, atau perubahan pihak ketiga setelah kejadian seperti kemampuan vendor, paket harga, perjanjian lisensi, dan sebagainya.

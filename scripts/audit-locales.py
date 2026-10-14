@@ -24,12 +24,14 @@ esecs,epages=tree(SRC)
 enkind={s:peer(f'{SRC}/{s}') for s in SECS}
 def files_in(p): return sorted(f for f in os.listdir(p) if os.path.isfile(f'{p}/{f}') or os.path.islink(f'{p}/{f}'))
 PRODUCT_OK={'amazon-web-services','google-cloud-platform','microsoft-azure-devops','tailwind-css'}
-ENGLISH_VARIANTS={'en-gb','en-us'}
+ENGLISH_VARIANTS={'en-gb','en-us','en-ie'}
 # Slugs that are genuinely identical in the language (cognates), reviewed by hand.
 COGNATES={'da-001':{'css-framework','mysql-database','postgresql-database','python-django-framework','ruby-on-rails-framework','sveltekit-framework'},
  'nl-001':{'css-framework','mysql-database','postgresql-database','python-django-framework','ruby-on-rails-framework','sveltekit-framework'},
  'de-001':{'css-framework','python-django-framework','ruby-on-rails-framework','sveltekit-framework'},
  'id-001':{'monorepo-vs-multirepo'},'fr-001':{'documents'}}
+# A regional copy (nl-nl) shares its -001 locale's cognates.
+def cog(loc): return COGNATES.get(loc, COGNATES.get(loc[:2]+'-001', ()))
 # Every README.md must be a symlink to the index.md beside it; no other symlinks are allowed.
 locs=sorted(x for x in os.listdir('.') if re.match(r'^[a-z]{2,3}-[a-z0-9]{2,3}$',x) and x!=SRC)
 for dp,_,fs in os.walk(SRC):
@@ -51,7 +53,7 @@ for loc in locs:
     if sorted(kinds.values())!=sorted(SECS): problems[loc].append(f'section dirs not 3: {kinds}')
     if loc not in ENGLISH_VARIANTS:
         for s,k in kinds.items():
-            if s==k and s not in COGNATES.get(loc,()): problems[loc].append(f'section dir not translated: {s}')
+            if s==k and s not in cog(loc): problems[loc].append(f'section dir not translated: {s}')
     # root files
     rootfiles=files_in(loc); enroot=files_in(SRC)
     # pages
@@ -72,7 +74,7 @@ for loc in locs:
             if os.path.isfile(q) and os.path.getsize(q)<50: problems[loc].append(f'tiny file {q}')
         if os.path.isfile(lp+'/index.md') and os.path.isfile(lp+'/README.md') and not filecmp.cmp(lp+'/index.md',lp+'/README.md',shallow=False): problems[loc].append(f'index!=README {ls}/{ld}')
         # slug translated?
-        if loc not in ENGLISH_VARIANTS and ld==ed and ed not in PRODUCT_OK and ed not in COGNATES.get(loc,()): problems[loc].append(f'slug not translated: {ed}')
+        if loc not in ENGLISH_VARIANTS and ld==ed and ed not in PRODUCT_OK and ed not in cog(loc): problems[loc].append(f'slug not translated: {ed}')
         if loc not in ENGLISH_VARIANTS and ld==ed and ed in PRODUCT_OK: problems[loc].append(f'(product-name slug kept) {ed}')
         # slug hygiene
         if re.search(r'[\sA-Z_.]',ld) and not re.search(r'[一-鿿]',ld): problems[loc].append(f'slug hygiene: {ld}')
