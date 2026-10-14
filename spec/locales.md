@@ -28,16 +28,23 @@ under another name) fail the audit and the sync, and are deleted.
 | `cy-001` | `cy_001` | Cymraeg (Y Byd) |
 | `cy-gb` | `cy_GB` | Cymraeg (Y Deyrnas Unedig) |
 | `da-001` | `da_001` | dansk (Verden) |
+| `da-dk` | `da_DK` | dansk (Danmark) |
 | `de-001` | `de_001` | Deutsch (Welt) |
+| `de-at` | `de_AT` | Deutsch (Österreich) |
+| `de-de` | `de_DE` | Deutsch (Deutschland) |
 | `en-001` | `en` | English |
 | `en-gb` | `en_GB` | English (United Kingdom) |
+| `en-ie` | `en_IE` | English (Ireland) |
 | `en-us` | `en_US` | English (United States) |
 | `es-001` | `es_001` | español (Mundo) |
+| `es-es` | `es_ES` | español (España) |
 | `et-001` | `et_001` | eesti (maailm) |
 | `et-et` | `et_ET` | eesti (Eesti) |
 | `fi-001` | `fi_001` | suomi (maailma) |
 | `fi-fi` | `fi_FI` | suomi (Suomi) |
 | `fr-001` | `fr_001` | français (Monde) |
+| `fr-fr` | `fr_FR` | français (France) |
+| `fr-lu` | `fr_LU` | français (Luxembourg) |
 | `hi-001` | `hi_001` | हिन्दी (विश्व) |
 | `hi-in` | `hi_IN` | हिन्दी (भारत) |
 | `id-001` | `id_001` | Indonesia (Dunia) |
@@ -49,8 +56,10 @@ under another name) fail the audit and the sync, and are deleted.
 | `ja-001` | `ja_001` | 日本語 (世界) |
 | `ko-001` | `ko_001` | 한국어(세계) |
 | `nl-001` | `nl_001` | Nederlands (wereld) |
+| `nl-be` | `nl_BE` | Nederlands (België) |
 | `nl-nl` | `nl_NL` | Nederlands (Nederland) |
 | `pt-001` | `pt_001` | português (Mundo) |
+| `pt-pt` | `pt_PT` | português (Portugal) |
 | `ru-001` | `ru_001` | русский (весь мир) |
 | `sv-001` | `sv_001` | svenska (världen) |
 | `sv-se` | `sv_SE` | svenska (Sverige) |

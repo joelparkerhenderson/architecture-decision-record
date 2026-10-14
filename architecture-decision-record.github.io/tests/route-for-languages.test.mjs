@@ -23,8 +23,9 @@ const cases = [
 	// the language's international *-001 locale
 	[['en-AU'], '/en-001/'],
 	[['en'], '/en-001/'],
-	[['de-DE'], '/de-001/'],
-	[['de-AT'], '/de-001/'],
+	[['de-DE'], '/de-de/'],
+	[['de-AT'], '/de-at/'],
+	[['de-CH'], '/de-001/'],
 	[['pt-BR'], '/pt-001/'],
 	[['fi'], '/fi-001/'],
 	[['es-419'], '/es-001/'],

@@ -24,7 +24,7 @@ esecs,epages=tree(SRC)
 enkind={s:peer(f'{SRC}/{s}') for s in SECS}
 def files_in(p): return sorted(f for f in os.listdir(p) if os.path.isfile(f'{p}/{f}') or os.path.islink(f'{p}/{f}'))
 PRODUCT_OK={'amazon-web-services','google-cloud-platform','microsoft-azure-devops','tailwind-css'}
-ENGLISH_VARIANTS={'en-gb','en-us'}
+ENGLISH_VARIANTS={'en-gb','en-us','en-ie'}
 # Slugs that are genuinely identical in the language (cognates), reviewed by hand.
 COGNATES={'da-001':{'css-framework','mysql-database','postgresql-database','python-django-framework','ruby-on-rails-framework','sveltekit-framework'},
  'nl-001':{'css-framework','mysql-database','postgresql-database','python-django-framework','ruby-on-rails-framework','sveltekit-framework'},

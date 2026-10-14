@@ -5,9 +5,11 @@
 // "en_001" is not listed separately: it would be a duplicate "English").
 // See spec/locale-specific-search-picker/index.md.
 export const LOCALES = [
-	'ar_001', 'bn_001', 'cy_001', 'cy_GB', 'da_001', 'de_001', 'en', 'en_GB', 'en_US',
-	'es_001', 'et_001', 'et_ET', 'fi_001', 'fi_FI', 'fr_001', 'hi_001', 'hi_IN', 'id_001', 'id_ID', 'is_001', 'is_IS', 'it_001', 'it_IT', 'ja_001', 'ja_JP', 'ko_001', 'ko_KR', 'nl_001', 'nl_NL',
-	'pt_001', 'ru_001', 'sv_001', 'sv_SE', 'sw_001', 'th_001', 'th_TH', 'tr_001', 'tr_TR', 'ur_001', 'vi_001', 'vi_VN', 'zh_001', 'zh_CN', 'zh_TW'
+	'ar_001', 'bn_001', 'cy_001', 'cy_GB', 'da_001', 'da_DK', 'de_001', 'de_AT', 'de_DE', 'en', 'en_GB', 'en_IE',
+	'en_US', 'es_001', 'es_ES', 'et_001', 'et_ET', 'fi_001', 'fi_FI', 'fr_001', 'fr_FR', 'fr_LU', 'hi_001', 'hi_IN',
+	'id_001', 'id_ID', 'is_001', 'is_IS', 'it_001', 'it_IT', 'ja_001', 'ja_JP', 'ko_001', 'ko_KR', 'nl_001', 'nl_BE',
+	'nl_NL', 'pt_001', 'pt_PT', 'ru_001', 'sv_001', 'sv_SE', 'sw_001', 'th_001', 'th_TH', 'tr_001', 'tr_TR', 'ur_001',
+	'vi_001', 'vi_VN', 'zh_001', 'zh_CN', 'zh_TW'
 ];
 
 export const DEFAULT_LOCALE = 'en';

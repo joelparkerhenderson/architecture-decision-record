@@ -21,7 +21,19 @@ export const HERO = {
   "tagline": "Skabeloner, eksempler og vejledning til at registrere arkitekturbeslutninger.",
   "translations": "Oversættelser: "
  },
+ "da-dk": {
+  "tagline": "Skabeloner, eksempler og vejledning til at registrere arkitekturbeslutninger.",
+  "translations": "Oversættelser: "
+ },
  "de-001": {
+  "tagline": "Vorlagen, Beispiele und Anleitungen zum Festhalten von Architekturentscheidungen.",
+  "translations": "Übersetzungen: "
+ },
+ "de-at": {
+  "tagline": "Vorlagen, Beispiele und Anleitungen zum Festhalten von Architekturentscheidungen.",
+  "translations": "Übersetzungen: "
+ },
+ "de-de": {
   "tagline": "Vorlagen, Beispiele und Anleitungen zum Festhalten von Architekturentscheidungen.",
   "translations": "Übersetzungen: "
  },
@@ -33,11 +45,19 @@ export const HERO = {
   "tagline": "Templates, examples, and guidance for recording architecture decisions.",
   "translations": "Translations: "
  },
+ "en-ie": {
+  "tagline": "Templates, examples, and guidance for recording architecture decisions.",
+  "translations": "Translations: "
+ },
  "en-us": {
   "tagline": "Templates, examples, and guidance for recording architecture decisions.",
   "translations": "Translations: "
  },
  "es-001": {
+  "tagline": "Plantillas, ejemplos y orientación para registrar decisiones de arquitectura.",
+  "translations": "Traducciones: "
+ },
+ "es-es": {
   "tagline": "Plantillas, ejemplos y orientación para registrar decisiones de arquitectura.",
   "translations": "Traducciones: "
  },
@@ -58,6 +78,14 @@ export const HERO = {
   "translations": "Käännökset: "
  },
  "fr-001": {
+  "tagline": "Modèles, exemples et conseils pour consigner les décisions d'architecture.",
+  "translations": "Traductions: "
+ },
+ "fr-lu": {
+  "tagline": "Modèles, exemples et conseils pour consigner les décisions d'architecture.",
+  "translations": "Traductions: "
+ },
+ "fr-fr": {
   "tagline": "Modèles, exemples et conseils pour consigner les décisions d'architecture.",
   "translations": "Traductions: "
  },
@@ -113,11 +141,19 @@ export const HERO = {
   "tagline": "Sjablonen, voorbeelden en richtlijnen voor het vastleggen van architectuurbeslissingen.",
   "translations": "Vertalingen: "
  },
+ "nl-be": {
+  "tagline": "Sjablonen, voorbeelden en richtlijnen voor het vastleggen van architectuurbeslissingen.",
+  "translations": "Vertalingen: "
+ },
  "nl-nl": {
   "tagline": "Sjablonen, voorbeelden en richtlijnen voor het vastleggen van architectuurbeslissingen.",
   "translations": "Vertalingen: "
  },
  "pt-001": {
+  "tagline": "Modelos, exemplos e orientações para registrar decisões de arquitetura.",
+  "translations": "Traduções: "
+ },
+ "pt-pt": {
   "tagline": "Modelos, exemplos e orientações para registrar decisões de arquitetura.",
   "translations": "Traduções: "
  },
@@ -186,16 +222,23 @@ export const ENDONYMS = {
  "cy-001": "Cymraeg",
  "cy-gb": "Cymraeg (Y Deyrnas Unedig)",
  "da-001": "Dansk",
+ "da-dk": "Dansk (Danmark)",
  "de-001": "Deutsch",
+ "de-at": "Deutsch (Österreich)",
+ "de-de": "Deutsch (Deutschland)",
  "en-001": "English",
  "en-gb": "English (United Kingdom)",
+ "en-ie": "English (Ireland)",
  "en-us": "English (United States)",
  "es-001": "Español",
+ "es-es": "Español (España)",
  "et-001": "Eesti",
  "et-et": "Eesti (Eesti)",
  "fi-001": "Suomi",
  "fi-fi": "Suomi (Suomi)",
  "fr-001": "Français",
+ "fr-lu": "Français (Luxembourg)",
+ "fr-fr": "Français (France)",
  "hi-001": "हिन्दी",
  "hi-in": "हिन्दी (भारत)",
  "id-001": "Bahasa Indonesia",
@@ -209,8 +252,10 @@ export const ENDONYMS = {
  "ko-001": "한국어",
  "ko-kr": "한국어 (대한민국)",
  "nl-001": "Nederlands",
+ "nl-be": "Nederlands (België)",
  "nl-nl": "Nederlands (Nederland)",
  "pt-001": "Português",
+ "pt-pt": "Português (Portugal)",
  "ru-001": "Русский",
  "sv-001": "Svenska",
  "sv-se": "Svenska (Sverige)",
