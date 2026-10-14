@@ -41,6 +41,14 @@ export const HERO = {
   "tagline": "Templates, examples, and guidance for recording architecture decisions.",
   "translations": "Translations: "
  },
+ "hr-001": {
+  "tagline": "Predlošci, primjeri i smjernice za bilježenje arhitekturnih odluka.",
+  "translations": "Prijevodi: "
+ },
+ "hr-hr": {
+  "tagline": "Predlošci, primjeri i smjernice za bilježenje arhitekturnih odluka.",
+  "translations": "Prijevodi: "
+ },
  "bg-001": {
   "tagline": "Шаблони, примери и насоки за документиране на архитектурни решения.",
   "translations": "Преводи: "
@@ -283,6 +291,8 @@ export const ENDONYMS = {
  "de-at": "Deutsch (Österreich)",
  "de-de": "Deutsch (Deutschland)",
  "en-001": "English",
+ "hr-001": "Hrvatski",
+ "hr-hr": "Hrvatski (Hrvatska)",
  "bg-001": "Български",
  "bg-bg": "Български (България)",
  "cs-001": "Čeština",

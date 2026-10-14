@@ -63,3 +63,5 @@
 * [Čeština (Česko)](cs-cz/)
 * [Български (свят)](bg-001/)
 * [Български (България)](bg-bg/)
+* [Hrvatski (Svijet)](hr-001/)
+* [Hrvatski (Hrvatska)](hr-hr/)
