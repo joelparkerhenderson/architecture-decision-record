@@ -42,7 +42,7 @@ Exemplos em português brasileiro:
 
 * [Microsoft Azure DevOps](microsoft-azure-devops)
 
-* [Monorepo vs multirepo](monorepo-vs-multirepo)
+* [Monorepo vs multirepo](repositorio-unico-vs-multiplos-repositorios)
 
 * [Banco de dados MySQL](banco-de-dados-mysql)
 
