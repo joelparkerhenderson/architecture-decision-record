@@ -69,3 +69,5 @@
 * [Slovenčina (Slovensko)](sk-sk/)
 * [Lietuvių (pasaulis)](lt-001/)
 * [Lietuvių (Lietuva)](lt-lt/)
+* [Slovenščina (svet)](sl-001/)
+* [Slovenščina (Slovenija)](sl-si/)
