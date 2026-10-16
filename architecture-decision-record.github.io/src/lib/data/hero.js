@@ -57,6 +57,14 @@ export const HERO = {
   "tagline": "Šablóny, príklady a pokyny na zaznamenávanie architektonických rozhodnutí.",
   "translations": "Preklady: "
  },
+ "lv-001": {
+  "tagline": "Veidnes, piemēri un norādījumi arhitektūras lēmumu fiksēšanai.",
+  "translations": "Tulkojumi: "
+ },
+ "lv-lv": {
+  "tagline": "Veidnes, piemēri un norādījumi arhitektūras lēmumu fiksēšanai.",
+  "translations": "Tulkojumi: "
+ },
  "sl-001": {
   "tagline": "Predloge, primeri in smernice za beleženje arhitekturnih odločitev.",
   "translations": "Prevodi: "
@@ -317,6 +325,8 @@ export const ENDONYMS = {
  "en-001": "English",
  "lt-001": "Lietuvių",
  "lt-lt": "Lietuvių (Lietuva)",
+ "lv-001": "Latviešu",
+ "lv-lv": "Latviešu (Latvija)",
  "sl-001": "Slovenščina",
  "sl-si": "Slovenščina (Slovenija)",
  "sk-001": "Slovenčina",

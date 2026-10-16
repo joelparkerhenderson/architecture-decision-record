@@ -71,3 +71,5 @@
 * [Lietuvių (Lietuva)](lt-lt/)
 * [Slovenščina (svet)](sl-001/)
 * [Slovenščina (Slovenija)](sl-si/)
+* [Latviešu (pasaule)](lv-001/)
+* [Latviešu (Latvija)](lv-lv/)
