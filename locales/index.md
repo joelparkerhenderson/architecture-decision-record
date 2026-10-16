@@ -67,3 +67,5 @@
 * [Hrvatski (Hrvatska)](hr-hr/)
 * [Slovenčina (svet)](sk-001/)
 * [Slovenčina (Slovensko)](sk-sk/)
+* [Lietuvių (pasaulis)](lt-001/)
+* [Lietuvių (Lietuva)](lt-lt/)
