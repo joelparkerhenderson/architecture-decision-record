@@ -1,0 +1,9 @@
+# Comhairle oibre foirne do ADR
+
+Má tá tú ag smaoineamh ar thaifid chinntí a úsáid le do fhoireann, seo roinnt comhairle a d'fhoghlaimíomar trí oibriú le go leor foirne.
+
+Tá deis agat do chomhghleacaithe foirne a threorú, trí labhairt le chéile faoin “cén fáth”, seachas an “cad é” a ordú. Mar shampla, is bealach iad taifid chinntí chun go smaoineoidh foirne níos cliste agus go gcumarsáidfidh siad níos fearr; níl taifid chinntí luachmhar mura bhfuil iontu ach riachtanas páipéarachais éigeantach i ndiaidh an ama.
+
+Is fearr le roinnt foirne go mór an t-ainm “cinntí” ná an giorrúchán “ADR”. Nuair a úsáideann roinnt foirne ainm an eolaire “decisions”, is amhail is go gcasann bolgán solais air, agus tosaíonn an fhoireann ag cur tuilleadh faisnéise isteach san eolaire, amhail cinntí díoltóra, cinntí pleanála, cinntí sceidealaithe, srl. Is féidir an teimpléad céanna a úsáid do na cineálacha faisnéise seo ar fad. Tá hipitéis againn go bhfoghlaimíonn daoine níos tapúla le focail (“cinntí”) seachas le giorrúcháin (“ADR”), go bhfuil daoine níos spreagtha chun doiciméid atá idir lámha a scríobh nuair a bhaintear an focal “taifead”, agus freisin nach dtaitníonn an focal “ailtireacht” le roinnt forbróirí agus le roinnt bainisteoirí.
+
+I dteoiric, is idéalach é an do-athraitheacht. I gcleachtas, d'oibrigh an inathraitheacht níos fearr dár bhfoirne. Cuirimid an fhaisnéis nua isteach sa ADR atá ann cheana, le stampa dáta, agus nóta gur tháinig an fhaisnéis tar éis an chinnidh. Tugann cur chuige den sórt seo “doiciméad beo” dúinn is féidir linn go léir a nuashonrú. Is iondúil go dtarlaíonn nuashonruithe nuair a fhaighimid faisnéis a bhuí le comhghleacaithe foirne nua, nó le tairiscintí nua, nó le torthaí fíorshaoil ár n-úsáide, nó tar éis athruithe tríú páirtí i ndiaidh an ama amhail cumais díoltóra, pleananna praghsála, comhaontuithe ceadúnais, srl.

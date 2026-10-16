@@ -73,3 +73,5 @@
 * [Slovenščina (Slovenija)](sl-si/)
 * [Latviešu (pasaule)](lv-001/)
 * [Latviešu (Latvija)](lv-lv/)
+* [Gaeilge (an domhan)](ga-001/)
+* [Gaeilge (Éire)](ga-ie/)

@@ -57,6 +57,14 @@ export const HERO = {
   "tagline": "Šablóny, príklady a pokyny na zaznamenávanie architektonických rozhodnutí.",
   "translations": "Preklady: "
  },
+ "ga-001": {
+  "tagline": "Teimpléid, samplaí, agus treoir chun cinntí ailtireachta a thaifeadadh.",
+  "translations": "Aistriúcháin: "
+ },
+ "ga-ie": {
+  "tagline": "Teimpléid, samplaí, agus treoir chun cinntí ailtireachta a thaifeadadh.",
+  "translations": "Aistriúcháin: "
+ },
  "lv-001": {
   "tagline": "Veidnes, piemēri un norādījumi arhitektūras lēmumu fiksēšanai.",
   "translations": "Tulkojumi: "
@@ -325,6 +333,8 @@ export const ENDONYMS = {
  "en-001": "English",
  "lt-001": "Lietuvių",
  "lt-lt": "Lietuvių (Lietuva)",
+ "ga-001": "Gaeilge",
+ "ga-ie": "Gaeilge (Éire)",
  "lv-001": "Latviešu",
  "lv-lv": "Latviešu (Latvija)",
  "sl-001": "Slovenščina",
