@@ -19,7 +19,7 @@ website has no separate `/en/` site: English is the `/en-001/` locale route
 `locales/`; stray or duplicate directories (for example a copy of a locale
 under another name) fail the audit and the sync, and are deleted.
 
-## The 90 locales
+## The 91 locales
 
 | Directory and route | Picker value | Endonym (Intl) |
 |---|---|---|
@@ -59,6 +59,7 @@ under another name) fail the audit and the sync, and are deleted.
 | `ga-001` | `ga_001` | Gaeilge (an domhan) |
 | `ga-ie` | `ga_IE` | Gaeilge (Éire) |
 | `gu-001` | `gu_001` | ગુજરાતી (વિશ્વ) |
+| `ha-001` | `ha_001` | Hausa (Duniya) |
 | `hi-001` | `hi_001` | हिन्दी (विश्व) |
 | `hi-in` | `hi_IN` | हिन्दी (भारत) |
 | `hr-001` | `hr_001` | hrvatski (Svijet) |
@@ -112,7 +113,7 @@ under another name) fail the audit and the sync, and are deleted.
 | `zh-cn` | `zh_CN` | 中文（中国） |
 | `zh-tw` | `zh_TW` | 中文（台灣） |
 
-Counts: 90 locales, of which `en-001` is the source and 89 are translations or
+Counts: 91 locales, of which `en-001` is the source and 90 are translations or
 variants (`en-gb` and `en-us` follow English; `cy-gb` is a copy of `cy-001`;
 `hi-in` is a copy of `hi-001`; `sv-se` is a copy of `sv-001`; `tr-tr` is a copy of `tr-001`; `nl-nl`, `is-is`, `et-ee`, `id-id`, `fi-fi`, `it-it`, `th-th` and `vi-vn` are copies of their `-001` locales; `da-dk`, `de-de`, `de-at`, `es-es`, `fr-fr`, `fr-lu`, `pt-pt` and `nl-be` are copies of `da-001`, `de-001`, `es-001`, `fr-001`, `pt-001` and `nl-001`; `en-ie` is a copy of `en-gb`; `pl-pl` is a copy of `pl-001`; `ro-ro` is a copy of `ro-001`; `sw-tz` is a copy of `sw-001`; `el-gr` is a copy of `el-001`; `el-cy` is a copy of `el-001`; `hu-hu` is a copy of `hu-001`; `cs-cz` is a copy of `cs-001`; `bg-bg` is a copy of `bg-001`; `hr-hr` is a copy of `hr-001`; `sk-sk` is a copy of `sk-001`; `lt-lt` is a copy of `lt-001`; `sl-si` is a copy of `sl-001`; `lv-lv` is a copy of `lv-001`; `ga-ie` is a copy of `ga-001`; `mt-mt` is a copy of `mt-001`; `fr-be` is a copy of `fr-001`; `lb-lu` is a copy of `lb-001`). Every one is complete: 205 files, 63 pages, and a root index.
 

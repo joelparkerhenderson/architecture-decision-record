@@ -14,5 +14,5 @@ change the spec first.
 | [locale-specific-search-picker/](locale-specific-search-picker/index.md) | Per-locale site search: picker form, `/<locale>/?<query>` route, per-locale index |
 | [agents.md](agents.md) | Skills, `llms.txt`, `AGENTS.md` rules for AI agents |
 
-Counts in this spec (12 documents, 11 templates, 40 examples, 90 locales)
+Counts in this spec (12 documents, 11 templates, 40 examples, 91 locales)
 are verified by the checks listed in [repository.md](repository.md#verification).
