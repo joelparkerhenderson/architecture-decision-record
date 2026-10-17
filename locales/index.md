@@ -80,3 +80,4 @@
 * [Français (Belgique)](fr-be/)
 * [Lëtzebuergesch (Welt)](lb-001/)
 * [Lëtzebuergesch (Lëtzebuerg)](lb-lu/)
+* [ਪੰਜਾਬੀ (ਦੁਨੀਆ)](pa-001/)

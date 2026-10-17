@@ -73,6 +73,10 @@ export const HERO = {
   "tagline": "Virlagen, Beispiller a Guidance fir Architekturdecisiounen opzezeechnen.",
   "translations": "Iwwersetzungen: "
  },
+ "pa-001": {
+  "tagline": "ਆਰਕੀਟੈਕਚਰ ਫੈਸਲਿਆਂ ਨੂੰ ਦਰਜ ਕਰਨ ਲਈ ਟੈਂਪਲੇਟ, ਉਦਾਹਰਨਾਂ ਅਤੇ ਮਾਰਗਦਰਸ਼ਨ।",
+  "translations": "ਅਨੁਵਾਦ: "
+ },
  "mt-001": {
   "tagline": "Mudelli, eżempji, u gwida biex jiġu rreġistrati d-deċiżjonijiet arkitettoniċi.",
   "translations": "Traduzzjonijiet: "
@@ -357,6 +361,7 @@ export const ENDONYMS = {
  "ga-ie": "Gaeilge (Éire)",
  "lb-001": "Lëtzebuergesch",
  "lb-lu": "Lëtzebuergesch (Lëtzebuerg)",
+ "pa-001": "ਪੰਜਾਬੀ",
  "mt-001": "Malti",
  "mt-mt": "Malti (Malta)",
  "lv-001": "Latviešu",
