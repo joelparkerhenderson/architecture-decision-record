@@ -81,3 +81,4 @@
 * [Lëtzebuergesch (Welt)](lb-001/)
 * [Lëtzebuergesch (Lëtzebuerg)](lb-lu/)
 * [ਪੰਜਾਬੀ (ਦੁਨੀਆ)](pa-001/)
+* [فارسی (جهان)](fa-001/)
