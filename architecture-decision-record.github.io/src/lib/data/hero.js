@@ -73,6 +73,10 @@ export const HERO = {
   "tagline": "Virlagen, Beispiller a Guidance fir Architekturdecisiounen opzezeechnen.",
   "translations": "Iwwersetzungen: "
  },
+ "eu-001": {
+  "tagline": "Arkitektura-erabakiak erregistratzeko txantiloiak, adibideak eta gidak.",
+  "translations": "Itzulpenak: "
+ },
  "bh-001": {
   "tagline": "आर्किटेक्चर फैसला दर्ज करे खातिर टेम्पलेट, उदाहरण, आ मार्गदर्शन।",
   "translations": "अनुवाद: "
@@ -373,6 +377,7 @@ export const ENDONYMS = {
  "ga-ie": "Gaeilge (Éire)",
  "lb-001": "Lëtzebuergesch",
  "lb-lu": "Lëtzebuergesch (Lëtzebuerg)",
+ "eu-001": "Euskara",
  "bh-001": "भोजपुरी",
  "jv-001": "Basa Jawa",
  "fa-001": "فارسی",

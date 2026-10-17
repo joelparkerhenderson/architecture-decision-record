@@ -1495,6 +1495,71 @@
   <url><loc>https://architecture-decision-record.github.io/et-ee/naited/sveltekit-raamistik/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/et-ee/naited/tailwind-css/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/et-ee/naited/veebirakenduse-raamistik-koik-kaasas-full-stack-idutooote-jaoks/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/dokumentuak/adr-ak-erabiltzen-hasteko-modua/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/dokumentuak/adr-ak-gitekin-erabiltzen-hasteko-modua/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/dokumentuak/adr-ak-tresnekin-erabiltzen-hasteko-modua/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/dokumentuak/adr-etarako-fitxategi-izenen-konbentzioak/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/dokumentuak/adr-etarako-talde-lanerako-aholkuak/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/dokumentuak/adr-etarako-talde-lanerako-galderak/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/dokumentuak/adr-onak-idazteko-iradokizunak/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/dokumentuak/arkitektura-erabakien-erregistroa-zer-da/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/dokumentuak/aws-adr-prozesua/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/dokumentuak/erabaki-iraunkorrak-lortzeko-jarraibideak/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/dokumentuak/erabakien-iraunkortasun-irizpideak/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/dokumentuak/erabakietarako-fitness-funtzioak-kode-gisa/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/txantiloiak/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/txantiloiak/arc42-ren-erabaki-erregistroaren-txantiloia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/txantiloiak/edgex-en-erabaki-erregistroaren-txantiloia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/txantiloiak/erabaki-tekniko-garrantzitsuetarako-erabaki-erregistroaren-txantiloia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/txantiloiak/eredu-alexandriarrerako-erabaki-erregistroaren-txantiloia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/txantiloiak/gareth-morganen-erabaki-erregistroaren-txantiloia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/txantiloiak/gig-cymru-nhs-wales-en-erabaki-erregistroaren-txantiloia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/txantiloiak/jeff-tyree-eta-art-akermanen-erabaki-erregistroaren-txantiloia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/txantiloiak/madr-proiektuaren-erabaki-erregistroaren-txantiloia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/txantiloiak/michael-nygarden-erabaki-erregistroaren-txantiloia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/txantiloiak/negozio-kasurako-erabaki-erregistroaren-txantiloia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/txantiloiak/planguage-erabiltzen-duen-erabaki-erregistroaren-txantiloia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/amazon-web-services/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/autentikazio-eta-baimenen-aukerak/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/css-markoa/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/datu-base-teknologia-aukeratzea/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/datuak-bistaratzeko-diagrama-liburutegiaren-tresna-sorta-typescript-eta-json-ekin/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/denbora-zigilu-formatua/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/docker-swarm-ontzi-orkestrazioa/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/e2e-probetarako-nabigatzaile-automatizazio-markoa-playwright-edo-selenium/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/etengabeko-integrazioa/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/etxetik-lan-egitea/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/go-programazio-lengoaia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/google-cloud-platform/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/ingurune-aldagaien-konfigurazioa/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/java-programazio-lengoaia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/json-edo-grpc-erabiltzen-duen-api-a/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/konfiantza-handiko-talde-lana/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/kubernetes-ontzi-orkestrazioa/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/lau-eguneko-lan-astea/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/metrikak-monitoreak-alertak/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/microsoft-azure-devops/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/microsoft-azure-hodei-azpiegitura/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/monorepo-edo-multirepo/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/mysql-datu-basea/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/postgresql-datu-basea/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/programazio-kode-editoreak/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/programazio-lengoaiak/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/python-django-markoa/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/python-programazio-lengoaia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/react-front-end-javascript-liburutegia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/ruby-on-rails-markoa/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/rust-programazio-lengoaia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/sekretuen-biltegiratzea/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/snake-case-edo-camelcase-rest-api-rako/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/softwarearen-garapen-arina/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/startup-produktu-baterako-web-aplikazio-marko-osoa/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/svelte-front-end-javascript-liburutegia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/svelte-osagaiak/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/sveltekit-markoa/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/tailwind-css/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/eu-001/adibideak/vue-front-end-javascript-liburutegia/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/fa-001/%D8%A7%D8%B3%D9%86%D8%A7%D8%AF/%D8%AA%D9%88%D8%A7%D8%A8%D8%B9-%D8%AA%D9%86%D8%A7%D8%B3%D8%A8-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B5%D9%85%DB%8C%D9%85%D8%A7%D8%AA-%D8%A8%D9%87-%D8%B9%D9%86%D9%88%D8%A7%D9%86-%DA%A9%D8%AF/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/fa-001/%D8%A7%D8%B3%D9%86%D8%A7%D8%AF/%D8%B1%D9%87%D9%86%D9%85%D9%88%D8%AF%D9%87%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A8%D9%87-%D8%AA%D8%B5%D9%85%DB%8C%D9%85%D8%A7%D8%AA-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/fa-001/%D8%A7%D8%B3%D9%86%D8%A7%D8%AF/%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C-%DA%86%DB%8C%D8%B3%D8%AA/</loc></url>
