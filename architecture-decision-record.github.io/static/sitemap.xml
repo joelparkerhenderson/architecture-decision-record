@@ -2925,6 +2925,71 @@
   <url><loc>https://architecture-decision-record.github.io/ja-jp/%E4%BE%8B/%E8%AA%8D%E8%A8%BC%E3%81%A8%E8%AA%8D%E5%8F%AF%E3%81%AE%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/ja-jp/%E4%BE%8B/%E9%80%B14%E6%97%A5%E5%8B%A4%E5%8B%99/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/ja-jp/%E4%BE%8B/%E9%AB%98%E4%BF%A1%E9%A0%BC%E3%83%81%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/dokumen/apa-iku-cathetan-keputusan-arsitektur/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/dokumen/aturan-jeneng-berkas-kanggo-adr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/dokumen/carane-miwiti-nggunakake-adr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/dokumen/carane-miwiti-nggunakake-adr-nganggo-git/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/dokumen/carane-miwiti-nggunakake-adr-nganggo-piranti/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/dokumen/fungsi-kebugaran-kanggo-keputusan-minangka-kode/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/dokumen/kriteria-kelestarian-keputusan/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/dokumen/pandhuan-kanggo-entuk-keputusan-sing-lestari/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/dokumen/pitakon-gotong-royong-tim-kanggo-adr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/dokumen/pitutur-gotong-royong-tim-kanggo-adr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/dokumen/proses-cathetan-keputusan-arsitektur-aws/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/dokumen/saran-kanggo-nulis-adr-sing-apik/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/cithakan/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/cithakan/cithakan-cathetan-keputusan-kanggo-kasus-bisnis/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/cithakan/cithakan-cathetan-keputusan-kanggo-keputusan-teknis-penting/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/cithakan/cithakan-cathetan-keputusan-kanggo-pola-alexandrian/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/cithakan/cithakan-cathetan-keputusan-nganggo-planguage/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/cithakan/cithakan-cathetan-keputusan-saka-arc42/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/cithakan/cithakan-cathetan-keputusan-saka-edgex/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/cithakan/cithakan-cathetan-keputusan-saka-gareth-morgan/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/cithakan/cithakan-cathetan-keputusan-saka-gig-cymru-nhs-wales/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/cithakan/cithakan-cathetan-keputusan-saka-jeff-tyree-lan-art-akerman/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/cithakan/cithakan-cathetan-keputusan-saka-michael-nygard/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/cithakan/cithakan-cathetan-keputusan-saka-proyek-madr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/amazon-web-services/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/api-nganggo-json-utawa-grpc/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/basa-basa-pamrograman/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/basa-pamrograman-go/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/basa-pamrograman-java/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/basa-pamrograman-python/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/basa-pamrograman-rust/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/basis-data-mysql/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/basis-data-postgresql/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/editor-kode-pamrograman/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/format-cap-wektu/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/framework-aplikasi-web-lengkap-kanggo-produk-startup/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/framework-css/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/framework-otomatisasi-browser-kanggo-uji-e2e-playwright-utawa-selenium/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/framework-python-django/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/framework-ruby-on-rails/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/framework-sveltekit/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/google-cloud-platform/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/gotong-royong-tim-kanthi-kapercayan-dhuwur/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/infrastruktur-cloud-microsoft-azure/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/integrasi-terus-menerus/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/kerja-saka-omah/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/komponen-svelte/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/konfigurasi-variabel-lingkungan/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/metrik-monitor-pangeling/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/microsoft-azure-devops/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/milih-teknologi-basis-data/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/minggu-kerja-patang-dina/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/monorepo-utawa-multirepo/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/orkestrasi-kontainer-docker-swarm/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/orkestrasi-kontainer-kubernetes/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/pangembangan-piranti-lunak-gesit/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/panyimpenan-rahasia/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/pilihan-autentikasi-lan-otorisasi/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/pustaka-javascript-front-end-react/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/pustaka-javascript-front-end-svelte/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/pustaka-javascript-front-end-vue/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/snake-case-utawa-camelcase-kanggo-rest-api/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/tailwind-css/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/jv-001/conto/toolkit-pustaka-grafik-kanggo-visualisasi-data-nganggo-typescript-lan-json/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/ko-001/%EB%AC%B8%EC%84%9C/adr-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/ko-001/%EB%AC%B8%EC%84%9C/adr-%ED%8C%8C%EC%9D%BC-%EC%9D%B4%EB%A6%84-%EA%B7%9C%EC%B9%99/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/ko-001/%EB%AC%B8%EC%84%9C/adr%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%80%EC%9B%8C%ED%81%AC-%EC%A1%B0%EC%96%B8/</loc></url>

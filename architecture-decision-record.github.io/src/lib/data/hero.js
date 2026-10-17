@@ -73,6 +73,10 @@ export const HERO = {
   "tagline": "Virlagen, Beispiller a Guidance fir Architekturdecisiounen opzezeechnen.",
   "translations": "Iwwersetzungen: "
  },
+ "jv-001": {
+  "tagline": "Cithakan, conto, lan pandhuan kanggo nyathet keputusan arsitektur.",
+  "translations": "Terjemahan: "
+ },
  "fa-001": {
   "tagline": "قالب‌ها، نمونه‌ها و راهنما برای ثبت تصمیم‌های معماری.",
   "translations": "ترجمه‌ها: "
@@ -365,6 +369,7 @@ export const ENDONYMS = {
  "ga-ie": "Gaeilge (Éire)",
  "lb-001": "Lëtzebuergesch",
  "lb-lu": "Lëtzebuergesch (Lëtzebuerg)",
+ "jv-001": "Basa Jawa",
  "fa-001": "فارسی",
  "pa-001": "ਪੰਜਾਬੀ",
  "mt-001": "Malti",
