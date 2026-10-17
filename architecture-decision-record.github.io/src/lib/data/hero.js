@@ -73,6 +73,10 @@ export const HERO = {
   "tagline": "Virlagen, Beispiller a Guidance fir Architekturdecisiounen opzezeechnen.",
   "translations": "Iwwersetzungen: "
  },
+ "mr-001": {
+  "tagline": "आर्किटेक्चर निर्णय नोंदवण्यासाठी साचे, उदाहरणे आणि मार्गदर्शक.",
+  "translations": "भाषांतरे: "
+ },
  "ha-001": {
   "tagline": "Samfura, misalai, da jagorori don rubuta shawarwarin gine-gine.",
   "translations": "Fassarori: "
@@ -385,6 +389,7 @@ export const ENDONYMS = {
  "ga-ie": "Gaeilge (Éire)",
  "lb-001": "Lëtzebuergesch",
  "lb-lu": "Lëtzebuergesch (Lëtzebuerg)",
+ "mr-001": "मराठी",
  "ha-001": "Hausa",
  "gu-001": "ગુજરાતી",
  "eu-001": "Euskara",
