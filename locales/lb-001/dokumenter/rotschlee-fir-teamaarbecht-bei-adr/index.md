@@ -1,0 +1,9 @@
+# Rotschléi fir d'Teamaarbecht bei ADR
+
+Wann Dir iwwerleet, Decisiounsopzeechnungen an Ärem Team ze benotzen, hei sinn e puer Rotschléi, déi mir duerch d'Zesummenaarbecht mat ville Teams geléiert hunn.
+
+Dir hutt d'Chance, Är Teamkollegen ze féieren, andeems Dir zesummen iwwer d'"Firwat" schwätzt, amplaz d'"Wat" virzeschreiwen. Zum Beispill sinn Decisiounsopzeechnungen e Wee fir Teams, intelligenter ze denken a besser ze kommunizéieren; Decisiounsopzeechnunge si wäertlos, wann se just eng nodréiglech erzwongen Pabeierfuerderung sinn.
+
+E puer Teams bevirzugen den Numm "Decisiounen" däitlech virun der Ofkierzung "ADR". Wann e puer Teams de Verzeechnesnumm "decisions" benotzen, ass et wéi wann e Luucht usgeet, an d'Team fänkt un, méi Informatioun an d'Verzeechnes ze setzen, wéi Decisioune vu Lieferanten, Planungsdecisiounen, Terminplanungsdecisiounen, asw. All dës Zorte vun Informatioun kënnen dee selwechte Virlag benotzen. Mir stellen d'Hypothees op, datt d'Leit méi séier mat Wierder ("Decisiounen") léieren wéi mat Ofkierzungen ("ADR"), datt d'Leit méi motivéiert sinn, Dokumenter iwwer Aarbecht am Gaang ze schreiwen, wann d'Wuert "Opzeechnung" ewechfält, an datt e puer Entwéckler an e puer Manager d'Wuert "Architektur" net gär hunn.
+
+An der Theorie ass Onverännerbarkeet ideal. An der Praxis huet Verännerbarkeet fir eis Teams besser geschafft. Mir setzen déi nei Informatioun an den bestoenden ADR an, mat engem Datumsstempel an enger Notiz, datt d'Informatioun no der Decisioun ukomm ass. Sou en Usaz féiert zu engem "liewegen Dokument", dat mir all aktualiséiere kënnen. Typesch Aktualiséierunge geschéien, wa mir Informatioun duerch nei Teamkollegen, nei Offeren, reell Resultater aus eiser Notzung, oder nodréiglech Ännerunge vun Drëttpartnere kréien, wéi Fäegkeete vu Lieferanten, Präispläng, Lizenzvereinbarungen, asw.

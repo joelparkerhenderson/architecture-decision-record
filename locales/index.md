@@ -78,3 +78,5 @@
 * [Malti (Dinja)](mt-001/)
 * [Malti (Malta)](mt-mt/)
 * [Français (Belgique)](fr-be/)
+* [Lëtzebuergesch (Welt)](lb-001/)
+* [Lëtzebuergesch (Lëtzebuerg)](lb-lu/)

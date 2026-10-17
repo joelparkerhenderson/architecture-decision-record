@@ -65,6 +65,14 @@ export const HERO = {
   "tagline": "Teimpléid, samplaí, agus treoir chun cinntí ailtireachta a thaifeadadh.",
   "translations": "Aistriúcháin: "
  },
+ "lb-001": {
+  "tagline": "Virlagen, Beispiller a Guidance fir Architekturdecisiounen opzezeechnen.",
+  "translations": "Iwwersetzungen: "
+ },
+ "lb-lu": {
+  "tagline": "Virlagen, Beispiller a Guidance fir Architekturdecisiounen opzezeechnen.",
+  "translations": "Iwwersetzungen: "
+ },
  "mt-001": {
   "tagline": "Mudelli, eżempji, u gwida biex jiġu rreġistrati d-deċiżjonijiet arkitettoniċi.",
   "translations": "Traduzzjonijiet: "
@@ -347,6 +355,8 @@ export const ENDONYMS = {
  "lt-lt": "Lietuvių (Lietuva)",
  "ga-001": "Gaeilge",
  "ga-ie": "Gaeilge (Éire)",
+ "lb-001": "Lëtzebuergesch",
+ "lb-lu": "Lëtzebuergesch (Lëtzebuerg)",
  "mt-001": "Malti",
  "mt-mt": "Malti (Malta)",
  "lv-001": "Latviešu",
