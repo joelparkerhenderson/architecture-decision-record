@@ -73,6 +73,10 @@ export const HERO = {
   "tagline": "Virlagen, Beispiller a Guidance fir Architekturdecisiounen opzezeechnen.",
   "translations": "Iwwersetzungen: "
  },
+ "ta-001": {
+  "tagline": "கட்டமைப்பு முடிவுகளைப் பதிவு செய்வதற்கான வார்ப்புருக்கள், எடுத்துக்காட்டுகள், வழிகாட்டிகள்.",
+  "translations": "மொழிபெயர்ப்புகள்: "
+ },
  "mr-001": {
   "tagline": "आर्किटेक्चर निर्णय नोंदवण्यासाठी साचे, उदाहरणे आणि मार्गदर्शक.",
   "translations": "भाषांतरे: "
@@ -389,6 +393,7 @@ export const ENDONYMS = {
  "ga-ie": "Gaeilge (Éire)",
  "lb-001": "Lëtzebuergesch",
  "lb-lu": "Lëtzebuergesch (Lëtzebuerg)",
+ "ta-001": "தமிழ்",
  "mr-001": "मराठी",
  "ha-001": "Hausa",
  "gu-001": "ગુજરાતી",
