@@ -77,5 +77,5 @@
 ## Optional
 
 - [Skills](https://github.com/architecture-decision-record/architecture-decision-record/tree/main/skills): Claude Code skills for writing and maintaining ADRs
-- [Translations](https://github.com/architecture-decision-record/architecture-decision-record/tree/main/locales): 89 language picker entries; translated documents, examples, and templates
+- [Translations](https://github.com/architecture-decision-record/architecture-decision-record/tree/main/locales): 90 language picker entries; translated documents, examples, and templates
 - [Source repository](https://github.com/architecture-decision-record/architecture-decision-record): README, specification (spec/), agent guides (AGENTS.md, AGENTS/)
