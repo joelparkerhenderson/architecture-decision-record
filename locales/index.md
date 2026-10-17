@@ -75,3 +75,5 @@
 * [Latviešu (Latvija)](lv-lv/)
 * [Gaeilge (an domhan)](ga-001/)
 * [Gaeilge (Éire)](ga-ie/)
+* [Malti (Dinja)](mt-001/)
+* [Malti (Malta)](mt-mt/)

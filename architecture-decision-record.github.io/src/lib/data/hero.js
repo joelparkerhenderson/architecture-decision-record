@@ -65,6 +65,14 @@ export const HERO = {
   "tagline": "Teimpléid, samplaí, agus treoir chun cinntí ailtireachta a thaifeadadh.",
   "translations": "Aistriúcháin: "
  },
+ "mt-001": {
+  "tagline": "Mudelli, eżempji, u gwida biex jiġu rreġistrati d-deċiżjonijiet arkitettoniċi.",
+  "translations": "Traduzzjonijiet: "
+ },
+ "mt-mt": {
+  "tagline": "Mudelli, eżempji, u gwida biex jiġu rreġistrati d-deċiżjonijiet arkitettoniċi.",
+  "translations": "Traduzzjonijiet: "
+ },
  "lv-001": {
   "tagline": "Veidnes, piemēri un norādījumi arhitektūras lēmumu fiksēšanai.",
   "translations": "Tulkojumi: "
@@ -335,6 +343,8 @@ export const ENDONYMS = {
  "lt-lt": "Lietuvių (Lietuva)",
  "ga-001": "Gaeilge",
  "ga-ie": "Gaeilge (Éire)",
+ "mt-001": "Malti",
+ "mt-mt": "Malti (Malta)",
  "lv-001": "Latviešu",
  "lv-lv": "Latviešu (Latvija)",
  "sl-001": "Slovenščina",
