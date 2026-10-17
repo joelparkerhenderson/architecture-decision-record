@@ -557,6 +557,8 @@ Examples:
 
 - [Repository of Architecture Decision Records made for the Arachne Framework](https://github.com/arachne-framework/architecture)
 
+- [Agent Attribution Practice - architecture decision records on accountability distribution in autonomous AI agents](https://github.com/shimo4228/agent-attribution-practice)
+
 Videos:
 
 - [An introduction to arc42 with Savvas Kleanthous](https://www.youtube.com/watch?v=V5clR8c6D7o)
