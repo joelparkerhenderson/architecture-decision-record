@@ -77,3 +77,4 @@
 * [Gaeilge (Éire)](ga-ie/)
 * [Malti (Dinja)](mt-001/)
 * [Malti (Malta)](mt-mt/)
+* [Français (Belgique)](fr-be/)

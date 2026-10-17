@@ -1625,6 +1625,71 @@
   <url><loc>https://architecture-decision-record.github.io/fr-001/exemples/travail-d-%C3%A9quipe-%C3%A0-haut-niveau-de-confiance/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/fr-001/exemples/t%C3%A9l%C3%A9travail/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/fr-001/exemples/%C3%A9diteurs-de-code-de-programmation/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/documents/comment-commencer-%C3%A0-utiliser-les-adr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/documents/comment-commencer-%C3%A0-utiliser-les-adr-avec-des-outils/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/documents/comment-commencer-%C3%A0-utiliser-les-adr-avec-git/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/documents/conseils-de-travail-d-%C3%A9quipe-pour-les-adr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/documents/conseils-pour-r%C3%A9diger-de-bons-adr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/documents/conventions-de-nommage-des-fichiers/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/documents/crit%C3%A8res-de-durabilit%C3%A9-des-d%C3%A9cisions/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/documents/fonctions-d-aptitude-pour-des-d%C3%A9cisions-sous-forme-de-code/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/documents/lignes-directrices-pour-des-d%C3%A9cisions-durables/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/documents/processus-des-enregistrements-de-d%C3%A9cision-d-architecture-d-aws/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/documents/qu-est-ce-qu-un-enregistrement-de-d%C3%A9cision-d-architecture/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/documents/questions-de-travail-d-%C3%A9quipe-pour-les-adr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/mod%C3%A8les/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/mod%C3%A8les/mod%C3%A8le-d-enregistrement-de-d%C3%A9cision-avec-planguage/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/mod%C3%A8les/mod%C3%A8le-d-enregistrement-de-d%C3%A9cision-d-arc42/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/mod%C3%A8les/mod%C3%A8le-d-enregistrement-de-d%C3%A9cision-d-edgex/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/mod%C3%A8les/mod%C3%A8le-d-enregistrement-de-d%C3%A9cision-de-gareth-morgan/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/mod%C3%A8les/mod%C3%A8le-d-enregistrement-de-d%C3%A9cision-de-gig-cymru-nhs-wales/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/mod%C3%A8les/mod%C3%A8le-d-enregistrement-de-d%C3%A9cision-de-jeff-tyree-et-art-akerman/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/mod%C3%A8les/mod%C3%A8le-d-enregistrement-de-d%C3%A9cision-de-michael-nygard/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/mod%C3%A8les/mod%C3%A8le-d-enregistrement-de-d%C3%A9cision-du-projet-madr/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/mod%C3%A8les/mod%C3%A8le-d-enregistrement-de-d%C3%A9cision-pour-le-patron-alexandrin/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/mod%C3%A8les/mod%C3%A8le-d-enregistrement-de-d%C3%A9cision-pour-les-d%C3%A9cisions-techniques-importantes/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/mod%C3%A8les/mod%C3%A8le-d-enregistrement-de-d%C3%A9cision-pour-une-analyse-de-rentabilit%C3%A9/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/amazon-web-services/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/api-avec-json-ou-grpc/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/base-de-donn%C3%A9es-mysql/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/base-de-donn%C3%A9es-postgresql/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/biblioth%C3%A8que-javascript-front-end-react/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/biblioth%C3%A8que-javascript-front-end-svelte/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/biblioth%C3%A8que-javascript-front-end-vue/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/bo%C3%AEte-%C3%A0-outils-de-biblioth%C3%A8ques-de-graphiques-pour-la-visualisation-de-donn%C3%A9es-avec-typescript-et-json/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/choix-d-une-technologie-de-base-de-donn%C3%A9es/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/composants-svelte/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/configuration-par-variables-d-environnement/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/d%C3%A9veloppement-logiciel-agile/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/format-d-horodatage/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/framework-css/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/framework-d-applications-web-tout-inclus-full-stack-pour-un-produit-de-startup/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/framework-d-automatisation-de-navigateur-pour-les-tests-e2e-playwright-ou-selenium/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/framework-python-django/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/framework-ruby-on-rails/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/framework-sveltekit/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/google-cloud-platform/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/infrastructure-cloud-microsoft-azure/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/int%C3%A9gration-continue/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/langage-de-programmation-go/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/langage-de-programmation-java/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/langage-de-programmation-python/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/langage-de-programmation-rust/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/langages-de-programmation/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/microsoft-azure-devops/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/monorepo-ou-multirepo/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/m%C3%A9triques-moniteurs-alertes/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/options-d-authentification-et-d-autorisation/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/orchestration-de-conteneurs-avec-docker-swarm/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/orchestration-de-conteneurs-avec-kubernetes/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/semaine-de-travail-de-4-jours/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/snake-case-ou-camelcase-pour-une-api-rest/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/stockage-des-secrets/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/tailwind-css/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/travail-d-%C3%A9quipe-%C3%A0-haut-niveau-de-confiance/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/t%C3%A9l%C3%A9travail/</loc></url>
+  <url><loc>https://architecture-decision-record.github.io/fr-be/exemples/%C3%A9diteurs-de-code-de-programmation/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/fr-fr/documents/comment-commencer-%C3%A0-utiliser-les-adr/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/fr-fr/documents/comment-commencer-%C3%A0-utiliser-les-adr-avec-des-outils/</loc></url>
   <url><loc>https://architecture-decision-record.github.io/fr-fr/documents/comment-commencer-%C3%A0-utiliser-les-adr-avec-git/</loc></url>

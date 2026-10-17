@@ -189,6 +189,10 @@ export const HERO = {
   "tagline": "Modèles, exemples et conseils pour consigner les décisions d'architecture.",
   "translations": "Traductions: "
  },
+ "fr-be": {
+  "tagline": "Modèles, exemples et conseils pour consigner les décisions d'architecture.",
+  "translations": "Traductions: "
+ },
  "fr-lu": {
   "tagline": "Modèles, exemples et conseils pour consigner les décisions d'architecture.",
   "translations": "Traductions: "
@@ -376,6 +380,7 @@ export const ENDONYMS = {
  "fi-001": "Suomi",
  "fi-fi": "Suomi (Suomi)",
  "fr-001": "Français",
+ "fr-be": "Français (Belgique)",
  "fr-lu": "Français (Luxembourg)",
  "fr-fr": "Français (France)",
  "hi-001": "हिन्दी",

@@ -50,6 +50,7 @@ const cases = [
 	[['ga-IE'], '/ga-ie/'],
 	[['mt'], '/mt-001/'],
 	[['mt-MT'], '/mt-mt/'],
+	[['fr-BE'], '/fr-be/'],
 	[['lv'], '/lv-001/'],
 	[['lv-LV'], '/lv-lv/'],
 	[['sl'], '/sl-001/'],

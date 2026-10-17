@@ -1,0 +1,9 @@
+# Conseils de travail d’équipe pour les ADR
+
+Si vous envisagez d’utiliser des enregistrements de décision avec votre équipe, voici quelques conseils que nous avons appris en travaillant avec de nombreuses équipes.
+
+Vous avez l’occasion de guider vos coéquipiers en discutant ensemble du « pourquoi » plutôt qu’en imposant le « quoi ». Par exemple, les enregistrements de décision sont un moyen pour les équipes de mieux réfléchir et de mieux communiquer ; ils n’ont aucune valeur s’ils ne sont qu’une formalité administrative imposée après coup.
+
+Certaines équipes préfèrent de loin le nom « décisions » à l’abréviation « ADR ». Lorsque certaines équipes utilisent « decisions » comme nom de répertoire, c’est comme si une ampoule s’allumait, et l’équipe se met à y déposer davantage d’informations, comme des décisions relatives aux fournisseurs, à la planification, au calendrier, etc. Tous ces types d’information peuvent utiliser le même modèle. Notre hypothèse est que les gens apprennent plus vite avec des mots (« décisions ») qu’avec des abréviations (« ADR »), qu’ils sont plus motivés pour rédiger des documents de travail en cours lorsque le mot « enregistrement » est retiré, et aussi que certains développeurs et certains managers n’aiment pas le mot « architecture ».
+
+En théorie, l’immuabilité est idéale. En pratique, la mutabilité a mieux fonctionné pour nos équipes. Nous insérons les nouvelles informations dans l’ADR existant, avec un horodatage et une note précisant que l’information est arrivée après la décision. Ce type d’approche mène à un « document vivant » que nous pouvons tous mettre à jour. Les mises à jour typiques surviennent lorsque nous recevons des informations grâce à de nouveaux coéquipiers, à de nouvelles offres, aux résultats concrets de nos usages, ou après des changements ultérieurs chez des tiers, tels que les capacités des fournisseurs, les formules tarifaires, les contrats de licence, etc.
