@@ -545,6 +545,8 @@ Tools:
 
 - [kgai - append-only decision log for AI coding agents, a machine-readable companion to ADR files](https://github.com/kgaidev/kgai)
 
+- [Docflow - ADR-driven documentation workflow skills for AI coding agents that scaffold an ADR catalogue, plan queue, and AGENTS.md conventions into a repo](https://github.com/EvolveHQ/docflow)
+
 Company-Specific Guidance:
 
 - [Amazon: AWS Prescriptive Guidance: ADR Process](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/adr-process.html)
