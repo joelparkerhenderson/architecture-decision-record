@@ -7,7 +7,7 @@
     "documents": 12,
     "templates": 11,
     "examples": 40,
-    "locales": 87
+    "locales": 88
   },
   "sections": {
     "documents": [
@@ -281,6 +281,7 @@
     "ar_001",
     "bg_001",
     "bg_BG",
+    "bh_001",
     "bn_001",
     "cs_001",
     "cs_CZ",
